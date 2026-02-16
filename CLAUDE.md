@@ -43,10 +43,11 @@ LREC2026/
 ## Workflow & Conventions
 
 ### Puzzle Conversion
-- Each conversion should be a **table with numbers and letters** (no shuffled versions needed from converters).
+- Each conversion should have a **single combined Match-Up table** with numbered items on one side and uppercase lettered items (A, B, C, …) on the other. **Do not** split data into a separate context table and match-up table — everything goes in one table.
+- The single table should include **both** the context (parallel data / reference examples) from the original RS puzzle **and** the questions + solutions. Number items sequentially (1, 2, 3, …) and letter them (A, B, C, … Z, AA, AB, … if >26 items).
 - If a Rosetta Stone puzzle **cannot** be meaningfully converted, create a short file noting why (see Yoda example).
 - Not all questions from a Rosetta Stone puzzle need to be converted — use judgment (see Nhanda example).
-- For convertible questions, use **both the context and the questions + solutions** as inputs.
+- Introductory text, linguistic notes, and reference paradigm tables (e.g., pronoun charts, suffix lists) should be kept in the Context section as explanatory text — only the actual language–translation pairs go into the Match-Up table.
 - Neh handles shuffling/randomization and final formatting after conversions are submitted.
 
 ### File Naming
@@ -77,9 +78,10 @@ A Match-Up puzzle presents two unordered lists (e.g., phrases in Language A and 
 The detailed procedure is in the paper. In brief:
 1. Take the context (parallel data) from the Rosetta Stone puzzle.
 2. Take the questions and their solutions.
-3. Combine these into a Match-Up table with numbered items on one side and lettered items on the other.
-4. Some RS questions don't convert well (e.g., questions asking for grammatical explanations rather than translations). Skip those questions.
-5. If the entire puzzle doesn't lend itself to conversion (e.g., Yodaspeak — not truly a RS puzzle), mark it as non-convertible with a reason.
+3. Combine **all** of these into a **single** Match-Up table with numbered items (1, 2, 3, …) on one side and uppercase lettered items (A, B, C, …) on the other. Context pairs and question/solution pairs should all be in the same table — do not use separate tables.
+4. For multi-column context data (e.g., paradigm tables with 3+ columns), flatten each entry into individual pairs for the Match-Up table. Keep the original multi-column table in the Context section only if it serves as a reference paradigm (e.g., pronoun charts, suffix inventories).
+5. Some RS questions don't convert well (e.g., questions asking for grammatical explanations rather than translations). Skip those questions.
+6. If the entire puzzle doesn't lend itself to conversion (e.g., Yodaspeak — not truly a RS puzzle), mark it as non-convertible with a reason.
 
 ### Google Drive Reference
 The shared Google Drive folder contains:
@@ -102,7 +104,9 @@ Drive link: https://drive.google.com/drive/folders/1_t2nOZvNKS-vgIwJjZwATzPb-qIC
 7. For paper edits, always work on the `paper-edits` branch and note changes in commit messages.
 
 ### Quality checks before committing:
+- Each conversion file should have exactly **one** Match-Up table (no separate context table)
 - Conversion tables should have matching counts on both sides (N numbered items, N lettered items)
+- Letters should be uppercase (A, B, C, … Z, AA, AB, … for tables with >26 items)
 - No duplicate entries in conversion tables
 - Non-convertible puzzles must have a documented reason
 - All file names follow the naming convention

@@ -14,42 +14,55 @@ aglng = little finger (1, 19), agnyobo rolyobo = ring finger (2, 20), woloml = m
 
 Attributive use: In Korowai, suffix -anop and place after the noun. In Haruai, no special marking.
 
-| English | Korowai | Haruai | English |
-|---------|---------|--------|---------|
-| 3 wrists | gedun pinggupanop | ragpb aglng | 1 shoulder |
-| 5 shoulders | main wayoanop | momd agnyobo rolyobo | 2 thumbs |
-| 6 thumbs | wayo gedunanop | mj konyo ngb | 4 forearms |
-| 8 ears | khotokhal bonggupanop | momd yngosw | 6 thumbs |
-| 9 index fingers | wayafuel labulanop | yngosw mj | 7 bracelets |
-| 10 index fingers | wayafuel mainanop | yngosw ragpb | 10 bracelets |
-| 12 heads | khabean khotokhalanop | aglng mol | 12 little fingers |
-| 13 heads | khabean khabéananop | ragpb gadloy | 13 shoulders |
-| 16 shoulders | main memainanop | gadloy ragpb | 14 collar bones |
-| 17 elbows | bonggup mentabulanop | mol amnyab | 16 holes |
-| 18 ears | khotokhal membonggupanop | amnyab mj | 17 elbows |
-| 19 middle fingers | pinggup mentafolanop | gadloy aglng | 19 collar bones |
-| 22 thumbs | wayo mewayafuelanop | mj agnyobo rolyobo | 20 forearms |
-| 23 thumbs | wayo menpinggupanop | mol woloml | 21 holes |
-| — | — | gadloy konyo ngb | 22 collar bones |
-| 25 ears | khotokhal mensenananop | — | — |
-
 ## Match-Up Table
 
 | # | Expression | Letter | English |
 |---|-----------|--------|---------|
-| 1 | senan (Korowai) | a | little finger |
-| 2 | mewayoanop (Korowai) | b | 21 (numeral) |
-| 3 | wayafuel wayafuelanop (Korowai) | c | 4 index fingers |
-| 4 | konyo ngb (Haruai) | d | index finger |
-| 5 | momd (Haruai) | e | 5 (numeral) |
-| 6 | agnyobo rolyobo momd (Haruai) | f | 23 ring fingers |
-| 7 | lafol (Korowai) | g | forearm |
-| 8 | agnyobo rolyobo (Haruai) | h | ring finger / 2 / 20 |
-| 9 | wayo mengedunanop (Korowai) | i | 20 thumbs |
-| 10 | momd (Haruai) | j | thumb(s) / 5 / 23 |
-| 11 | yngosw yngosw (Haruai) | k | 6 bracelets / 18 bracelets / 24 bracelets |
+| 1 | gedun pinggupanop (Korowai) | A | 3 wrists |
+| 2 | ragpb aglng (Haruai) | B | 1 shoulder |
+| 3 | main wayoanop (Korowai) | C | 5 shoulders |
+| 4 | momd agnyobo rolyobo (Haruai) | D | 2 thumbs |
+| 5 | wayo gedunanop (Korowai) | E | 6 thumbs |
+| 6 | mj konyo ngb (Haruai) | F | 4 forearms |
+| 7 | khotokhal bonggupanop (Korowai) | G | 8 ears |
+| 8 | momd yngosw (Haruai) | H | 6 thumbs |
+| 9 | wayafuel labulanop (Korowai) | I | 9 index fingers |
+| 10 | yngosw mj (Haruai) | J | 7 bracelets |
+| 11 | wayafuel mainanop (Korowai) | K | 10 index fingers |
+| 12 | yngosw ragpb (Haruai) | L | 10 bracelets |
+| 13 | khabean khotokhalanop (Korowai) | M | 12 heads |
+| 14 | aglng mol (Haruai) | N | 12 little fingers |
+| 15 | khabean khabéananop (Korowai) | O | 13 heads |
+| 16 | ragpb gadloy (Haruai) | P | 13 shoulders |
+| 17 | main memainanop (Korowai) | Q | 16 shoulders |
+| 18 | gadloy ragpb (Haruai) | R | 14 collar bones |
+| 19 | bonggup mentabulanop (Korowai) | S | 17 elbows |
+| 20 | mol amnyab (Haruai) | T | 16 holes |
+| 21 | khotokhal membonggupanop (Korowai) | U | 18 ears |
+| 22 | amnyab mj (Haruai) | V | 17 elbows |
+| 23 | pinggup mentafolanop (Korowai) | W | 19 middle fingers |
+| 24 | gadloy aglng (Haruai) | X | 19 collar bones |
+| 25 | wayo mewayafuelanop (Korowai) | Y | 22 thumbs |
+| 26 | mj agnyobo rolyobo (Haruai) | Z | 20 forearms |
+| 27 | wayo menpinggupanop (Korowai) | AA | 23 thumbs |
+| 28 | mol woloml (Haruai) | AB | 21 holes |
+| 29 | gadloy konyo ngb (Haruai) | AC | 22 collar bones |
+| 30 | khotokhal mensenananop (Korowai) | AD | 25 ears |
+| 31 | senan (Korowai) | AE | little finger |
+| 32 | mewayoanop (Korowai) | AF | 21 (numeral) |
+| 33 | wayafuel wayafuelanop (Korowai) | AG | 4 index fingers |
+| 34 | konyo ngb (Haruai) | AH | index finger |
+| 35 | momd (Haruai) | AI | 5 (numeral) |
+| 36 | agnyobo rolyobo momd (Haruai) | AJ | 23 ring fingers |
+| 37 | lafol (Korowai) | AK | forearm |
+| 38 | agnyobo rolyobo (Haruai) | AL | ring finger / 2 / 20 |
+| 39 | wayo mengedunanop (Korowai) | AM | 20 thumbs |
+| 40 | momd (Haruai) | AN | thumb(s) / 5 / 23 |
+| 41 | yngosw yngosw (Haruai) | AO | 6 bracelets / 18 bracelets / 24 bracelets |
 
 ## Notes
-- Converted from Q 7.1 (translate into Korowai: little finger, 21, 4 index fingers), Q 7.2 (translate into Haruai: index finger, 5, 23 ring fingers), and Q 7.3 (translate into English: 5 items). All 11 items combined.
+- The context and match-up tables have been combined into a single Match-Up table with 41 items (30 from context, 11 from the original match-up).
+- Items 1–30 are from the original context table: each non-blank Korowai or Haruai expression is paired with its English meaning, with the language label in parentheses.
+- Items 31–41 are from the original match-up (Q 7.1, Q 7.2, Q 7.3), combining translations into Korowai, Haruai, and English.
 - The Haruai system allows ambiguity (e.g., momd can mean 5 or 23; agnyobo rolyobo can mean ring finger, 2, or 20). This is noted in the English column where multiple interpretations exist.
 - This is a numeral system puzzle (tagged "Nu"), which works well as Match-Up because it pairs expressions with their numeric/body-part meanings.
