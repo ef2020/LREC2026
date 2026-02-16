@@ -1,0 +1,195 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Problem 6. Māori for the beach (15 marks) 
+Māori is the indigenous language of New Zealand and is one of the official languages of that country, 
+spoken by about 4% of the population. It is a Polynesian language like many of the languages spoken 
+in the Pacific area.  
+Here are some examples. Fill cells 1-12. (NB ‘ā’ and ‘ō’ are long vowels; the length matters.) 
+Māori 
+English 
+Ka moe au ki tātahi. 
+I will sleep at the beach. 
+Kua kite rātou i Te Maioro Nui Whakaharahara 
+o Haina.  
+They have seen the Great Wall of China. 
+Ka patu koe i te pōro. 
+You will hit the ball. 
+Kua haere au ki te hui. 
+I have gone to the meeting. 
+I patua te taramu e te tama. 
+The drum was hit by the boy. 
+Kāore au e haere ki te marae. 
+I will not go to the courtyard. 
+I korerotia ngā kupu e te tama. 
+The words were spoken by the boy. 
+Kāore te whare i hangaia e Bob.  
+The house was not built by Bob. 
+I patu Bob i te taramu. 
+Bob hit the drum. 
+Kua mahia te mahi e au. 
+The work has been done by me. 
+I whāia au e te pūru.  
+I was chased by the bull. 
+Nā te kōtiro te taramu i patu. 
+The girl (emphatic) hit the drum. 
+Mā te wahine ngā pereti e horoi. 
+The woman (emphatic) will wash the plates. 
+Ka haere rātou ki tātahi. 
+1 
+ 
+Kua patu au i te pōro. 
+2 
+ 
+I hangaia te whare e Bob. 
+3 
+ 
+Nā te tama te kōtiro i kōrero. 
+4 
+ 
+Mā te pūru ngā tama e whai. 
+5 
+ 
+Kāore au i haere ki te marae. 
+6 
+7 
+ 
+ They have slept at the meeting. 
+8 
+ 
+ You will go to the Great Wall of China. 
+9 
+ 
+ I will not sleep at the beach. 
+10 
+ 
+ The bull has been washed by you. 
+11 
+ 
+  The boy did the work. 
+12 
+ 
+  The woman went to the house. 
+ 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Solution and marking. 
+Scoring   (max. 49) 
+ 
+1-6: 2 points for each correct sentence. (max. 12) 
+o accept just underlining or just ‘emphatic’ (or even ‘empathetic’!) in #4 and #5. 
+o Ignore minor variations e.g. didn’t for did not. 
+ 
+7-12: 1 point for each correct word.) (max. 37) 
+o Treat ‘Great Wall of China’ as a single word. 
+o Ignore vowel length, e.g. a ~ ā. 
+ 
+Score positively – 1 for each target word, ignore extra non-target words. 
+o But in Māori insist on correct affixes and order;  
+ 
+if A … B should be B … A, accept A but not B. 
+o Insist on correct number (singular/plural) and tense/aspect in English. 
+o Accept an English noun only if its grammatical function is right. 
+o Reject active-passive exchanges even if the meaning is the same. 
+o But accept minor copying errors e.g. liburua ~ libura 
+ 
+Score generously – if different scores are possible, choose the highest. 
+ 
+Māori 
+English 
+points 
+Ka haere rātou ki tātahi. 
+1 They will go to the beach. [not: … go and see …] 
+2 
+Kua patu au i te pōro. 
+2 I have hit the ball 
+2 
+I hangaia te whare e Bob. 
+3 The house was built by Bob 
+2 
+Nā te tama te kōtiro i kōrero. 
+4 The boy (emphatic) spoke to the girl 
+2 
+Mā te pūru ngā tama e whai. 
+5 The bull (emphatic) will chase the boys 
+2 
+Kāore au i haere ki te marae. 
+6 I did not go to the courtyard 
+2 
+7 Kua moe rātou ki te hui 
+ They have slept at the meeting. 
+6 
+8 Ka haere koe ki Te Maioro Nui 
+Whakaharahara o Haina 
+ You will go to the Great Wall of China. 
+5 
+9 Kāore au e moe ki tātahi 
+ I will not sleep at the beach. 
+6 
+10 Kua horoia te pūru e koe 
+ The bull has been washed by you. 
+6 
+11 Nā te tama te mahi i mahi 
+  The boy did the work. 
+7 
+12 I haere te wahine ki te whare 
+  The woman went to the house. 
+7 
+ 
+1 They will go to the beach. [not: … go and 
+see …] 
+2 
+7 Kua moe rātou ki te hui 
+6 
+2 I have hit the ball 
+2 
+8 Ka haere koe ki Te Maioro Nui 
+Whakaharahara o Haina 
+5 
+3 The house was built by Bob 
+2 
+9 Kāore au e moe ki tātahi 
+6 
+4 The boy (emphatic) spoke to the girl 
+2 
+10 Kua horoia te pūru e koe 
+6 
+5 The bull (emphatic) will chase the boys 
+2 
+11 Nā te tama te mahi i mahi 
+7 
+6 I did not go to the courtyard 
+2 
+12 I haere te wahine ki te whare 
+7 
+ 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Commentary 
+This is all about syntax except for one small detail about morphology.  
+1. Basic sentence structure is Tense + Verb + Subject + X, where  
+a. Tense is ka/i/kuo for future/past/perfect 
+b. X is anything else. 
+2. But X may also be negative (kāore). In that case, the structure is Neg + Subject + Tense + 
+Verb + X, where Tense is e/i for future/past. 
+3. ‘The’ = te/ngā for for singular/plural  
+4. In ‘emphatic’ sentences, the structure is Tense-1 + Subject + X + Tense-2 + Verb*, where 
+a. Tense-1 is mā/nā for future/past  
+b. Tense-2 is e/i  for future/past  (agreeing with Tense-1) 
+c. Verb* is a special form of the normal verb 
+5. Verb* is a reduced version of the verb’s normal form: 
+a. horoi < horoia 
+b. whai < whaia 
+c. kōrero < korerotia   
+6. Transitive sentences combine an active Agent with an inactive Patient:  
+a. Basic sentences: Agent = Subject, Patient = X, introduced by i.  
+b. Passive sentences: Patient = Subject, Agent = X, introduced by e.  
+c. NB the verb forms are the same, unlike English.  

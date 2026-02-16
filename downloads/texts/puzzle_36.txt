@@ -1,0 +1,143 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2018                                
+ 
+Problem 1. (In)definitely Romanian (5 marks) 
+Romanian is spoken by about 26 million people in Romania and Moldova, and (as its 
+name suggests)  it is descended from Latin (the language of Rome). How does Romanian 
+say ‘a’ and ‘the’? Use these examples to find out, and fill in the blanks (marked with ‘?’) 
+in the table. Note that a and ă are pronounced differently and that the difference 
+matters. 
+biletul 
+the ticket 
+un bilet 
+a ticket 
+băiatul 
+the boy 
+un băiat 
+? 
+fata 
+the girl 
+o fată 
+a girl 
+franzela 
+the bread roll 
+o franzelă 
+? 
+leguma 
+the vegetable 
+? 
+a vegetable 
+? 
+the pencil 
+un creion 
+a pencil 
+cartea 
+the book 
+o carte 
+? 
+? 
+the love 
+o dragoste 
+a love 
+casă 
+house 
+? 
+a house 
+? 
+the house 
+prieten 
+friend 
+? 
+the friend 
+? 
+a friend 
+ 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2018                                
+ 
+Solution and marking. 
+Scoring   (max 20) 
+ 
+2 points for each correct cell  
+ 
+1 point with one wrong letter – but not if this is word-final a or ă 
+ 
+biletul 
+the ticket 
+un bilet 
+a ticket 
+băiatul 
+the boy 
+un băiat 
+a boy 
+fata 
+the girl 
+o fată 
+a girl 
+franzela 
+the bread roll 
+o franzelă 
+a bread roll 
+leguma 
+the vegetable 
+o legumă 
+a vegetable 
+creionul 
+the pencil 
+un creion 
+a pencil 
+cartea 
+the book 
+o carte 
+a book 
+dragostea 
+the love 
+o dragoste 
+a love 
+casă 
+house 
+o casă 
+a house 
+casa 
+the house 
+prieten 
+friend 
+prietenul 
+the friend 
+un prieten 
+a friend 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2018                                
+ 
+Commentary 
+The point of this problem is to analyse the area of Romanian grammar that deals with definite and indefinite 
+articles. As in other Romance (descended from Latin) languages, the form of the article depends on the 
+noun to which it is attached, but unlike other such languages, the definite article appears as a suffix on the 
+noun (a feature that it shares with neighbouring Balkan languages such as Bulgarian).  
+The nouns in this exercise fall into two groups: 
+1. masculine nouns, which all end in a consonant. 
+2. feminine nouns, which end in e or ă. 
+(There is actually a third gender, ‘neuter’, but this isn’t represented here.) Since the genders can also be 
+identified by their last letter, competitors don’t need to recognise genders; indeed, the last two words 
+require them to classify a word solely on the basis of its form. 
+ 
+class 1 
+class 2 
+indefinite  
+un  
+o 
+definite 
+-ul 
+-a 
+ 
+The only complication is that when –a is added after ă the latter disappears, leaving just –a.  
+ 

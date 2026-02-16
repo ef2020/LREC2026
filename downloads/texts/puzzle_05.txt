@@ -1,0 +1,196 @@
+
+=== PAGE 1 ===
+2025 – Round 2
+Problem 1. Nancowry (15 marks)
+Nancowry (also known as Mūöt) is an Austronesian language spoken by around 950 people in the
+Nicobar Islands, India, specifically on the islands of Nancowry, Katchal and Kamorta.
+Below are some words in Nancowry with possible English translations, given in a phonetic tran-
+scription. Note that ɯ, ə, ɛ, ia, ua, ɯa, uã, ã, and ɛ̃ are vowels; ŋ, y, and ʔ are consonants.
+calɯak
+to swallow
+fanue
+string
+hakuãt
+to hang (something) up
+haneh
+an aeroplane
+harac
+to heat (something)
+hata
+to level (something) out
+hateha
+something that is floated
+haʔɛ̃h
+to approach (something)
+hinkuãt
+a hook (e.g. on a wall)
+humʔɛ̃h
+to cause (something) to approach
+kanap
+a tooth
+kapa
+something that is bitten
+kasɯ
+to trap (something)
+kintal
+a saw
+pahuaʔ
+to fear, be scared
+paloʔ
+loose
+pin
+thick
+pumhuaʔa
+a scared person
+pumloʔ
+to loosen (something)
+rac
+hot
+ranɯk
+a vehicle
+rɯk
+to arrive
+sahuaŋ
+cool
+saput
+to turn (oneself) over
+sinhuaŋ
+(some) ice
+sumhuaŋ
+to cool (something) down
+ta
+level, flat
+teh
+to float
+tikoʔa
+something that is prodded
+tinkoʔ
+a prodding stick
+tiyəh
+new
+top
+to drink (something)
+tumyəh
+to renew (something)
+ʔãŋ
+to cook (specifically, meat)
+ʔãŋa
+(some) cooked meat
+ʔinttət
+a wipe
+ʔittət
+to wipe (something)
+fue
+(a)
+fuea
+(b)
+hapin
+(c)
+kuãt
+(d)
+harɯk
+(e)
+(f)
+a beverage
+(g)
+a cauldron
+(h)
+a cup
+(i)
+to float (something)
+(j)
+to fly
+(k)
+to make (something) prod
+(l)
+near
+(m)
+to saw (e.g. wood)
+(n)
+something loose
+(o)
+a throat
+(p)
+a trap
+(q)
+to turn (something) over
+Q 1.1 Fill in the gaps (a) – (q). In exactly one answer, you should be unable to deduce a particular
+letter. In this case, replace it with an X, e.g. “anXwer”.
+Q 1.2 Below are four Nancowry words and their English translations in a random order:
+1.
+kahay
+q.
+to feel empty (in the heart)
+2.
+kumfec
+r.
+a file (tool)
+3.
+mahelepa
+s.
+to make something tiny
+4.
+tanian
+t.
+a thing that is made to fit
+Determine the correct correspondences.
+
+=== PAGE 2 ===
+2025 – Round 2
+Problem 1. Nancowry Answers
+1.1
+a. to tie
+j. heh
+b. something that is tied
+k. tumkoʔ
+c. to thicken (something)
+l. ʔɛ̃h
+d. to hang, (be) hanging
+m. kXtal
+e. to cause (something) to arrive
+n. pumloʔa
+f. topa
+o. cinlɯak
+g. ʔanãŋ
+p. kinsɯ
+h. tanop
+q. sumput
+i. hateh
+For Q1.2 write the
+corresponding letter under each item.
+1.
+2.
+3.
+4.
+q
+s
+t
+r
+Q 1.1 Max 17. 1 pt for correct translation. For a – e, allow any reasonable English translation.
+Q 1.2 Max 4. 4 pts if all correct, 2 pts if three correct, 1 pt if two correct.
+
+=== PAGE 3 ===
+2025 – Round 2
+Problem 1. Nancowry Commentary
+There are three derivations: the causative (CAUS), which turns an adjective or verb into a verb
+meaning to make / cause X; the instrumental nominaliser (INSTR), which turns a verb into a noun
+meaning a thing used to X; and the object nominaliser (OBJ), which turns a transitive verb into a noun
+meaning a thing that is Xed.
+The marking chosen depends on the number of syllables in the base.
+1 syllable
+>1 syllable
+CAUS
+ha-
+<um>
+INSTR
+<an>
+<in>
+OBJ
+-a
+-a
+All infixes appear after the initial consonant. For <um> and <in>, the infix replaces the following
+vowel.
+References and further reading:
+• Rajasingh, V.R. (2016). Mūöt (Nicobarese). Mon-Khmer Studies, 45, 14-52.
+• Kalin, L. (2023). When size matters in infix allomorphy: A unique window into the morphology-
+phonology interface. The size of things II, 269.

@@ -1,0 +1,377 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                                
+ 
+Problem 10. Kaytetye kinship 
+The Kaytetye language is spoken in Nothern Australia by a dwindling number of speakers – only 145 were counted in 
+2006. This problem focuses on the language’s treatment of family relationships. Its pronouns distinguish singular 
+(one person), dual (two people) and plural (more than two), and, as in English, three persons (first: I/we; second: 
+you; third: he/she/it/they). Unlike English, however, the dual and plural pronouns, which refer to a group of people, 
+also show the family relationships among the members of this group. (Every group is assumed to consist of family 
+members.) For instance, the pronoun ayleme refers to a group of two people which includes the speaker, so we 
+could translate it as ‘we two’; but these two people must be related according to precise rules which would allow 
+one of them to be the other’s brother (for example) but not the other’s father. The rules only allow a single pronoun 
+choice for any given group of people.  
+To help in talking about these relationships, we can call one member X, where X may be the speaker or the 
+addressee (the person addressed), but need not be. This allows us to define the relationship of the other person to 
+X, so ayleme means ‘a group of two people including the speaker and  X’s …’ (where the dots allow ‘brother’ among 
+many other possibilities). This classification yields nine dual pronouns, distinguished by three persons and three 
+relationship-types.  
+Q.10.1. Use the answer sheet to fill the empty cells (A-G) in the following table of forms and relationships. Most of 
+the forms are built regularly.  
+form 
+person 
+relationship 
+ayleme 
+1 
+X’s sister 
+aylake 
+1 
+X’s father 
+A 
+1 
+X’s mother 
+elweme 
+3 
+X’s father’s father 
+mpwele 
+2 
+X’s father’s father’s brother’s son’s daughter 
+B 
+3 
+X’s father 
+mpwelake 
+C 
+X’s daughter (where X is a man) 
+mpwele 
+2 
+X’s sister 
+elwanthe 
+3 
+X’s mother 
+D 
+2 
+X’s spouse 
+ayleme 
+1 
+X’s father’s father’s sister 
+elwanthe 
+3 
+X’s spouse 
+aylake 
+1 
+X’s father’s brother 
+E 
+3 
+X’s father’s father’s father 
+elwanthe 
+3 
+X’s spouse’s brother’s spouse’s sister 
+F 
+1 
+X’s father’s brother’s son’s son’s daughter 
+G 
+2 
+X’s father’s mother’s brother 
+elwanthe 
+3 
+unknown relationship to X 
+ 
+ 
+ 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                                
+ 
+Q.10.2. Plural pronouns follow similar rules. Use the answer sheet to fill gaps H-J in the next table. 
+form 
+person 
+relationship 
+aynangke 
+1 
+X’s brother’s son’s son 
+atake 
+3 
+X’s father’s sister 
+H 
+3 
+X’s father’s father’s father’s father 
+atanthe 
+3 
+X’s mother 
+I 
+1 
+X’s daughter (where X is a man) 
+errwangke 
+2 
+X’s sister 
+J 
+1 
+X’s spouse’s sister 
+errwake 
+2 
+X’s father’s brother 
+errwanthe 
+2 
+X’s mother’s mother’s mother 
+ 
+Q.10.3. Explain the word structure (morphology) and meaning of the Kaytetye pronouns.  Feel free to use diagrams 
+or formulae.  
+ (This question will not be marked unless your scores for other questions put you in the top few.) 
+ 
+ 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                                
+ 
+Answer sheet for Problem 10. Kaytetye Q.10.1-2 
+ 
+A.  
+ 
+B.  
+C. 
+D.  
+E.  
+F.  
+G.  
+H.  
+I.  
+J.  
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 4 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                                
+ 
+Solution and marking. 
+Scoring (max 20 + 10) 
+ 
+Q.10.1-2: 2 points for each correct cell A-J.    (max 20) 
+o ‘+’ separates morphemes, but (of course) is not expected in the answers. 
+o 1 point for one correct morpheme  
+o Ignore minor copying errors e.g. anthe ~ athe 
+ 
+Q.10.3. Don’t mark this question! It will be marked centrally as a tie-breaker for borderline candidates (max 
+10) 
+o 3 points for a good account of morphology 
+o 3 points for a good diagram of kinship 
+o 3 points for a good definition of the three kinship sets 
+o 1 point for overall clarity of presentation 
+Q.10.1-2 
+A. ayl+anthe 
+ 
+B. elw+ake 
+C. 2 
+D. mpwel+anthe 
+E. elw+ake 
+F. ayl+eme 
+G. mpwel+anthe 
+H. at+angke 
+I. ayn+ake 
+J. ayn+anthe 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 5 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                                
+ 
+Commentary 
+ 
+Morphology 
+The full set of pronouns, distributed by person and ‘set’, is shown in this table. 
+ 
+Set A 
+Set B 
+Set C 
+morphology 
+‘we two’ 
+ayleme 
+aylake 
+aylanthe 
+ayl- 
+‘they two’ 
+elweme 
+elwake 
+elwanthe 
+elw- 
+‘you two’ 
+mpwele 
+mpwelake 
+mpwelanthe 
+mpwel- 
+‘we plural’ 
+aynangke 
+aynake 
+aynanthe 
+ayn- 
+‘they plural’ 
+atangke 
+atake 
+atanthe 
+at- 
+‘you plural’          errwangke 
+errwake 
+errwanthe 
+errw- 
+morphology 
+-eme/e/angke 
+-ake 
+-anthe 
+ 
+The only irregularity is in Set A. 
+Semantics 
+The three sets are based ultimately on the complex system of social divisions whereby each person is assigned 
+automatically to one of two ‘moieties’ (‘halves’ of society) and to one of two ‘generations’ so that  
+ 
+their moiety is the same as their father’s (but not their mother’s); they must marry someone from the other 
+moiety. 
+ 
+their generation is different from their father’s, but the same as their grandfather’s. 
+However, to solve this problem a candidate doesn’t need to know about moieties and generations because the rules 
+can simply refer to the geometrical patterns in a genealogical diagram, like this (with triangles for males and circles 
+for females): 
+  
+The sets can be defined in relation to this diagram: 
+ 
+A: X + Y, where X and Y are linked by an even number of paternal links (i.e. links with a triangle at the top) 
+ 
+B: X + Y, where X and Y are linked by an odd number of paternal links  
+ 
+C: other 
+x 
+A
+B
+C
+
+=== PAGE 6 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                                
+ 
+For information, the sets for the presented data are the following: 
+DUAL PRONOUNS 
+form 
+person 
+relationship 
+set 
+ayleme 
+1 
+X’s sister 
+A 
+aylake 
+1 
+X’s father 
+B 
+ 
+1 
+X’s mother 
+C 
+elweme 
+3 
+X’s father’s father 
+A 
+mpwele 
+2 
+X’s father’s father’s son’s daughter 
+A 
+ 
+3 
+X’s father 
+B 
+mpwelake 
+ 
+X’s daughter 
+B 
+mpwele 
+2 
+X’s sister 
+A 
+elwanthe 
+3 
+X’s mother 
+C 
+ 
+2 
+X’s spouse 
+C 
+ayleme 
+1 
+X’s father’s father’s sister 
+A 
+elwanthe 
+3 
+X’s spouse 
+C 
+aylake 
+1 
+X’s father’s brother 
+B 
+ 
+3 
+X’s father’s father’s father 
+B 
+elwanthe 
+3 
+X’s spouse’s brother’s spouse’s sister  
+C 
+ 
+1 
+X’s father’s brother’s son’s son’s daughter 
+A 
+ 
+2 
+X’s father’s mother’s brother 
+C 
+PLURAL PRONOUNS 
+form 
+person 
+relationship 
+ 
+aynangke 
+1 
+X’s brother’s son’s son 
+A 
+atake 
+3 
+X’s father’s sister 
+B 
+H 
+3 
+X’s father’s father’s father’s father 
+A 
+atanthe 
+3 
+X’s mother 
+C 
+I 
+1 
+X’s daughter (where X is a man) 
+B 
+errwangke 
+2 
+X’s sister 
+A 
+J 
+1 
+X’s spouse’s sister 
+C 
+errwake 
+2 
+X’s father’s father’s brother 
+B 
+errwanthe 
+2 
+X’s mother’s mother’s mother 
+C 
+ 

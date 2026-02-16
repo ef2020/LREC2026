@@ -19,6 +19,14 @@ venv/
 *.tmp
 *.bak
 
-# Large binaries (keep PDFs in Drive, not repo)
+# Large binaries
 *.pdf
 !corpus/**/*.pdf
+!downloads/*.pdf
+
+# Cookie files
+downloads/cookies*.txt
+
+# Downloaded zip/extracted files
+downloads/*.zip
+downloads/puzzle_*_extracted/

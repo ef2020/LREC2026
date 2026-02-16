@@ -1,0 +1,221 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+          The UK Linguistics Olympiad 2022 - Round 1 
+ 
+Problem 5. Arhuaco things & places (15 marks) 
+Arhuaco is a language spoken by the Arhuaco 
+people in Northern Colombia, who still live 
+traditionally and use their language widely. It is 
+estimated that of the 8,000 speakers of Arhuaco, 
+90% are monolingual, with only a minority also 
+speaking Spanish, Colombia’s main language. The 
+language is also known by a host of other names, 
+including Ica and Bintuk.  
+Arhuaco is written here with some special characters, but these are not relevant for solving the problem. 
+Arhuaco  
+English translation 
+Arhuaco  
+English translation 
+kᴧn gaka 
+put the stick down 
+ribru kᴧpas  
+put the book in  
+(e.g., a bag) 
+ribru pan 
+put the book down 
+pratu pan 
+put the plate down 
+(e.g., on the table) 
+ribru itšoɁs1 
+put the book up  
+(e.g., on bookshelf) 
+pratu ipan 
+put the plate up  
+(e.g., on a wall) 
+masite gaka  
+put the machete down 
+urakiɨ sa  
+put the house down 
+masite igeika  
+put the machete up  
+(e.g., on a wall) 
+aɁnɨ sa  
+put the rock down 
+masite kᴧgaka 
+put the machete in  
+(e.g., the box) 
+aɁnɨ isa  
+put the rock up  
+(e.g., on a shelf) 
+pratu tšoɁs  
+put the plate down  
+(e.g., in drying rack) 
+ 
+ 
+Q 5.1. Translate into Arhuaco: 
+a) Put the needle down (needle = akusa) 
+ 
+b) Put the sack of corn up (e.g., on a shelf) (sack of 
+corn = in kintari) 
+ 
+c) Put the pencil in (e.g., a pencil case) (pencil = rapi)  
+ 
+d) Put the sword down (sword = oha) 
+ 
+e) Put the sack of corn down  
+ 
+f) Put the rock in (e.g., a bag) 
+ 
+ 
+ 
+1 This should actually be itšo, but itšoɁs is given here for regularity. 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+          The UK Linguistics Olympiad 2022 - Round 1 
+ 
+ 
+Q 5.2. Write down the correct Arhuaco verb for the following scenarios: 
+a) Put a poster on a wall 
+ 
+b) Put down a poster rolled up in a carrying tube 
+ 
+c) Put a poster rolled up in carrying tube in the cupboard 
+ 
+Arhuaco men wear very distinctive traditional hats, as you can see in the images. 
+ 
+Q 5.3. Translate into Arhuaco: 
+a) Put down the hat (hat = tutusoma) 
+ 
+b) Put the hat on (e.g., your head) 
+ 
+c) Stand the hat upright on the floor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+          The UK Linguistics Olympiad 2022 - Round 1 
+ 
+Solution and marking. 
+Scoring: (max 24) 
+• Q5.1: 0 points per correct first word and for in kintari  
+ 
+ 
+ 
+[max 12] 
+o 1 point per correct part of the last word (the verb). 
+o Assume every verb has two parts: direction + classification 
+o Parts are separated below by +, and missing parts are shown as _, but + and _ are not 
+expected in the answers! 
+o _+gaka = two parts – i.e. the first part may be zero. So if the correct answer is _+gaka, the 
+following both score 1: _+sa,  kᴧ+gaka. 
+o The correct form for (f) is actually aɁnɨ kᴧ+ssa, but the predictable form is aɁnɨ kᴧ+sa. 
+• Q5.2: 1 point per correct verb-part (as explained above)  
+ 
+ 
+ 
+[Max 6] 
+• Q5.3: 1 point per verb part (as explained above)  
+ 
+ 
+ 
+ 
+[Max 6] 
+o 0 points for tutosoma 
+Q 5.1. Translate into Arhuaco:   
+a) Put the needle down (needle = akusa) 
+akusa _+gaka                         [Max 2] 
+b) Put the sack of corn up (e.g. on a shelf) (sack of corn = in kintari) 
+in kintari i+sa                        2 
+c) Put the pencil in (e.g. a pencil case) (pencil = rapi)  
+rapi kᴧ+gaka                         2 
+d) Put the sword down (sword = oha) 
+oha _+gaka                           2 
+e) Put the sack of corn down  
+in kintari _+sa                       2 
+f) Put the rock in (e.g. a bag) 
+aɁnɨ kᴧ+sa                             2 
+Q 5.2. Write down the correct Arhuaco verb for the following scenarios 
+a) Put a poster on a wall 
+i+pan                                 2 
+b) Put down a poster rolled up in a carrying tube 
+_+gaka                               2 
+c) Put a poster rolled up in carrying tube in the cupboard 
+kᴧ+gaka                             2 
+Q 5.3. Translate into Arhuaco:   
+a) Put down the hat (hat = tutusoma) 
+tutusoma _+sa                         2 
+b) Put the hat on (e.g., your head) 
+tutusoma i+sa                          2 
+c) Stand the hat upright on the floor 
+tutusoma +tšoɁs                      2 
+ 
+
+=== PAGE 4 ===
+Your name:                                                                                                                                             
+          The UK Linguistics Olympiad 2022 - Round 1 
+ 
+Commentary 
+Arhuaco has different verbs for expressing putting objects in a particular place or position. As well as that, 
+the shape of the object being put somewhere also matters for the type of verb that is used. 
+In this puzzle, there are three different types of objects with regard to shape, and there is one position 
+used, namely ‘upright’: 
+Shape 
+Items 
+Arhuaco verb for 
+put down 
+Arhuaco verb for 
+put in something 
+Arhuaco verb for 
+put up on 
+something 
+flat 
+book, plate, poster 
+_+pan 
+kᴧ+pas 
+i+pan 
+long 
+stick, machete, sword, 
+rolled up poster in tube-
+shape, needle, pencil 
+_+gaka 
+kᴧ+gaka 
+i+geika 
+3D 
+rock, house, hat, sack of 
+corn 
+_+sa 
+kᴧ+sa 
+i+sa 
+upright  
+book on shelf, plate in 
+drying rack 
+_+tšoɁs 
+kᴧ+tšoɁs 
+i+tšo 
+As long as items are not understood as upright, it is their shape in terms of being flat, long or 3D that 
+matters. But as soon as an item is clearly put upright, like a book on a shelf, a plate in a drying rack or a hat, 
+then the verb form for ‘upright’ must be used. 
+The system for Arhuaco verbs that mean “place something” is more complex than this problem’s examples, 
+there are verbs for items that are positioned into a tight-fitting container (like a foot in a sock or a machete 
+in a sheath), as well as verbs for liquids. There are also additional positions which take their own verbs. 
+References: 
+Frank, P. (1990) Ika Syntax. Studies in the Languages of Colombia 1. Arlington: University of Texas, Summer 
+Institute of Linguistics. 
+Ika (Arhuaco) (1998 – 2020) Native Languages of the Americas. [website] retrieved from: 
+http://www.native-languages.org/ika.htm  
+ 
+ 

@@ -1,0 +1,188 @@
+
+=== PAGE 1 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 2 
+ 
+ 
+Problem 1. Taiwan Paiwan (20 marks) 
+Paiwan is a minority language in Taiwan/Republic of 
+China, spoken by around 66,000 native speakers in the 
+southern region of the island. One of the major 
+components of Paiwan syntax is “focus”, which 
+applies to the new piece of information that the 
+sentence is conveying. In English, this can be represented by sentences like “It is the dog which the 
+man likes”: in this example, the dog is focused. 
+Below are some sentences in Paiwan with their English translations. Sentence elements in italics 
+are focused. (The digraph dj represents a single sound. The word langedaen in sentence 8 is actually 
+langedain, but this was edited for the sake of simplicity.) 
+ 
+Paiwan 
+English 
+1. kanan nua uqaɬay tua kuka a quma nua tsakaw 
+The man eats the chicken in the thief’s field. 
+2. qmaɬup tua vavuy a kuvatu 
+My dog hunts the pig. 
+3. djavisen nua tsemas a kukama 
+The spirit snatches my father. 
+4. sitarang nua uqaɬay a vuluq 
+The man protects (it) with the spear. 
+5. qaɬupen nua suvavuy i tua umaq a aɬak nua 
+vavaian 
+Your pig hunts the woman’s child in the house. 
+6. kman tua kuka a tsemas 
+The spirit eats the chicken. 
+7. djavisan nua pulingaw tua vuluq a gadu 
+The shaman snatches the spear in the mountain. 
+8. langedaen nua sivitay a qaya-qayam 
+The soldier hears the bird. 
+ 
+Answer the questions on the next page on your answer sheet. 
+ 
+ 
+
+=== PAGE 2 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 2 
+ 
+ 
+Q1.1. How would you say these sentences in Paiwan? 
+9. The man protects the field with the dog. 
+10. Your shaman hunts my bird in the spirit’s mountain. 
+11. The woman snatches the pig. 
+Now look at the following question-answer dialogues. The first answer has been translated for you. 
+Question 
+Answer 
+12. inu a tmarang a tsakaw? 
+tmarang 
+a 
+tsakaw 
+i 
+tua 
+quma 
+The thief who protects (it) is in the field. 
+13. anema a siqaɬup nua sukama tua vatu? 
+siqaɬup nua kukama tua vatu a kuvuluq 
+14. anema a sudjavisen? 
+kudjavisen a qaya-qayam nua vavaian 
+15. inu a kanan nua uqaɬay? 
+kanan nua uqaɬay a gadu 
+ 
+Q1.2. Based on these examples, translate the following responses into English, underlining focused 
+elements, and saying what questions (in Paiwan) could have prompted them. 
+16. susitarang tua qaya-qayam nua pulingaw a tsemas 
+17. kanen nua uqaɬay a vavuy i tua gadu 
+18. kuqaɬupan tua suvatu a kuquma 
+ 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 2 
+ 
+ 
+Solution and marking. 
+Scoring: (max 37) 
+• 
+#9-11: 1 point for each correct element (separated by +) (max 11) 
+o order of phrases does not matter, order within phrases DOES matter 
+• 
+#16-18:   (max 26) 
+o 1 point for each correct English sentence element (max 12) 
+o 1 point for each correct highlighting (max 3) 
+o 1 point for each correct Paiwan sentence element (max 11) 
+o insist on complete correctness within each element, e.g. no extra incorrect words 
+(e.g. who are …) and correct function (e.g. re subject/object) 
+o accept minor errors unrelated to the data, e.g. on for in, or protects for protect, 
+a~the, is eating for eats 
+o No marks for focus if more than one element is underlined 
+o Credit underlined elements even if the element itself is wrong (e.g. has the wrong 
+function). 
+ 
+9 
+Paiwan 
+sitarang + nua uqaɬay + tua quma + a vatu   (4) 
+10 
+Paiwan 
+qaɬupan + nua supulingaw + tua kuqaya-qayam + a gadu nua tsemas  (4) 
+11 
+Paiwan 
+djmavis + tua vavuy + a vavaian (3) 
+16 
+English 
+You + protect + the shaman’s bird + with  the spirit.   (4+1 = 5) 
+ 
+Paiwan 
+anema + a kusitarang + tua qaya-qayam + nua pulingaw?  (4) 
+OR anema + a kusitarang + nua pulingaw + tua qaya-qayam? 
+17 
+English 
+The man + eats + the pig + in the mountain. (4+1 = 5) 
+ 
+Paiwan 
+anema + a kanen + nua uqaɬay + i tua gadu?   (4) 
+OR anema + a kanen + i tua gadu + nua uqaɬay? 
+18 
+English 
+I + hunt + your dog + in my field.  (4+1 = 5) 
+ 
+Paiwan 
+inu + a suqaɬupan + tua kuvatu? (3) 
+ 
+  
+ 
+ 
+
+=== PAGE 4 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 2 
+ 
+ 
+ 
+ 
+
+=== PAGE 5 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 2 
+ 
+ 
+Commentary 
+Paiwan has 4 types of focus in a sentence: Agent Focus (AF), Patient Focus (PF), Referent Focus 
+(RF) and Instrument Focus (IF). Depending on which element of a sentence is focused, the verb 
+conjugates differently. 
+Agent – subject of transitive verb 
+Patient – object of transitive verb 
+Referent – location/time/beneficiary of action 
+Instrument – instrument/cause/motivation of action 
+The affixes are: 
+AF: -m- after initial consonant 
+PF: -en 
+RF: -an 
+IF: si- 
+The article of the noun phrase changes depending on whether it is focused or not: 
+a = focused element/equational construction marker (CM=) 
+tua = unfocused non-agent 
+nua = unfocused agent/genitive construction marker (CMgen) 
+CM= means that two elements are equal to each other or describe each other. 
+Another way that you could look at these constructions is that the verbal affixes are derivational 
+morphemes that change the verb into a noun, i.e. kan = eat, k-m-an = the one who eats, si-kan = 
+the thing with which one eats. In this instance, the agent becomes the ‘possessor’ of the new noun 
+and so goes into the genitive case (nua). 
+Both these explanations describe the same data and either would lead to a correct interpretation. 
+Finally, there are also the prefixes ku- and su- which refer to the 1st and 2nd person singular 
+respectively. When attached to nouns they indicate possession, and to verbs they indicate agency 
+(although with the derivational theory, the verbs have become nouns anyway). 
+ 
+ 
+ 

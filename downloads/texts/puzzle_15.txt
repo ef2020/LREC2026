@@ -1,0 +1,136 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+          The UK Linguistics Olympiad 2022 - Round 1 
+ 
+Problem 2. Buhid Script (5 marks) 
+Buhid is spoken by the Mangyan people on the island of 
+Mindoro in the Philippines. In 2009 there were about 
+9,300 Buhid speakers. Buhid is also known as Mangyan. 
+It is written in the Buhid script, which is descended 
+from Southern Indian scripts which spread east via the 
+Indonesian islands of Sumatra, Java, and Bali. 
+In the table below left is the text of a Buhid song, with some of it transliterated into the Roman alphabet. 
+However some of the transliteration is missing: each number refers to a complete word in Buhid, and each 
+underscore _ indicates where there is a letter missing.  
+Q 2.1 Complete the missing words of the transliteration.  
+Buhid script 
+Transliteration in Roman alphabet 
+ 
+kahu (1) _ _ _ _ ku malagu 
+ 
+(2)_ _ _ _ _ _  buya si ulu 
+ 
+(3)_ _ _ _ _ _ (4)_ _ _ _  si dagu 
+ 
+dalika (5) _ _ parumiya 
+ 
+sihamu ka (6) _ _ (7) _ _ _ _ (8) _ _ _ _ 
+ 
+ana umabu ka nimu 
+ 
+ 
+1. __ __ __ __ 
+ 
+ 
+5. __ __ 
+ 
+ 
+2. __ __ __ __ __ __ 
+ 
+ 
+6. __ __  
+ 
+ 
+3. __ __ __ __ __ __ 
+ 
+ 
+7. __ __ __ __  
+ 
+ 
+4. __ __ __ __ 
+ 
+ 
+8. __ __ __ __ 
+ 
+Buhid is a type of script that is known as “abugida”.  
+ 
+Q 2.2 Write “abugida” in the Buhid script: 
+ 
+9. abugida =  
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+          The UK Linguistics Olympiad 2022 - Round 1 
+ 
+Solution and marking. 
+Scoring: (max 20) 
+• Q2.1: 1 point per 'slot' (i.e. syllables separated by +) 
+ 
+[max 16] 
+o expect the specified number of slots, so extra syllables have to be squeezed into one of 
+these slots and therefore create an error; e.g. for ka+hu, baka+hu = 0 + 1. 
+• Q2.2: 1 point per glyph/character  
+ 
+ 
+ 
+ 
+[max 4] 
+o ignore extra characters. 
+Q 2.1 Complete the missing words of the transliteration.  
+1. ka+hu              2 
+5. sa                     1 
+2. ka+bu+ya        3 
+6. sa                     1 
+3. ka+du+ya        3 
+7. ba+la                2 
+4. du+ya              2 
+8. ba+ku               2 
+ 
+Buhid is a type of script that is known as “abugida”.  
+ 
+Q 2.2 Write “abugida” in the Buhid script:  
+    
+9. abugida =                                                          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+          The UK Linguistics Olympiad 2022 - Round 1 
+ 
+Commentary 
+Translation of the text: (for information only, not needed for solving the puzzle). 
+“like a tree with overgrown branches 
+my mind is full of turmoil 
+though loaded with pain and grief 
+my dreams continually seek for an end 
+let it be known that I am on my way 
+perchance you’ll catch up with me.” 
+ 
+Buhid is a syllabic script (abugida), which means its consonant characters automatically contain the vowel 
+sound ‘a’. The list of consonant-vowel pairs pasted below comes from the Wikipedia article on this script. 
+Where the vowels, a, i, and u occur independently, there is an independent vowel character, but 
+otherwise, vowels are indicated  with the characters of the consonants. A character without a diacritic 
+mark has an inherent ‘a’, a character with a short horizontal line at the top right of it, means the inherent 
+vowel is ‘i’ and a short horizontal line at the bottom right of the character means the inherent vowel is ‘u’. 
+For example, when writing in Buhid script, there is no spacing between words: 
+ 
+References: 
+Ager, S. (1998 – 2021) Buhid. Omniglot [website]. Retrieved from: https://omniglot.com/writing/buhid.htm  
+Lopez, V.B. (1976) The Mangyans of Mindoro. An ethnohistory. Quezon City: The University of the 
+Philippines Press 

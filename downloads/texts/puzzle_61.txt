@@ -1,0 +1,157 @@
+
+=== PAGE 1 ===
+ 
+ 
+                                                                                              
+ 
+ 
+UKLO Round 1 2012 
+2. Danish numbers (5 marks) 
+Here are some examples of Danish numbers: 
+ 
+3 = tre 
+4 = fire 
+5 = fem 
+6 = seks 
+7 = syv 
+20 = tyve 
+30 = tredive    
+40 = fyrre 
+57 = syvoghalvtreds 
+60 = tres 
+78 = otteoghalvfjerds 
+80 = firs 
+ 
+Question 2. (Write your answers on the separate answer sheet.) 
+ 
+Express the following Danish numbers in figures:  
+ 
+a. treogtyve 
+b. seksoghalvtreds 
+c. fireogtres 
+d. femoghalvfjerds 
+e. syvoghalvfems 
+ 
+What is the Danish for these figures: 
+ 
+f. 8 
+g. 27   
+h. 36   
+i. 65  
+j. 98 
+Q2. Danish numbers (5 marks) 
+a.  
+b.  
+c.  
+d.  
+e.  
+f.  
+g.  
+h.  
+i.  
+j.  
+ 
+ 
+ 
+
+=== PAGE 2 ===
+ 
+ 
+                                                                                              
+ 
+ 
+SOLUTION 
+How to mark an UKLO script 
+Terminology 
+• target: the correct answer; e.g. ‘A B C d’ (where X, Y and Z are wrong) 
+• script answer: the answer in the script you’re marking; e.g. ‘A X C D’. 
+• point: a number that you assign, which the spreadsheet eventually translates 
+into a ‘mark’; e.g. 1 for A 
+• unit: a part of the target that carries a point; e.g. A, X and C. Typically a unit 
+is a word, a phrase or a word-part. 
+• sign: a ‘mark’ that you make on each unit in the script. 
+o tick: on a completely right unit; e.g. on A and C 
+o cross: on a completely wrong unit; e.g. on X 
+o half: on a partly right unit; e.g. on D (for d) 
+ 
+Example: 
+ 
+ 
+ 
+½  
+A 
+X 
+C 
+d 
+ 
+• score: the number you assign to the entire script, following the directions in 
+the marking scheme. 
+Principles 
+• Each correct unit or partly right unit in the script answer increases the score. 
+• Completely wrong units in the script answer are penalised simply by not 
+increasing the score. 
+o e.g. A X C d scores 3 because X scores 0.  
+• Similarly, units in the target that are missing from the script answer are 
+penalised simply by not increasing the score. 
+o e.g. A C d scores 3 because only A, C and d score anything. 
+• But if the script answer contains more units than the target, the surplus units 
+should be penalised.  
+o e.g. A B C d X scores 3 because X scores -1, though A B C d score 4. 
+• No score should be worse than a completely blank answer, so there are no 
+negative scores. 
+o e.g. A B C d X Y Z Z Z scores 0, because althought each X, Y and Z 
+reduces the score by 1, the effect stops when the score reaches 0.  
+How to score 
+1. Follow the marking sheet for  
+a. recognising units 
+b. assigning ticks and halves 
+c. assigning points for ticks and halves. 
+
+=== PAGE 3 ===
+ 
+ 
+                                                                                              
+ 
+ 
+2. Count the units in the script answer and compare this number with the number 
+of units in the target. If the script answer contains more units than the target, 
+go to 4. Otherwise (i.e. in the vast majority of cases) go to 3. 
+3. Add up all the points for ticks and halves. That’s the score. 
+4. As in 3, but then deduct the number of surplus units, i.e. the difference 
+between the numbers of units in the script answer and in the target. 
+ 
+ 
+Q2. Danish numbers (5 marks, 10 points) 
+a. 23 
+b. 56 
+c. 64 
+d. 75 
+e. 97 
+ 
+1 
+f. otte 
+g. syvogtyve 
+h. seksogtredive 
+i. femogtres 
+j. 
+otteoghalvfems 
+ 
+Comments: 
+Comments on Danish 
+This is slightly tricky because some Danish numbers are based not on ten (as in 
+English) but on scores (a score is 20), as in English ‘three score and ten’, and of these 
+numbers, some count ten (halv = half a score) back from the next (rather like the 
+German time system, where halb sechs literally means ‘half six’ but actually means 
+‘half past five’). Once you’ve grasped this general point about the system, everything 
+is straightforward:  
+• og means ‘and’,  
+• the individual numbers are more or less obvious 
+• but the ‘scores’ numbers have two forms, for use with and without halv; for 
+example, 80 is firs but in 78, firs is replaced by fjerds.  
+Notice a trick often used in the Olympiad: the first question contains Danish data that 
+you need in order to answer the second question. (Moral: use every scrap of 
+information we give you!) In Q1, fireogtres tells you that tres doesn’t change to treds 
+when combined with a following number, but just after halv.  
+ 
+ 
+ 

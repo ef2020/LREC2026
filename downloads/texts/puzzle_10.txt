@@ -1,0 +1,204 @@
+
+=== PAGE 1 ===
+Name:                                                                                                                       2023-Round 1 
+Question 2 Page 1 of 1 
+ 
+ 
+Problem 2. Jam Sai (5 marks) 
+Jam Sai (sometimes spelled Jamsay) is a Dogon language spoken in Mali and 
+Burkina Faso, by about 130,000 speakers.  
+Below are some verb pairs in the Jam Sai language with their meanings.  
+Note that ɣ is a consonant; ɛ and ɔ are vowels; ñ is like the ny in canyon; ŋ 
+the ng in sing. The superscript n indicates that the previous sound is nasalised 
+– pronounced with air coming out of the nose. Jam Sai is a tonal language, but 
+tones have not been written as they are not relevant to this problem.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Here are a few more simple Jam Sai verbs: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q 2.1 Using each of the above words exactly once, translate the following into Jam Sai: 
+ 
+aɣa  
+to hear  
+aɣawa  
+to make hear 
+diŋe  
+to sit  
+diŋiwne  
+to plant 
+gɔnɔ  
+to bend  
+gɔnɔrnɔ  
+to unbend 
+jimnɛ  
+to go blind  
+jimniwnɛ  
+to blind 
+jugɔ  
+to know  
+juguwɔ  
+to inform 
+karna  
+to do 
+karnawna  
+to force 
+le  
+to screw  
+lere  
+to unscrew 
+ma  
+to seal  
+marna  
+to unseal 
+pere  
+to jump  
+perewe  
+to make jump 
+pine  
+to close  
+pinirne  
+to open 
+wɛjɛ  
+to get used to  
+wɛjɛwɛ  
+to accustom 
+ya  
+to go  
+yawa  
+to let go 
+cine 
+to disappear 
+pite 
+to be inflated 
+ñe 
+to exist 
+ko 
+to eat  
+domo 
+to wind up 
+taɣa 
+to wear shoes 
+pɛgɛ 
+to insert 
+muŋo 
+to tie 
+ɛrnɛ 
+to be full 
+(a) 
+to untie 
+ 
+ 
+(f) 
+to appear 
+ 
+(b) 
+to feed 
+ 
+ 
+(g) 
+to unwind 
+ 
+(c) 
+to inflate 
+ 
+ 
+(h) 
+to fill up 
+ 
+(d) 
+to remove 
+ 
+ 
+(i) 
+to create 
+ 
+(e) 
+to put on shoes 
+ 
+ 
+Koro, Mali 
+
+=== PAGE 2 ===
+ 2023-Round 1 
+ 
+ 
+ 
+Problem 2. Jam Sai Answers and Explanation (1/1) 
+ 
+Total: 18 points 
+ 
+Q 2.1  2pt if correct; 1pt if one letter is wrong (treat ⁿ as a letter). Max 18. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Explanation 
+ 
+The data show two types of verb derivation: one causative (to make something happen) and the other 
+negative or opposite. 
+ 
+In both cases, an infix is inserted before the final vowel, consisting of a copy of the first vowel of the 
+stem, then w for the causative, r for the negative. In addition, if there is a nasal consonant (m, n, ñ, ŋ) 
+anywhere in the stem, the r or the w is nasalised. 
+ 
+Note that this can also be analysed as a suffix that changes the final vowel of the stem. 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+to untie 
+muŋurno 
+ 
+(f) 
+to appear 
+cinirne 
+(b) 
+to feed 
+kowo 
+ 
+(g) 
+to unwind 
+domorno 
+(c) 
+to inflate 
+pitiwe 
+ 
+(h) 
+to fill up 
+ɛrnɛwnɛ 
+(d) 
+to remove 
+pɛgɛrɛ 
+ 
+(i) 
+to create 
+ñewne 
+(e) 
+to put on shoes 
+taɣawa 
+ 

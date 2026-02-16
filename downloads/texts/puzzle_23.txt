@@ -1,0 +1,272 @@
+
+=== PAGE 1 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+Problem 9. Can Yukaghir? (25 marks) 
+Kolyma Yukaghir is a language once spoken in the Kolyma region in the far east of 
+Russia, whose origin and relation to other languages is unknown. It is a dying 
+language with only 5 fluent speakers in 2009. The language can be written in 
+either the Cyrillic or Roman alphabets. Here are some Yukaghir sentences with 
+their English translations. 
+1. met tudele inabulagī 
+I hated him. 
+2. adil numeget towkele ket’īm 
+The boy came with a dog from home. 
+3. tet metul juömek 
+You (sg) saw me. 
+4. tit abut ket’ītemet 
+You (pl) will bring a bag. 
+5. terike t’olhorogele miem 
+The old lady waited for the rabbit. 
+6. tut numege mitkele mietem 
+He will wait for us at home. 
+7. tut t’olhoro juötem 
+He will see the rabbit. 
+8. mit gōrakte tetul juötej 
+We will see you (sg) in town. 
+9. tet ahidūtejek 
+You (sg) will hide. 
+10. met t’obulge jaraje 
+I swam in the sea. 
+11. adil jaratej 
+The boy will swim. 
+12. met titul el miele 
+I didn’t wait for you (pl) 
+ 
+Q9.1. On your answer sheet, translate the following into English. 
+ 
+a. t’olhoro adilget el ahidūj 
+b. tet gōrakte t’obul juötemek 
+c. terike numele inabulagīm 
+d. tut abutkele el ket’ītej 
+ 
+Q9.2. On your answer sheet, translate the following into Kolyma Yukaghir. 
+ 
+a. You (sg) swam in the sea. 
+b. We will wait for the rabbit. 
+c. The dog came with you (sg) from town. 
+d. He will wait for the dog. 
+e. You (sg) did not see us. 
+f. You (pl) will hate the house. 
+ 
+ 
+
+=== PAGE 2 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+Solution and marking. 
+Scoring: (max 33) 
+• 
+9.1: 1 point for each correct sentence element (marked by | … |). (max 13) 
+o Insist on words having correct grammatical function (subject, object etc). 
+o Insist on correct number for you (e.g. “you (sg)”). 
+o Accept synonyms (e.g. home for house, bring a bag with him for come with a bag) 
+o Unfortunately, sentence 1d is incorrect: it combines pronoun ‘he’ with the verb form for ‘we’. 
+• 
+9.2:  1 point for each completely correct word. (max 20) 
+o Deduct 1 for wrong word order, but accept all correct words. 
+9.1a. The rabbit | did not hide | from the boy 
+b. 
+You (sg) | will see | the sea | in town 
+c. 
+The old lady | hated | the house 
+d. 
+We/He | will not come | with a bag. Or:  We/He |2 will not bring | a bag. 
+9.2a. tet t’obulge jarajek 
+b. 
+mit t’olhorogele mietej 
+c. 
+tow tetkele gōraktet ket’īm 
+d. 
+tut towkele mietem 
+e. 
+tet mitul el juömek 
+f. 
+tit nume inabulagītemet 
+ 
+Commentary 
+• 
+Word order is SOV 
+• 
+Pronoun system is as follows: 
+ 
+Sg  
+pl 
+1 
+met 
+mit 
+2 
+tet 
+tit 
+3 
+tut 
+n/a 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+• 
+Verbs are as follows (italicised are seen in Task 1) 
+verb 
+I -ed 
+You sg -
+ed 
+S/He -ed 
+You sg will 
+He will 
+We 
+will 
+You pl will 
+hate 
+inabulagī 
+ 
+inabulagīm 
+ 
+ 
+ 
+2f 
+bring 
+ 
+ 
+ket’īm 
+ 
+ket’ītej 
+ 
+ket’ītemet 
+see 
+ 
+juömek 
+ 
+juötemek 
+juötem 
+juötej 
+ 
+wait 
+miele 
+ 
+miem 
+ 
+mietem 
+2b 
+ 
+Hide 
+ 
+ 
+ahidūj 
+ahidūtejek 
+ 
+ 
+ 
+Swim 
+jaraje 
+2a 
+ 
+ 
+jaratej 
+ 
+ 
+ ‘not’ = el just before the verb. 
+Nouns and pronouns occur in five cases: 
+ 
+subj 
+obj 
+With/for* 
+from 
+In/at 
+boy 
+adil 
+ 
+ 
+adilget 
+ 
+home 
+ 
+2f 
+numele 
+numeget 
+numege 
+dog 
+2c 
+ 
+towkele 
+ 
+ 
+bag 
+ 
+abut 
+abutkele 
+ 
+ 
+old lady 
+terike 
+ 
+ 
+ 
+ 
+rabbit 
+t’olhoro 
+t’olhoro 
+t’olhorogele 
+ 
+ 
+town 
+ 
+ 
+ 
+2c 
+gōrakte 
+sea 
+ 
+t’obul 
+ 
+ 
+t’obulge 
+me 
+met 
+metul 
+ 
+ 
+ 
+you (sg) 
+tet 
+tetul 
+ 
+ 
+ 
+him 
+tut 
+ 
+tudele 
+ 
+ 
+us 
+mit 
+ 
+mitkele 
+ 
+ 
+you (pl) 
+tit 
+titul 
+ 
+ 
+ 
+* Also object of ’hate’ 
+For 1st and 2nd person, for object add –ul, for with/for add –kele; for 3rd person with/for tut>tudele, other forms not 
+shown. 
+ 

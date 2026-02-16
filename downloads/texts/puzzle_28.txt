@@ -1,0 +1,231 @@
+
+=== PAGE 1 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Problem 2. Japanese characters (5 marks) 
+In our alphabet, letters stand for sounds. Japanese is different. Most Japanese 
+words are written in characters called ‘kanji’, which the Japanese adapted 
+from Chinese. Kanji characters represent meanings, not sounds. For example, 
+火 means ‘fire’ and is generally pronounced hi. In borrowings from Chinese, 
+however, it is pronounced ka: ‘Tuesday’, for instance, is 火曜日ka-you-bi (‘fire day’, after the 
+Chinese philosophy of the Five Elements). Here are some more Japanese words in kanji with their 
+English translations (and literal translations in quotation marks in brackets). You may like to know 
+that each kanji has just one form, without anything like our distinction between capital (‘upper case’) 
+and small (‘lower case’) letters. 
+ 
+日 
+sun, day 
+京 
+capital (of a country) 
+田 
+rice field 
+日本語 
+Japanese language 
+都 
+city, big town 
+英語 
+English language 
+人 
+person 
+月曜日 
+Monday (‘moon-day’) 
+本 
+root 
+山 
+mountain 
+金 
+gold, money 
+先生 
+teacher (‘before-student’) 
+東 
+east 
+日本語の先生 
+Japanese language teacher 
+中 
+centre, middle 
+外国 
+foreign (‘abroad-country’) 
+ 
+ 
+The questions for you to answer are on the next page. 
+ 
+
+=== PAGE 2 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Q.1. What do these well-known names mean? 
+山田 (Yamada) 
+ 
+本田 (Honda) 
+ 
+東京(Tokyo) 
+  
+京都 (Kyoto) 
+  
+Q.2. Translate these kanji into English: 
+a. 
+日本人 
+ 
+b. 
+英語の先生 
+ 
+c. 
+外国語 
+ 
+d. 
+月 
+ 
+e. 
+国 
+ 
+Q.3. Write the following words in Japanese kanji: 
+ 
+volcano (‘fire mountain’) 
+ 
+foreign person (‘abroad-country person’) 
+ 
+foreign language teacher (‘abroad-country 
+language teacher’) 
+ 
+Friday (this is traditionally pay day in Japan, so it is 
+known as ‘money day’) 
+ 
+China (‘centre-country’ [the Chinese name for 
+China]) 
+ 
+Middle East 
+ 
+
+=== PAGE 3 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Solution and marking. 
+Scoring   (max 36) 
+• 
+Q.1: 1 point per correct word, no half marks (max 10) 
+o Ignore order of words  
+o Ignore surplus words, e.g. of in root of rice field. 
+o Ignore English spellings, e.g. capitol. 
+• 
+Q.2,a-c: 2 points for a correct answer, 1 with one error (max 6) 
+• 
+Q.2,d-e: 1 point per correct answer, no half marks (max 2) 
+• 
+Q.3: 1 point for each correct character (max 18) 
+o Be generous in accepting kanji attempts! 
+o Ignore extra incorrect characters. 
+Q.1. What do these well-known names mean? 
+山田 (Yamada) 
+mountain rice field (count ricefield as two words) 
+本田 (Honda) 
+root rice field (count ricefield as two words) 
+東京(Tokyo) 
+ east/East capital 
+京都 (Kyoto) 
+ capital city (accept capital, city) 
+ 
+Q.2. Translate these kanji into English: 
+a. 
+日本人 
+Japanese person (accept Japan person,  sun root person, Sun 
+Japanese person, Japanese man, Japan root person, …) 
+b. 
+英語の先生 
+English language teacher (accept English language of before 
+student, Englishese teacher, etc.) 
+c. 
+外国語 
+foreign language (accept abroad country language, foreignese, 
+etc.) 
+d. 
+月 
+moon 
+e. 
+国 
+country (reject abroad country) 
+ 
+ 
+ 
+
+=== PAGE 4 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Q.3. Write the following words in Japanese kanji: 
+火山 
+volcano (‘fire mountain’) 
+外国人 
+foreign person (‘abroad-country person’) 
+外国語の先生 
+foreign language teacher (‘abroad-country 
+language teacher’) 
+金曜日 
+Friday (this is traditionally pay day in Japan, so it is 
+known as ‘money day’) 
+中国 
+China (‘centre-country’ [the Chinese name for 
+China]) 
+中東 
+Middle East 
+ 
+ 
+ 
+
+=== PAGE 5 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Commentary 
+All characters represent meaning, but sometimes what is one word in English is represented by two 
+characters in Japanese:先生‘teacher’ (sen-sei), 曜日‘day [of the week]’.  
+• 
+The kanji for ‘Japan’ is 日本‘sun-root’ (ni-hon) . This is normally more poetically translated as 
+‘Land of the Rising Sun’.  
+• 
+Japanese word order is often the reverse of English. For example, 日本語の先生literally 
+reads in English: ‘Japan-language-of-teacher’ (ni-hon-go-no-sen-sei). 
+• 
+As well as kanji, Japanese also employs two syllabic scripts, to write foreign words and the 
+grammatical endings of verbs, adjectives, etc. To read in Japanese, it is thought that you 
+need to know about 2,000 characters—most of which have two different meanings and two 
+different pronunciations.  
+• 
+の, used in the problem, is not kanji but belongs to one of the syllabic scripts. It is a 
+grammatical particle similar to the English possessive ’s or the preposition of.  
+• 
+There is some advantage in having a script that is not connected to a language’s sounds in 
+the way that the alphabet is. It makes reading and writing much easier for people with 
+dyslexia (where there is often a problem in linking sounds to letter symbols).  
+• 
+Japanese can be written horizontally, as in this puzzle, in which case it is written from left to 
+right. Often, however, Japanese is written from top to bottom, in which case, the columns 
+go from right to left. 
+ 
+Further reading 
+Maryann Wolf. 2007. Proust and the Squid: The Story and Science of the Reading Brain. Cambridge: 
+Icon Books. 
+https://jisho.org/ (Japanese online dictionary). 
+ 

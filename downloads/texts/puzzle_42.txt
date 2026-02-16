@@ -1,0 +1,166 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                           
+ 
+Problem 4. A little Tshiluba (10 marks) 
+Tshiluba, spoken by about 6 million people, is one of the official languages of the Democratic Republic of the 
+Congo. It belongs to a group of languages known as the Bantu languages. 
+Below are some sentences in Tshiluba, along with their English translations. Fill the empty cells 1-8. 
+ 
+Tshiluba 
+English 
+mukaji uvwa mumona muana. 
+The woman saw the child. 
+bakaji bavwa bamona muana. 
+The women saw the child. 
+muluma uvwa mumona bakaji. 
+The man saw the women. 
+muluma uvwa mumona bambuji. 
+The man saw the goats. 
+muluma udi mumona bambuji. 
+The man sees the goats. 
+banzolu bavwa bamona bantambwe. 
+The chickens saw the lions. 
+tubambwa tuvwa tumona baluma. 
+The small dogs saw the men. 
+mbwa uvwa mumona ntambwe. 
+The dog saw the lion. 
+ntambwe uvwa mumona tubanzolu. 
+The lion saw the small chickens. 
+kanzolu kavwa kamona tubantambwe. 
+The small chicken saw the small lions. 
+tubakulu tuvwa tumona mbwa. 
+The small adults saw the dog. 
+kamulunda kavwa kapeta kantambwe. 
+The small friend found the small lion. 
+1 
+Dog 
+2 
+The man saw the child. 
+3 
+The chicken saw the dogs. 
+4 
+The adult found the goat. 
+5 
+The small goats found the small child. 
+balunda 
+6 
+cimuma 
+fruit 
+bimuma 
+fruits 
+cimuma civwa cimona ntambwe. 
+7 
+ntambwe uvwa mumona tubimuma. 
+8 
+ 
+ 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                           
+ 
+Solution and marking. 
+Scoring:  
+ 1 point for each correct word. No half marks. (max. 25) 
+o No points for ‘the’, accept without ‘the’. 
+ Score positively – 1 for each target word, ignore extra non-target words. 
+o But insist on correct order; if A … B should be B … A, accept A but not B. 
+o Insist on correct number (singular/plural) 
+o Accept a noun only if its grammatical function is right. 
+o Reject active-passive exchanges even if the meaning is the same. 
+ Score generously – if different scores are possible, choose the highest. 
+Tshiluba 
+English 
+points 
+mukaji uvwa mumona muana. 
+The woman saw the child. 
+ 
+bakaji bavwa bamona muana. 
+The women saw the child. 
+ 
+muluma uvwa mumona bakaji. 
+The man saw the women. 
+ 
+muluma uvwa mumona bambuji. 
+The man saw the goats. 
+ 
+muluma udi mumona bambuji. 
+The man sees the goats. 
+ 
+banzolu bavwa bamona bantambwe. 
+The chickens saw the lions. 
+ 
+tubambwa tuvwa tumona baluma. 
+The small dogs saw the men. 
+ 
+mbwa uvwa mumona ntambwe. 
+The dog saw the lion. 
+ 
+ntambwe uvwa mumona tubanzolu. 
+The lion saw the small chickens. 
+ 
+kanzolu kavwa kamona tubantambwe. 
+The small chicken saw the small lions. 
+ 
+tubakulu tuvwa tumona mbwa. 
+The small adults saw the dog. 
+ 
+kamulunda kavwa kapeta kantambwe. 
+The small friend found the small lion. 
+ 
+1 mbwa 
+Dog 
+1 
+2 muluma uvwa mumona muana. 
+The man saw the child. 
+4 
+3 nzolu uvwa mumona bambwa. 
+The chicken saw the dogs. 
+4 
+4 mukulu uvwa mupeta mbuji. 
+The adult found the goat. 
+4 
+5 tubambuji tuvwa tupeta kamuana. 
+The small goats found the small child. 
+4 
+balunda 
+6 friends [not: friend] 
+1 
+cimuma 
+fruit   
+ 
+bimuma 
+fruits 
+ 
+cimuma civwa cimona ntambwe. 
+7 The fruit saw the lion. 
+3 
+ntambwe uvwa mumona tubimuma. 
+8 The lion saw the small fruits. 
+4 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                           
+ 
+ 
+Commentary 
+This problem is about the syntax and morphology of a typical Bantu language, in which prefixes distinguish 
+singular and plural nouns, and are repeated on words to which they are related, including verbs. But there are 
+some extra twists to the story. In the following N, S and P stand for prefixes which are explained below. 
+ N (‘number’) distinguishes singular and plural: 
+o N is generally mu for the singular and ba for the plural, but 
+o before words beginning with n/m + consonant, which also happen to be animal 
+names, mu disappears (e.g. mbwa, ntambe). 
+ S (‘small’) means ‘small’: 
+o S is ka (singular) or tu (plural). 
+o S stands before N (e.g. kamuntu) 
+ P (‘prefix’) is the prefix which is repeated on the verb and ‘the’ (see below). 
+o P is the noun’s first prefix, so if there is an S, S = P; otherwise N = P. 
+ Subjects and objects are treated differently: 
+o Between the subject and the verb there is a word whose function and meaning are 
+unclear (‘the’? ‘past tense’?): P + vwa. 
+o The subject stands before the verb while the object follows it. 
+o The verb has the P of its subject but not of its object. 

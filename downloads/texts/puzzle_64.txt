@@ -1,0 +1,155 @@
+
+=== PAGE 1 ===
+ 
+ 
+                                                                    
+UKLO Round 1 2012 
+5. Esperanto (15 marks) 
+Esperanto is an artificial language created by Ludwig Lazarus Zamenhof in 1887 and 
+designed for international communication. Estimates of the number of active and 
+fluent speakers range from 100,000 to 2,000,000 people all around the world, with a 
+few hundred native speakers. The letters ‘ĝ’ and ‘ĉ’ are pronounced like ‘g’ and ‘ch’ 
+in the words ‘gem’ and ‘chase’.  
+ 
+Here are some Esperanto sentences translated into English. 
+ 
+1. La kapro manĝintas.  
+The goat has eaten. 
+2. La hundo ĉasis la katon. 
+The dog chased the cat. 
+3. La kapro manĝis.  
+The goat ate. 
+4. La kapro manĝitos.  
+The goat will have been eaten. 
+5. La kapron ĉasintis la hundo. 
+The dog had chased the goat. 
+6. La kapro manĝas.  
+The goat eats. 
+7. La kapro manĝotas.  
+The goat is going to be eaten. 
+8. La kato manĝantas. 
+The cat is eating. 
+9. La kapro manĝontis.   
+The goat was going to eat. 
+10. La kapro manĝintos.  
+The goat will have eaten. 
+11. La kato ĉasas la hundon. 
+The cat chases the dog. 
+ 
+Question 5. (Write your answers on the separate answer sheet.) 
+ 
+Translate the following sentences into English: 
+ 
+1. La kapro manĝontos. 
+2. La kapro manĝitas. 
+3. La kato ĉasitis. 
+ 
+Translate the following sentences into Esperanto: 
+ 
+4. The goat was eating. 
+5. The dog is being eaten. 
+6. The dog will chase the goat. 
+Q5. Esperanto (15 marks) 
+ 
+1.  
+ 
+ 
+@1 
+2. 
+3. 
+4. 
+5. 
+6. 
+ 
+
+=== PAGE 2 ===
+ 
+ 
+                                                                    
+SOLUTION 
+How to mark an UKLO script 
+Terminology 
+• target: the correct answer; e.g. ‘A B C d’ (where X, Y and Z are wrong) 
+• script answer: the answer in the script you’re marking; e.g. ‘A X C D’. 
+• point: a number that you assign, which the spreadsheet eventually translates 
+into a ‘mark’; e.g. 1 for A 
+• unit: a part of the target that carries a point; e.g. A, X and C. Typically a unit 
+is a word, a phrase or a word-part. 
+• sign: a ‘mark’ that you make on each unit in the script. 
+o tick: on a completely right unit; e.g. on A and C 
+o cross: on a completely wrong unit; e.g. on X 
+o half: on a partly right unit; e.g. on D (for d) 
+ 
+Example: 
+ 
+ 
+ 
+½  
+A 
+X 
+C 
+d 
+ 
+• score: the number you assign to the entire script, following the directions in 
+the marking scheme. 
+Principles 
+• Each correct unit or partly right unit in the script answer increases the score. 
+• Completely wrong units in the script answer are penalised simply by not 
+increasing the score. 
+o e.g. A X C d scores 3 because X scores 0.  
+• Similarly, units in the target that are missing from the script answer are 
+penalised simply by not increasing the score. 
+o e.g. A C d scores 3 because only A, C and d score anything. 
+• But if the script answer contains more units than the target, the surplus units 
+should be penalised.  
+o e.g. A B C d X scores 3 because X scores -1, though A B C d score 4. 
+• No score should be worse than a completely blank answer, so there are no 
+negative scores. 
+o e.g. A B C d X Y Z Z Z scores 0, because althought each X, Y and Z 
+reduces the score by 1, the effect stops when the score reaches 0.  
+How to score 
+1. Follow the marking sheet for  
+a. recognising units 
+b. assigning ticks and halves 
+c. assigning points for ticks and halves. 
+
+=== PAGE 3 ===
+ 
+ 
+                                                                    
+2. Count the units in the script answer and compare this number with the 
+number of units in the target. If the script answer contains more units than the 
+target, go to 4. Otherwise (i.e. in the vast majority of cases) go to 3. 
+3. Add up all the points for ticks and halves. That’s the score. 
+4. As in 3, but then deduct the number of surplus units, i.e. the difference 
+between the numbers of units in the script answer and in the target. 
+ 
+ 
+ 
+Q5. Esperanto (15 marks, 18 points) 
+• Ignore ‘@1’!!! 
+• 3 per correct answer. 
+• 1 for correct choice of first tense (‘will’, present (e.g. is, has) or past (e.g. was, 
+had)) in 1-3. 
+• 1 for correct choice of second tense (going to or have (e.g. had)) in 1-3. 
+• 1 for correct passive voice (been eaten/chased) in 2, 3. 
+• 1 for each correct vowel choice (i/a/o) in the verb ending in 4-6. 
+• 1 for each correct use of t or nt in the verb ending in 4-6. 
+• 1 for just kapron (with –on) in 6. 
+• No marks just for nouns (goat, cat, dog) or verb (eat, chase). 
+• Accept any order of la kapro(n), la hundo and verb. 
+• Deduct ½ for accidental use of wrong word (e.g. chased for eaten; antis for 
+manĝantis). 
+ 
+1. The goat will be going to eat. 
+ 
+ 
+ 
+3 
+2. The goat has been eaten. 
+3. The cat had been chased. 
+4. La kapro manĝantis.  
+5. La hundo manĝatas.  
+6. La hundo ĉasos la kapron. 
+ 
+ 

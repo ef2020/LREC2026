@@ -1,0 +1,209 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2016                          
+ 
+ 
+Problem 3. Watsonium (10 marks) 
+Or: Eilimintach mo Watson daor  (Elementary my dear Watson) 
+Irish (or “Gaeilge”) is a language spoken by roughly 1.3 million people in Ireland. The earliest 
+examples of written Irish date from the fourth century, but this problem is about modern Irish, 
+which includes foreign loan words based on Latin, Greek or English. The Irish spelling of a loan word 
+follows the pronunciation rather than the spelling of the original. 
+The table below shows the Irish names for some of the chemical elements, together with the English 
+names for the same elements. In spite of the different spellings, the Irish words have similar 
+pronunciations to the corresponding English words. The acute accent on a vowel (e.g. é) shows that 
+it is long. Just in case you’re not familiar with the English names and their pronunciation, where ‘e’, 
+‘o’ and ‘u’ are underlined they have a pronunciation like the ‘ee’ in feet, the ‘o’ in rope and snore and 
+the ‘u’ in rule. The ending ium on English words is always pronounced as in medium.  
+English 
+Irish 
+English 
+Irish 
+Beryllium  
+Beiriliam 
+Magnesium 
+Maignéisiam 
+Carbon 
+Carbón 
+Polonium 
+Polóiniam 
+Chlorine 
+Clóirín 
+Promethium 
+Próiméitiam 
+Cobalt 
+Cóbalt  
+Thulium   
+Túiliam  
+Helium 
+Héiliam 
+ 
+ 
+ 
+Question 3.1. What would you expect the Irish names for the following elements to be? 
+Americium  
+ 
+Rhenium  
+ 
+Boron 
+ 
+Ruthenium  
+ 
+Bromine  
+ 
+Sodium  
+ 
+Osmium    
+ 
+Ytterbium (‘itter...’) 
+ 
+Potassium  
+ 
+ 
+ 
+Question 3.2. What do you think the English names for the following elements are? (Don’t worry if 
+you don’t know many chemical elements – just guess! The Irish words don’t all follow the rules 
+you’ve just discovered.) 
+ 
+Ocsaigin 
+ 
+Mearcair 
+ 
+Fosfar 
+ 
+Cailciam 
+ 
+Iarann 
+ 
+Luaidhe 
+ 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2016                          
+ 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2016                          
+ 
+ 
+Problem 3. Watsonium (10 marks) 
+Or: Eilimintach mo Watson daor  (Elementary my dear Watson) 
+Irish (or “Gaeilge”) is a language spoken by roughly 1.3 million people in Ireland. The earliest 
+examples of written Irish date from the fourth century, but this problem is about modern Irish, 
+which includes foreign loan words based on Latin, Greek or English. The Irish spelling of a loan word 
+follows the pronunciation rather than the spelling of the original. 
+The table below shows the Irish names for some of the chemical elements, together with the English 
+names for the same elements. In spite of the different spellings, the Irish words have similar 
+pronunciations to the corresponding English words. The acute accent on a vowel (e.g. é) shows that 
+it is long. Just in case you’re not familiar with the English names and their pronunciation, where ‘e’, 
+‘o’ and ‘u’ are underlined they have a pronunciation like the ‘ee’ in feet, the ‘o’ in rope and snore and 
+the ‘u’ in rule. The ending ium on English words is always pronounced as in medium.  
+English 
+Irish 
+English 
+Irish 
+Beryllium  
+Beiriliam 
+Magnesium 
+Maignéisiam 
+Carbon 
+Carbón 
+Polonium 
+Polóiniam 
+Chlorine 
+Clóirín 
+Promethium 
+Próiméitiam 
+Cobalt 
+Cóbalt  
+Thulium   
+Túiliam  
+Helium 
+Héiliam 
+ 
+ 
+ 
+Question 3.1. What would you expect the Irish names for the following elements to be? 
+Americium  
+Aimeiriciam 
+Rhenium  
+Réiniam 
+Boron 
+Bórón 
+Ruthenium  
+Ruitéiniam 
+Bromine  
+Bróimín 
+Sodium  
+Sóidiam 
+Osmium    
+Oismiam 
+Ytterbium (‘itter...’) 
+Itéirbiam 
+Potassium  
+Potaisiam 
+ 
+ 
+ 
+Question 3.2. What do you think the English names for the following elements are? (Don’t worry if 
+you don’t know many chemical elements – just guess! The Irish words don’t all follow the rules 
+you’ve just discovered.) 
+oxygen 
+Ocsaigin 
+mercury 
+Mearcair 
+phosphorus 
+Fosfar 
+calcium 
+Cailciam 
+iron 
+Iarann 
+lead 
+Luaidhe 
+ 
+
+=== PAGE 4 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2016                          
+ 
+ 
+Scoring: one point for each correct answer. (Max 14) 
+ 
+No half marks – correct is 100% correct. 
+ 
+Ignore capital letters 
+ 
+Accept Irish vowels with or without the accent. 
+ 
+Accept English misspellings or incorrect words if they’re plausible (e.g. phosphor or fosfor for 
+phosphorus), but not if they’re simply copies of the Irish (e.g. fosfar).  
+Comment 
+The aim of this problem is to focus on regularities in the way in which Irish spelling treats words 
+borrowed from English. The examples included do in fact follow regular rules, though other 
+examples that could have been included break these rules.  
+The Irish spellings are clearly very different from the English spellings, so they must be based on the 
+English word’s pronunciation, regardless of how this is shown in English spelling. What, then, are the 
+rules relating Irish spellings to English spellings? 
+ 
+consonants stay the same, except that: 
+o English double consonants => Irish single consonant (e.g. <ll> => <l> - i.e. English <ll> 
+changes to Irish <l>) 
+o English <x> => Irish <cs>  
+o <th> => <t> 
+ 
+vowels stay the same, except that: 
+o <u> => <a> in  –ium  
+o <y> => <i> 
+o <e/u/a/o> => < e/u/a/o + i> before <i/y> in the next syllable. 
+The last rule is at the heart of the problem. It is an example of a ‘vowel-harmony’ rule in which a 
+vowel ‘harmonises with’ the vowel in the next syllable by becoming more similar to it. In this case, 
+the change contrasts the vowel pronounced /i/ and spelt either <i> or <y> with all the others; so /i/ 
+in one syllable, even if it’s combined with another vowel, triggers an extra /i/ in the preceding 
+syllable unless this already contains /i/.  
+ 
