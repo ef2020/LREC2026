@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temp files
+*.tmp
+*.bak
+
+# Large binaries (keep PDFs in Drive, not repo)
+*.pdf
+!corpus/**/*.pdf
