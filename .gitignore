@@ -22,3 +22,10 @@ venv/
 # Large binaries (keep PDFs in Drive, not repo)
 *.pdf
 !corpus/**/*.pdf
+
+# Cookie files
+downloads/cookies*.txt
+
+# Downloaded zip/extracted files
+downloads/*.zip
+downloads/puzzle_*_extracted/
