@@ -1,0 +1,239 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+          The UK Linguistics Olympiad 2022 - Round 1 
+ 
+Problem 7. Korowai and Haruai (20 marks) 
+Korowai is a Greater Awyu language spoken by about 
+3,500 people in Indonesia. Haruai is a Madang 
+language spoken by about 2,000 in Papua New Guinea. 
+Despite the languages not being closely related, their 
+numeral systems share many features. 
+Below are some Korowai/Haruai phrases and their 
+English translations (English-Korowai on the left, 
+Haruai-English on the right). 
+English 
+Korowai 
+ Haruai 
+English 
+3 wrists 
+gédun pinggupanop 
+ ragpb aglŋ 
+1 shoulder 
+5 shoulders 
+main wayoanop 
+ mömd agñöbö rolyöbö 
+2 thumbs 
+6 thumbs 
+wayo gédunanop 
+ mj köñö ngb 
+4 forearms 
+8 ears 
+khotokhal bonggupanop 
+ mömd yŋösw 
+6 thumbs 
+9 index fingers 
+wayafül labulanop 
+ yŋösw mj 
+7 bracelets 
+10 index fingers 
+wayafül mainanop 
+ yŋösw ragpb 
+10 bracelets 
+12 heads 
+khabéan khotokhalanop 
+ aglŋ möl 
+12 little fingers 
+13 heads 
+khabéan khabéananop 
+ ragpb gadlöy 
+13 shoulders 
+16 shoulders 
+main mémainanop 
+ gadlöy ragpb 
+14 collar bones 
+17 elbows 
+bonggup méntabulanop 
+ möl amñab 
+16 holes 
+18 ears 
+khotokhal mémbonggupanop 
+ amñab mj 
+17 elbows 
+19 middle fingers 
+pinggup méntafolanop 
+ gadlöy aglŋ 
+19 collar bones 
+22 thumbs 
+wayo méwayafülanop 
+ mj agñöbö rolyöbö 
+20 forearms 
+23 thumbs 
+wayo ménpinggupanop 
+ möl wölöml 
+21 holes 
+25 ears 
+khotokhal ménsenananop 
+ gadlöy köñö ngb 
+22 collar bones 
+Q 7.1 On your answer sheet, Translate into Korowai: 
+a) little finger 
+b) 21 
+c) 4 index fingers 
+Q 7.2 Translate into Haruai: 
+a) index finger 
+b) 5 
+c) 23 ring fingers 
+Q 7.3 Translate into English, from either Korowai or Haruai (if you think multiple translations are possible, 
+give all): 
+a) lafol  
+ 
+ 
+ 
+ 
+d) mömd 
+b) agñöbö rolyöbö 
+ 
+ 
+ 
+e) yŋösw yŋösw 
+c) wayo ménggédunanop 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+          The UK Linguistics Olympiad 2022 - Round 1 
+ 
+Solution and marking. 
+Scoring: (max 30) 
+General principle:  
+• Each answer has a structure which consists of one or more parts (separated as explained below).  
+• Each part receives 1 point if it is completely correct. 
+• In marking, match a candidate's complete answer onto the correct answer: 
+o Make the best possible match by dividing it into parts to match the correct parts. 
+o But if it includes correct forms in the wrong order, accept only those that have the right 
+order relative to the items before them.   
+▪ E.g. If correct = A B C, then A C B scores 1 for A, 1 for C (which correctly follows A), 
+but 0 for B. 
+o And if it includes extra forms (beyond the correct ones), include these in the parts before or 
+after them which therefore are incorrect and score 0. 
+▪ E.g. If correct = A B, then X A B scores 0 for X A, and A X B scores 0 for either A X or X 
+B. 
+Questions 
+No half marks even if the answer is partly correct. 
+• Q7.1: 1 point per part, where part = word or word-part (separated by +)     
+ 
+[max 7] 
+• Q7.2: 2 points per part = bracketed item.  
+ 
+ 
+ 
+ 
+ 
+ 
+[max 8] 
+• Q7.3: 1 point per phrase or number  
+ 
+ 
+ 
+ 
+ 
+ 
+[max 15] 
+o 0 points if it includes a number (e.g. 7 forearms) where the correct answer is just a noun 
+(e.g. forearm)  
+o For (e), accept "6, 18, 24 bracelets" – so long as it's clear that each number applies to 
+bracelets. 
+Q7.1 (a) senan                                    1 
+Q7.3 (a) forearm                      1 
+(d) thumb(s), 5, 23               3 
+(b) mé+wayo+anop                 3 
+(b) ring finger, 2, 20       3 
+(e) 6 bracelets, 18 bracelets, 24 
+bracelets                                     6 
+(c) wayafül wayafül+anop     3 
+(c) 20 thumbs                  2 
+ 
+Q7.2 
+(a) [köñö ngb]                            2  
+ 
+(b) [mömd]                                 2 
+(c) [agñöbö rolyöbö] [mömd] 4  
+ 
+ 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+          The UK Linguistics Olympiad 2022 - Round 1 
+ 
+Commentary 
+Both languages use a body-count system, although they are implemented in different ways. 
+Korowai 
+Meaning 
+Haruai 
+Meaning 
+(senan)* 
+little finger (1) 
+aglŋ 
+little finger (1, 19) 
+(senanafül)* 
+ring finger (2) 
+agñöbö rolyöbö 
+ring finger (2, 20) 
+pinggup 
+middle finger (3) 
+wölöml 
+middle finger (3, 21) 
+wayafül 
+index finger (4) 
+köñö ngb 
+index finger (4, 22) 
+wayo 
+thumb (5) 
+mömd 
+thumb (5, 23) 
+gédun 
+wrist (6)  
+yŋösw 
+bracelet (6, 18) 
+lafol 
+forearm (7) 
+mj 
+forearm (7, 17) 
+bonggup 
+elbow (8) 
+amñab 
+elbow (8, 16) 
+labul 
+upper arm (9) 
+mac 
+biceps (9, 15) 
+main 
+shoulder (10) 
+ragpb 
+shoulder (10, 14) 
+khomofekholol 
+neck (11) 
+gadlöy 
+collar bone (11, 13) 
+khotokhal 
+ear (12) 
+möl 
+hole (12) 
+khabéan 
+head (13) 
+ 
+ 
+*These words are not used attributively for 1 and 2. For Korowai, numbers in brackets represent the word 
+with -anop marking.  
+In Korowai, 26-X is then indicated by méN-X. To use a number as attributively, suffix -anop and place it 
+after the noun. 
+The Haruai system is slightly more complicated. It is optional whether you mark having moved to the other 
+side of the body, and it is omitted in this question. Hence, for X≤5, X can also represent 18+X. For 6≤X≤11, X 
+can also represent 24-X. There is no attributive marking. 
+Note that when counting fingers on the second hand, Korowai counts in the opposite direction to the first 
+hand (thumb > little finger), whereas Haruai counts the same direction (little finger > thumb). This is 
+because when you count up in Korowai to higher numbers, the order reverses from finger> head, to head> 
+finger, thus thumb> finger, but in Haruai it cycles back to the beginning with no change in order. 
+Sources: 
+Bernard Comrie, Haruai numerals and their implications for the history and typology of numeral systems 
+Lourens de Vries, Numerals in Papuan languages of the Greater Awyu family 

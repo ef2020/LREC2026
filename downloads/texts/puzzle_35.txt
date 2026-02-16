@@ -1,0 +1,131 @@
+
+=== PAGE 1 ===
+The UK Linguistics Olympiad   2019 
+Round 2 
+ 
+ 
+Problem 4. Cupeño (10 marks) 
+Cupeño is an extinct language of the Uto-Aztecan family, formerly spoken in Southern California. The 
+last native speaker, Roscinda Nolasquez, died in 1987.  
+Here are some words in Cupeño and their translations in English: 
+a. pulinchemyax  
+ 
+We were born. 
+b. pinehamaninqal 
+ 
+I used to embarrass him. 
+c. empulinwen 
+ 
+ 
+You (pl.) used to bear children. 
+d. imihamachemin 
+ 
+We upset [past] you (pl.). 
+e. chimichungpen 
+ 
+He kissed us.  
+ 
+ 
+f. echix  
+ 
+ 
+You (sg.) died. 
+g. nipulinen 
+ 
+ 
+You (sg.) assisted at my birth. 
+h. wixpemyax 
+ 
+ 
+They were stepped on. 
+i. pemhamawen  
+ 
+They used to be ashamed. 
+j. piwixenqal 
+ 
+ 
+You (sg.) used to step on him. 
+Q.4. Translate the following: 
+1. chungpemyax 
+2. pichixgal 
+3. We used to kill them. 
+4. You (plural) stepped on us. 
+ 
+ 
+ 
+
+=== PAGE 2 ===
+The UK Linguistics Olympiad   2019 
+Round 2 
+ 
+ 
+Solution and marking. 
+Scoring   (max 8) 
+• 
+2 points for each correct answer; 1 with one error (e.g. one wrong morpheme). 
+o + = morpheme boundary, included for marker’s convenience – not expected in 
+answers. 
+ 
+4.1. 
+chungpemyax 
+They were kissed. 
+4.2. 
+pichixgal 
+He used to die. 
+4.3 
+We used to kill them. 
+ 
+pimi+chem+chix+nin+wen.  
+4.4. 
+You (plural) stepped on us.  
+ 
+chimi+wix+em+in 
+ 
+ 
+
+=== PAGE 3 ===
+The UK Linguistics Olympiad   2019 
+Round 2 
+ 
+ 
+Commentary 
+• Verb templates 
+o template 1 (with in or yax):  
+ 
+▪ [obj] [ROOT] [subj] [in/yax] [“used to”] 
+o template 2 (no in/yax):   
+▪ [obj] [subj] [ROOT] [“used to”] 
+• Affixes:  
+o no affix = intransitive 
+o in = transitive (“i” drops after vowel: Vin → Vn) 
+o yax = passive 
+o nin = causative (a kind of transitive, means “make X [verb]”) 
+o “used to”: qal with singular subject, wen with plural subject 
+• Pronouns  
+o Subject:  
+▪ 1s: ne 
+ 
+1p: chem 
+▪ 2s: e 
+ 
+2p: em 
+▪ 3s: pe 
+ 
+3p: pem 
+o Object:  
+▪ 1s: ni 
+ 
+1p: chimi 
+▪ 2s: i 
+ 
+2p: imi 
+▪ 3s: pi 
+ 
+3p: pimi (in fact, it is mi, but pimi can be inferred) 
+• Verbs: 
+o wix = step on 
+o pulin = bear a child 
+o hama = feel shame 
+o chung = kiss 
+o chix = die 
+ 

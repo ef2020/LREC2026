@@ -1,0 +1,464 @@
+[
+  {
+    "num": 1,
+    "lang": "Inupiaq",
+    "year": 2026,
+    "url": "https://www.uklo.org/wp-content/uploads/2025/12/26.A2-Inupiaq.pdf",
+    "tags": "Se,Mo"
+  },
+  {
+    "num": 2,
+    "lang": "Lezgian",
+    "year": 2026,
+    "url": "https://www.uklo.org/wp-content/uploads/2025/12/26.A3-Lezgian.pdf",
+    "tags": "Mo,Ph,Se"
+  },
+  {
+    "num": 3,
+    "lang": "Khana",
+    "year": 2026,
+    "url": "https://www.uklo.org/wp-content/uploads/2025/12/26.A4-Khana.pdf",
+    "tags": "Sy,Se"
+  },
+  {
+    "num": 4,
+    "lang": "Fur",
+    "year": 2025,
+    "url": "https://www.uklo.org/wp-content/uploads/2025/04/2025R1-2-Fur.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 5,
+    "lang": "Nancowry",
+    "year": 2025,
+    "url": "https://www.uklo.org/wp-content/uploads/2025/04/2025_R2_1-Nancowry.pdf",
+    "tags": "Se,Mo,Ph"
+  },
+  {
+    "num": 6,
+    "lang": "Sakata",
+    "year": 2025,
+    "url": "https://www.uklo.org/wp-content/uploads/2025/04/2025_R2_2-Sakata.pdf",
+    "tags": "Sy,Mo"
+  },
+  {
+    "num": 7,
+    "lang": "Khmer",
+    "year": 2024,
+    "url": "https://www.uklo.org/wp-content/uploads/2024/04/2024_R1_3-Khmer.pdf",
+    "tags": "Sy,Wr"
+  },
+  {
+    "num": 8,
+    "lang": "Tariana",
+    "year": 2024,
+    "url": "https://www.uklo.org/wp-content/uploads/2024/04/2024_R1_5-Tariana.pdf",
+    "tags": "Se,Mo"
+  },
+  {
+    "num": 9,
+    "lang": "Yawalapiti",
+    "year": 2024,
+    "url": "https://www.uklo.org/wp-content/uploads/2024/03/2024_R2_1-Yawalapiti.pdf",
+    "tags": "Mo,Ph"
+  },
+  {
+    "num": 10,
+    "lang": "Jam Sai",
+    "year": 2023,
+    "url": "https://www.uklo.org/wp-content/uploads/2023/03/2023_R1_2-Jam-Sai.pdf",
+    "tags": "Se,Mo"
+  },
+  {
+    "num": 11,
+    "lang": "Lardil",
+    "year": 2023,
+    "url": "https://www.uklo.org/wp-content/uploads/2023/03/2023_R1_7-Lardil.zip",
+    "tags": "Se,Mo"
+  },
+  {
+    "num": 12,
+    "lang": "Filomeno Mata Totonac",
+    "year": 2023,
+    "url": "https://www.uklo.org/wp-content/uploads/2023/03/2023_R1_10-Filomeno-Mata-Totonac.pdf",
+    "tags": "Se,Ph"
+  },
+  {
+    "num": 13,
+    "lang": "Komnzo",
+    "year": 2023,
+    "url": "https://www.uklo.org/wp-content/uploads/2023/03/2023_R2_4-Komnzo.pdf",
+    "tags": "Ph,Wr"
+  },
+  {
+    "num": 14,
+    "lang": "Swedish",
+    "year": 2022,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/1_UKLO-2022-Swedish_The-Pink-Pig-is-Pink_-Complete-Script.pdf",
+    "tags": "Mo"
+  },
+  {
+    "num": 15,
+    "lang": "Buhid",
+    "year": 2022,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2_UKLO-2022-Buhid_Buhid-Script_Complete-Script.pdf",
+    "tags": "Wr"
+  },
+  {
+    "num": 16,
+    "lang": "Arhuaco",
+    "year": 2022,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/5_UKLO-2022-Arhuaco_Arhuaco-things-places_-Complete-Script.pdf",
+    "tags": "Se"
+  },
+  {
+    "num": 17,
+    "lang": "Korowai and Haruai",
+    "year": 2022,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/08/7_UKLO-2022-Korowai-and-Haruai__Complete-Script.zip",
+    "tags": "Nu"
+  },
+  {
+    "num": 18,
+    "lang": "Tseltal",
+    "year": 2022,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/9_Adv_UKLO-2022-Tseltal__Complete-Script.pdf",
+    "tags": "Se,Mo"
+  },
+  {
+    "num": 19,
+    "lang": "Kabyle",
+    "year": 2021,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2021_2-Kabyle.pdf",
+    "tags": "Sy,Mo"
+  },
+  {
+    "num": 20,
+    "lang": "Ditema",
+    "year": 2021,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2021_4-Ditema.pdf",
+    "tags": "Wr"
+  },
+  {
+    "num": 21,
+    "lang": "Longgu",
+    "year": 2021,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2021_6-Longgu.pdf",
+    "tags": "Se"
+  },
+  {
+    "num": 22,
+    "lang": "Norwedish",
+    "year": 2020,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2020_3.-Norwedish.pdf",
+    "tags": "Sy"
+  },
+  {
+    "num": 23,
+    "lang": "Yukhagir",
+    "year": 2020,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2020_9.-Yukhagir.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 24,
+    "lang": "Inapari",
+    "year": 2020,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2020_10.-Inapari.pdf",
+    "tags": "Mo"
+  },
+  {
+    "num": 25,
+    "lang": "Paiwan",
+    "year": 2020,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2020_R2_1-Paiwan.pdf",
+    "tags": "Sy,Mo"
+  },
+  {
+    "num": 26,
+    "lang": "Yoruba",
+    "year": 2020,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2020_R2_2-Yoruba.pdf",
+    "tags": "Nu"
+  },
+  {
+    "num": 27,
+    "lang": "Ute",
+    "year": 2020,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2020_R2_4-Ute.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 28,
+    "lang": "Japanese",
+    "year": 2019,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2019_2-Japanese.pdf",
+    "tags": "Wr,Se"
+  },
+  {
+    "num": 29,
+    "lang": "Jahai",
+    "year": 2019,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2019_3-Jahai.pdf",
+    "tags": "Se"
+  },
+  {
+    "num": 30,
+    "lang": "Welsh",
+    "year": 2019,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2019_4-Welsh.pdf",
+    "tags": "Sy,Ph"
+  },
+  {
+    "num": 31,
+    "lang": "Pitjantjatjara",
+    "year": 2019,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2019_5-Pitjantjatjara.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 32,
+    "lang": "Ndebele",
+    "year": 2019,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2019_9-Ndebele.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 33,
+    "lang": "Braille",
+    "year": 2019,
+    "url": "https://www.uklo.org/wp-content/uploads/2023/08/2019_10-Braille.pdf",
+    "tags": "Wr"
+  },
+  {
+    "num": 34,
+    "lang": "Afrihili",
+    "year": 2019,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2019_R2_1.-Afrihili.pdf",
+    "tags": "Mo,Se"
+  },
+  {
+    "num": 35,
+    "lang": "Cupeno",
+    "year": 2019,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2019_R2_4.-Cupeno.pdf",
+    "tags": "Mo"
+  },
+  {
+    "num": 36,
+    "lang": "Romanian",
+    "year": 2018,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2018_1-Romanian.pdf",
+    "tags": "Mo"
+  },
+  {
+    "num": 37,
+    "lang": "Lithuanian",
+    "year": 2018,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2018_2-Lithuanian.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 38,
+    "lang": "Fijian",
+    "year": 2018,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2018_4-Fijian.pdf",
+    "tags": "Se,Mo"
+  },
+  {
+    "num": 39,
+    "lang": "Mayangna",
+    "year": 2018,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2018_R2_5-Mayangna.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 40,
+    "lang": "Italian",
+    "year": 2017,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2017_1.-Italian.pdf",
+    "tags": "Sy,Mo"
+  },
+  {
+    "num": 41,
+    "lang": "Inuktitut",
+    "year": 2017,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2017_2.-Inuktitut.pdf",
+    "tags": "Wr"
+  },
+  {
+    "num": 42,
+    "lang": "Tshiluba",
+    "year": 2017,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2017_4.-Tshiluba.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 43,
+    "lang": "Maori",
+    "year": 2017,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2017_6.-Maori.pdf",
+    "tags": "Sy"
+  },
+  {
+    "num": 44,
+    "lang": "Choctaw",
+    "year": 2017,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2017_8.-Choctaw.pdf",
+    "tags": "Mo"
+  },
+  {
+    "num": 45,
+    "lang": "Abkhaz",
+    "year": 2017,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2017_9.-Abkhaz.pdf",
+    "tags": "Mo,Se"
+  },
+  {
+    "num": 46,
+    "lang": "Kaytetye",
+    "year": 2017,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2017_10.-Kaytetye.pdf",
+    "tags": "Se,Mo"
+  },
+  {
+    "num": 47,
+    "lang": "Nepali",
+    "year": 2017,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2017_R2.1-Nepali.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 48,
+    "lang": "Proto-Algonquian",
+    "year": 2017,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2017_R2.2-Proto-Algonquian.pdf",
+    "tags": "Mo"
+  },
+  {
+    "num": 49,
+    "lang": "Irish",
+    "year": 2016,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2016_3.-Watsonium.pdf",
+    "tags": "Wr"
+  },
+  {
+    "num": 50,
+    "lang": "Chinese characters",
+    "year": 2016,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2016_4.-Beijing.pdf",
+    "tags": "Wr"
+  },
+  {
+    "num": 51,
+    "lang": "Karelian",
+    "year": 2015,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2015_1-Karelian.pdf",
+    "tags": "Nu"
+  },
+  {
+    "num": 52,
+    "lang": "Murrinhpatha",
+    "year": 2015,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2015_7-Murrinhpatha.pdf",
+    "tags": "Mo"
+  },
+  {
+    "num": 53,
+    "lang": "Georgian",
+    "year": 2015,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/05/2015_10-Georgian.pdf",
+    "tags": "Mo,Sy,Wr"
+  },
+  {
+    "num": 54,
+    "lang": "Estonian",
+    "year": 2014,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/08/2014.1-Estonian.pdf",
+    "tags": "Se,Nu"
+  },
+  {
+    "num": 55,
+    "lang": "Yidiny",
+    "year": 2014,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/08/2014r2.3-Yidiny.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 56,
+    "lang": "Navajo",
+    "year": 2014,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/08/2014r2.4-Navajo.pdf",
+    "tags": "Se,Sy"
+  },
+  {
+    "num": 57,
+    "lang": "Zapotec",
+    "year": 2013,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/09/2013.2-Zapotec.pdf",
+    "tags": "Mo"
+  },
+  {
+    "num": 58,
+    "lang": "Bulgarian",
+    "year": 2013,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/09/2013.5-Bulgarian.pdf",
+    "tags": "Mo"
+  },
+  {
+    "num": 59,
+    "lang": "Bengali",
+    "year": 2013,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/09/2013.9-Bengali.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 60,
+    "lang": "Beja",
+    "year": 2013,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/09/2013r2.3-Beja.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 61,
+    "lang": "Danish",
+    "year": 2012,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/09/2012.2-Danish.pdf",
+    "tags": "Nu"
+  },
+  {
+    "num": 62,
+    "lang": "Welsh",
+    "year": 2012,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/09/2012.3w-Welsh.pdf",
+    "tags": "Sy,Mo"
+  },
+  {
+    "num": 63,
+    "lang": "Haitian",
+    "year": 2012,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/09/2012.4-Haitian.pdf",
+    "tags": "Ph"
+  },
+  {
+    "num": 64,
+    "lang": "Esperanto",
+    "year": 2012,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/09/2012.5-Esperanto.pdf",
+    "tags": "Mo,Sy"
+  },
+  {
+    "num": 65,
+    "lang": "Arcturan",
+    "year": 2012,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/09/2012.8-Arcturan.pdf",
+    "tags": "Sy"
+  },
+  {
+    "num": 66,
+    "lang": "Luiseno",
+    "year": 2012,
+    "url": "https://www.uklo.org/wp-content/uploads/2022/09/2012r2.2-Luiseno.pdf",
+    "tags": "Sy"
+  }
+]

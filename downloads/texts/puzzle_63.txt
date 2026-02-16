@@ -1,0 +1,172 @@
+
+=== PAGE 1 ===
+ 
+ 
+                                                                                              
+ 
+UKLO Round 1 2012 
+4. Haitian (10 marks) 
+Haitian Creole is a language spoken by about 10 million people in Haiti. It is based 
+largely on French and some African languages. In the spelling, the combinations an, 
+en, and on denote nasal vowels. The table below contains nouns in Haitian Creole 
+combined with definite articles, meaning ‘the’. The English translation is just for the 
+noun itself; so kòl la means ‘the necktie’, and kòl means ‘necktie’. 
+ 
+kòl la 
+necktie 
+jaden an 
+garden 
+lanp lan 
+lamp 
+kouto yo 
+knives 
+mayi a 
+maize 
+lanmou an 
+love 
+ri a 
+street 
+pant lan 
+slope 
+manman an 
+mother 
+kabann nan 
+bed 
+sant yo 
+odours 
+lèt la 
+letter 
+sans lan 
+sense 
+telefòn nan 
+telephone 
+kò a 
+body 
+mi an 
+wall 
+fanm nan 
+woman 
+joumou an 
+pumpkin 
+ban an 
+bench, ban 
+kay la 
+house 
+fanmi an 
+family 
+pon an 
+bridge 
+liv yo 
+books 
+dam nan 
+lady 
+ 
+Question Provide the words represented by ‘?’ in the table below.  
+1 
+lalin ? 
+the moon 
+2 
+pitimi ? 
+the millet 
+3 
+muzik ? 
+the music 
+4 
+maldamou ? 
+the love-sickness 
+5 
+kap ? 
+the kite 
+6 
+radyo ? 
+the radio 
+7 
+vant ? 
+the belly 
+8 
+tan ? 
+the time 
+9 
+? 
+the knife 
+10 
+? 
+the bodies 
+11 
+? 
+the odour 
+12 
+? 
+the book 
+
+=== PAGE 2 ===
+ 
+ 
+                                                                                              
+ 
+SOLUTION 
+Q4. Haitian (10 marks, 12 points) 
+• Units: items #1-12 
+• Points per unit:  
+o 1 per correct answer. 
+o ½ for correct ‘the’ without noun in #9-12. 
+1 nan 
+2 an 
+3 la 
+4 an 
+ 
+1 
+5 la 
+6 a 
+7 lan 
+8 an 
+9 kouto a 
+10 kò yo  
+11 sant lan  
+12 liv la 
+Comment 
+• The challenge is to work out what determines the form of the article. In 
+metropolitan French, the determinant is partly phonological (l’ before a vowel, 
+as in l’enfant, the child) but mainly grammatical: masculine singular le, 
+feminine singular la, plural les. In Haitian, however, it turns out that the main 
+determinant is phonology, with grammar playing a smaller part (the plural is 
+always yo). 
+• What, then, are the possible forms for the singular? There are just five: 
+o a, an, la, lan, nan. 
+o these differ in two places : 
+▪ first consonant: l, n, nothing 
+▪ last consonant: n, nothing 
+• n is a nasal consonant, along with m.  
+o Notice that the introduction tells us that an, en and on are nasal vowels, 
+so nasality is important. (Nasal sounds have breath escaping through 
+the nose.)  
+o Notice too that only those three combinations of letters are for nasal 
+vowels – not, for example, in or am (unlike metropolitan French). 
+• Since you can see that these are related, it would be helpful to lay them out in 
+a table in the hope of finding patterns, with A1-3 and B1-3 as the possible 
+determining conditions; so for example when we have patterns A1+B1 we find 
+a: 
+a 
+an 
+ 
+B1 
+la 
+lan 
+ 
+B2 
+ 
+ 
+nan 
+B3 
+A1 
+A2 
+A3 
+ 
+• What then are these patterns? 
+o A1: this is the normal pattern. 
+o A2: when the noun’s last vowel is either a nasal vowel or follows a 
+nasal consonant. 
+o A3: when the noun ends in a nasal consonant. 
+o B1: when the noun ends in a vowel. 
+o B2: when the noun ends in a non-nasal consonant (including y) 
+o B3: as for A3. 

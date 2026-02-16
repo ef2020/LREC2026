@@ -1,0 +1,232 @@
+
+=== PAGE 1 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+Problem 3. Norwedish? (10 marks) 
+Norwegian and Swedish are said to be so closely related that speakers of one can 
+understand the other – they are mutually comprehensible. Like English, German 
+and Dutch, the languages are classified as ‘Germanic’, but they are less closely 
+related to English than Dutch is. 
+Below are some sentences in both languages with their English translations. Note: 
+the accents matter as “a” is different from “ä” or “å” and the meaning of a word 
+may depend on exactly which vowel is used. 
+ 
+Norwegian 
+Swedish 
+English 
+Kan du snakke litt 
+langsommere? 
+Kan du tala lite långsammere? 
+Can you speak a little more slowly? 
+Jeg forstår ikke. 
+Jag förstår inte. 
+I don’t understand. 
+Snakker du norsk? 
+Talar du svenska? 
+Do you speak Norwegian/Swedish? 
+Vi liker engelsk. 
+Vi gillar engelska. 
+We like English. 
+Han spiser middag. 
+Han äter middag. 
+He is eating dinner. 
+Når går neste tog? 
+När går näste tåg? 
+When does (the) next train go?  
+Hun liker frokost. 
+Hon gillar frukost. 
+She likes breakfast. 
+Dette er ikke Storbritannia. 
+Det här är inte Storbritannien. 
+This is not Great Britain. 
+ 
+[The questions for you are on the next page.] 
+ 
+
+=== PAGE 2 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+Q3.1. Write N or S in the last column to show whether the sentence is in Norwegian or Swedish. 
+Sentence: 
+English translation: 
+N or S? 
+Dette er flott. 
+This is beautiful. 
+ 
+Jeg kan ikke spise frokost veldig tidlig. 
+I can’t eat breakfast very early. 
+ 
+Tåget är mycket tidigt. 
+The train is very early. 
+ 
+Hon gör frukost bra. 
+She does breakfast well. 
+ 
+Dette var ikke bra. 
+This was not great. 
+ 
+Det här är bra. 
+This is great. 
+ 
+Han har inte ett hus. 
+He doesn’t have a house. 
+ 
+Ett tåg var sent i går. 
+A train was late yesterday. 
+ 
+Norsk är inte mycket svår.  
+Norwegian is not very difficult. 
+ 
+Huset er flott. 
+The house is beautiful. 
+ 
+ 
+Q3.2. Supply the Norwegian and Swedish translations below. Pay attention to the accents! 
+Norwegian 
+Swedish 
+English 
+ 
+ 
+When is dinner? 
+ 
+ 
+ 
+This is not the train. 
+ 
+ 
+ 
+Can you understand 
+Swedish? 
+ 
+ 
+We like the house. 
+ 
+ 
+ 
+She understands 
+Norwegian very well. 
+ 
+ 
+I cannot speak English 
+very well. 
+ 
+
+=== PAGE 3 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+Solution and marking. 
+Scoring: (max 34) 
+• 
+3.1: 1 for each correct answer. (max 10) 
+• 
+3.2: 2 for each correct answer; 1 with one wrong, extra or missing word. (max 24) 
+o Expect correct accents! But don’t insist on clear shapes. 
+o Expect correct inflections (e.g. forstå, not forstår) 
+o Ignore capital letters (e.g. Norsk for norsk) 
+o Ignore minor copying errors (e.g. englesk for engelsk) 
+Q3.1. Sentence: 
+English translation: 
+N or S? 
+Dette er flott. 
+This is beautiful. 
+N 
+Jeg kan ikke spise frokost veldig tidlig. 
+I can’t eat breakfast very early. 
+N 
+Tåget är mycket tidigt. 
+The train is very early. 
+S 
+Hon gör frukost bra. 
+She does breakfast well. 
+S 
+Dette var ikke bra. 
+This was not great. 
+N 
+Det här är bra. 
+This is great. 
+S 
+Han har inte ett hus. 
+He doesn’t have a house. 
+S 
+Ett tåg var sent i går. 
+A train was late yesterday. 
+S 
+Norsk är inte mycket svår.  
+Norwegian is not very difficult. 
+S 
+Huset er flott. 
+The house is beautiful. 
+N 
+Q3.2. Norwegian 
+Swedish 
+English 
+Når er middag? 
+När är middag? 
+When is dinner? 
+Dette er ikke toget. 
+Det här är inte tåget. 
+This is not the train. 
+Kan du forstå svensk? 
+Kan du förstå svenska? 
+Can you understand 
+Swedish? 
+Vi liker huset. 
+Vi gillar huset. 
+We like the house. 
+Hun forstår norsk veldig bra. 
+Hon förstår norsk mycket 
+bra. 
+She understands 
+Norwegian very well. 
+Jeg kan ikke snakke engelsk veldig 
+bra. 
+Jag kan inte tala engelska 
+mycket bra. 
+I cannot speak English very 
+well. 
+
+=== PAGE 4 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+ 
+ 
+Commentary 
+Some key differences (apart from obvious lexical differences such as the verbs “eat” or “like”) are: 
+• 
+the formation of the negative: “ikke” for Norwegian, “inte” for Swedish; 
+• 
+the demonstrative pronoun in Norwegian is the one-word demonstrative pronoun “dette” while 
+Swedish has the two-word phrase “det här” (literally: “this here”). 
+• 
+Most of the language names used in this problem end in  -sk in Norwegian, but -ska in Swedish: 
+“svenska” for example. The exception, however is “norsk”, which is the same in both Norwegian and 
+Swedish (and this can be worked out in task 3.1 sentence number 9)!  
+Grammar-points for the translation task: 
+• 
+Norwegian and Swedish verbs have the same inflection for every person singular and plural. 
+• 
+The negators “ikke” or “inte” go after the finite verb (the verb that they are negating). 
+• 
+These languages differ in the use of articles from other Germanic languages such as English. 
+Indefinite articles exist – in this problem the indefinite neuter “ett” (Swedish) – but there are no 
+separate definite articles like English “the”. Instead of a definite article in front of the noun, the noun 
+receives a suffix. This problem only features the neuter definite forms: “huset” (the house in both 
+languages), “toget” (“the train” in Norwegian) and “tåget” (“the train” in Swedish).  
+ 
+ 

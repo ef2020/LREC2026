@@ -1,0 +1,116 @@
+
+=== PAGE 1 ===
+2024 – Round 1
+Problem 3. Khmer (10 marks)
+Cambodia is a country in South-East Asia, bordered by Thailand, Laos
+and Vietnam. The vast majority of the population are Khmer, which is
+also the name of the official language, spoken by about 18 million people.
+The Khmer script is one of the oldest recorded in South-East Asia and is
+based on an ancient script from Southern India.
+Below is an extract from the menu of a Cambodian restaurant, with
+English translations of each dish. English words in brackets are added for
+clarity, but do not correspond to any Khmer word. You do not need to
+know how any Khmer words are pronounced to solve this problem.
+Note that buffalo is a cow-like animal, kept for its meat and milk in Asia. Tofu is a vegetarian food
+made from soya beans.
+ម្ហូបែខ្មរ
+Cambodian food
+ëបយÝបôបច់្រកបី
+fried rice (with) buffalo
+ëបយÝបôបច់្រជូក
+fried rice (with) pork
+ëបយÝបõបេĎបហ៊ូ
+fried rice (with) tofu
+ëបយដំេណើបខ្ទិះដូង
+sticky rice (with) coconut milk
+ëបយដំេណើបô្វបយ
+sticky rice (with) mango
+ôបöបត់ôបច់េÙប
+beef salad
+ôបöបត់្រតី
+fish salad
+ស៊ុប្រតី
+fish soup
+គុយèបវស៊ុតôបច់េÙប
+egg noodles (with) beef
+គុយèបវស៊ុតôបច់្រជូក
+egg noodles (with) pork
+គុយèបវទឹក។ôបច់បÛ្គប
+noodles (in) liquid (with) shrimp
+គុយèបវទឹក។
+noodles (in) liquid
+
+=== PAGE 2 ===
+2024 – Round 1
+Q 3.1 A vegetarian friend, who does not eat meat, fish, or seafood, is planning a trip to Cambodia.
+Which of the following dishes are suitable for them?
+a. កូកុងôបច់បÛ្គប
+b. គុយèបវទឹក។្រតី
+c. ëបយÝប
+d. ôបöបត់õបេĎបហ៊ូ
+e. គុយèបវស៊ុតôបច់ïបន់
+Q 3.2 If you know that េÙបmeans “cow” and ្រជូកmeans “pig”, what does the word ôបច់
+mean?
+Q 3.3 What common Western food or drink is written in Khmer as ទឹកេáបះេÙប?
+Q 3.4 Here are four more dishes from the restaurant menu. Translate them (or say what they contain).
+f. ស៊ុបបÛ្គបដូង
+g. គុយèបវÝប
+h. ôបöបត់ស៊ុត
+i. ëបយ Ýបôបច់បÛ្គប
+
+=== PAGE 3 ===
+2024 – Round 1
+Problem 3. Khmer Answers
+For Q3.1 tick ‘yes’ if a dish is
+vegetarian or ‘no’ if it is not.
+a.
+b.
+c.
+d.
+e.
+Yes □□□✓□✓□
+No □✓□✓□□□✓
+3.2
+meat, flesh
+3.3
+(dairy) milk
+3.4
+f. soup (with) shrimp (and) coconut
+h. egg salad
+g. fried noodles
+i. fried rice (with) shrimp
+Q 3.1 Max 5. 1 pt per correct tick. Accept any unambiguous marking instead of a tick, e.g. x.
+Q 3.2 Max 1. 1 pt if correct. Accept anything similar to meat, flesh etc. Do not accept “animal
+product”, “meat”, or “seafood”. Do not accept specific kinds of meat, e.g. “beef”, “pork”.
+Q 3.3 Max 1. 1 pt if correct. Accept anything containing milk, e.g. “milk shake”. Do not accept
+non-dairy milks, such as “soy milk”.
+Q 3.4 Max 10. 1 pt per correct word. Ignore words in brackets. If the answer has all of the correct
+words with extra ingredients, deduct 1 pt. E.g. both coconut soup and coconut shrimp meat soup
+score 2 pts.
+
+=== PAGE 4 ===
+2024 – Round 1
+Problem 3. Khmer Explanations
+Q 3.1
+dishes
+suitable for vegetarians?
+a. កូកុងôបច់បÛ្គប
+No. Highlighted is the word for shrimp).
+b. គុយèបវទឹក។្រតី
+No. Highlighted is the word for fish).
+c. ëបយÝប
+Yes. This means fried rice.
+d. ôបöបត់õបេĎបហ៊ូ
+Yes. This means tofu salad.
+e. គុយèបវស៊ុតôបôបច់ïបន់
+No. We don’t know what the highlighted
+word is, but it’s some sort of meat. (Ac-
+tually, it’s chicken.)
+Q 3.2 ôបច់only appears in dishes with meat (not fish or vegetarian options; however, it does
+occur with shrimp). In a similar manner, English makes a distinction between the live animals
+with ‘cow’ and ‘pig’ for example, and when referring to the meat of these animals, English uses
+‘beef’ and ‘pork’ instead.
+Q 3.3 Literally: liquid (something) cow
+References
+• Smyth, D. (1995) Colloquial Cambodian. A Complete Language Course. Routledge
+• https://www.omniglot.com/writing/khmer.htm

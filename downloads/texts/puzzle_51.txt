@@ -1,0 +1,124 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2015                          
+ 
+Problem 1: Counting in Karelian 
+Karelian is a language related to Finnish (but not to English) spoken mainly in the Russian 
+Republic of Karelia, in Tver Oblast and in parts of Finland. It has about 100,000 speakers. 
+The table below shows the Karelian words for some numbers. Your task is to complete the 
+table by filling the gaps. The letters š, č and ǯ are pronounced like the first sounds in shirt, 
+chat and jug, ä is like the a in cat, and y is a combination of oo and ee (like u in French).  
+ 
+1 yksi 
+18
+ 
+2 kakši 
+19
+  
+3   
+23
+kakšikymmendä kolme 
+4 neljjä 
+28
+  
+5 viizi 
+36
+kolmekymmendä kuuǯi 
+6 kuuǯi 
+44
+  
+7   
+52
+  
+8   
+58
+viizikymmendä kahekšan 
+9 yhekšän 
+60
+  
+10 kymmenen 
+67
+kuuǯikymmendä seiččemän 
+11 yksitoista 
+74
+  
+12 kakšitoista 
+80
+  
+13 kolmetoista 
+81
+kahekšankymmendä yksi 
+14 neljjätoista 
+92
+yhekšänkymmendä kakši 
+15   
+99
+  
+ 
+ 
+ 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2015                          
+ 
+Problem 1: Counting in Karelian – solution (26 points) 
+Scoring: 2 points for each correct answer. 1 for a partially correct answer (max 26) 
+ 
+1 yksi 
+18
+kahekšantoista 
+2 kakši 
+19
+ yhekšäntoista 
+3  kolme 
+23
+kakšikymmendä kolme 
+4 neljjä 
+28
+ kakšikymmendä kahekšan 
+5 viizi 
+36
+kolmekymmendä kuuǯi 
+6 kuuǯi 
+44
+neljjäkymmendä neljjä 
+7 seiččemän
+52
+viizikymmendä kakši
+8 kahekšan
+58
+viizikymmendä kahekšan 
+9 yhekšän 
+60
+ kuuǯikymmendä 
+10 kymmenen 
+67
+kuuǯikymmendä seiččemän 
+11 yksitoista 
+74
+seiččemänkymmendä neljjä 
+12 kakšitoista 
+80
+kahekšankymmendä 
+13 kolmetoista 
+81
+kahekšankymmendä yksi 
+14 neljjätoista 
+92
+yhekšänkymmendä kakši 
+15  viizitoista 
+99
+ yhekšänkymmendä yhekšän 
+ 
+Commentary 
+ 
+The key here is to be able to work out the system of numbering. 
+1. The words for the numbers 1-10 are idiosyncratic and need to be learned. 
+2. The words for the numbers 11-19 are composed of the relevant number from 1 to 9 plus 
+a suffix -toista. 
+3. Multiples of ten are composed of the relevant number from 1 to 9 plus a suffix, which is 
+the partitive form of 10, i.e. kymmendä. 
+4. Other numbers involve the compounding of the lower multiple of ten plus the number 
+from 1 to 9 (as in English). 

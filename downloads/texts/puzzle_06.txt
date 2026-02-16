@@ -1,0 +1,131 @@
+
+=== PAGE 1 ===
+2025 – Round 2
+Problem 2. Sakata (20 marks)
+Sakata (also known as Kisakata) is a Bantu language spoken by several thousand people in the
+Democratic Republic of Congo. It consists of several quite distinct dialects; this problem features the
+dialect spoken in the village of Bosobe in the 1980s.
+Below are some Sakata sentences, with their English translations. Note that ə and ü are both
+vowels.
+1.
+Banka balülü bamwi bebil benini.
+The good women saw the big fields.
+2.
+Banjir babibə badzo ibat lelülü.
+The bad men killed the good duck.
+3.
+Keto ketita kejo ntaw ne banjir.
+The long snake heard the men’s goat.
+4.
+Mabat masinxunə ola mokan mo munjir.
+The ducks wanted to eat the man’s book.
+5.
+Mva nekikə ne banka nejao otang.
+The women’s little dog learnt to read.
+6.
+Nə ala ipe le ibat lenini?
+Who ate the big duck’s wing?
+7.
+Munkar nejo nko ne bang.
+The woman heard the children’s chicken.
+8.
+Nko ibibə ila ncher i bang.
+The bad chickens ate the children’s peanuts.
+9.
+Bande bachunga ntaw ilülü.
+The white men bought the good goats.
+10.
+Ntaw i banka ikwi o kebil ke munde.
+The women’s goats went to the white man’s field.
+11.
+Nə amwi bena be bande?
+Who saw the white men’s things?
+12.
+Ngombe nekikə nemwi lecher lenini.
+The little cow saw the big peanut.
+Q 2.1 Translate into English:
+13. Mva imwi ntaw nebibə.
+14. Bang basinxunə ochunga ngombe nenini.
+15. Munjir nekikə netang mekan melülü.
+16. Nə adzo beto be munkar?
+Q 2.2 Translate into Sakata:
+17. The cows heard the big dogs.
+18. The white man learnt to eat wings.
+19. Who bought the children’s little thing?
+20. The snakes of the field read the big books.
+Q 2.3 Explain your solution.
+
+=== PAGE 2 ===
+2025 – Round 2
+Problem 2. Sakata Answers
+2.1
+13. The dogs saw the bad goat.
+14. The children wanted to buy a big cow.
+15. The little man read the good books.
+16. Who killed the woman’s snakes?
+2.2
+17. Ngombe ijo mva inini. [3]
+18. Munde nejao ola mape. [3]
+19. Nə achunga kena kekikə ke bang? [4]
+20. Beto be kebil betang mekan menini. [4]
+Q 2.1 Max 8. For each sentence, award 2 pts if correct; 1 pt with one mistake (e.g., wrong word,
+wrong singular/plural, missing question, ...)
+Q 2.2 Max 14. In each sentence: 3 or 4 pts if correct (see above). Deduct 1 pt per mistake, to a
+minimum of 0.
+Q 2.3 Max 33. 6 pts for describing the syntax; 14 pts for describing the agreement system; 11 pts for
+listing noun class prefixes; 2 pts for describing any irregularities.
+
+=== PAGE 3 ===
+2025 – Round 2
+Problem 2. Sakata Commentary
+1. Syntax:
+• Subject – Verb – [Infinitive] – Object
+– Verbs take o- in the infinitive, or an agreement prefix for their subject (see below).
+•
+[o = to] – Noun – Adjective – [LNK – Possessor]
+– Adjectives take an agreement prefix.
+– In possessive constructions, LNK = agreement prefix for the possessed noun, as a
+free-standing linking word.
+2. Noun class: all nouns begin with a noun class prefix.
+Singular
+Plural
+Noun prefix
+Agreement prefix
+Noun prefix
+Agreement prefix
+woman, man, child, white man ...
+mu-
+ne-
+ba-
+ba-
+book, ...
+mo-
+mo-
+me-
+me-
+duck, wing, ...
+i-
+le-
+ma-
+ma-
+field, thing, snake, ...
+ke-
+ke-
+be-
+be-
+goat, dog, chicken, cow, ...
+n-
+ne-
+n-
+i-
+peanut, ...
+le-
+le-
+n-
+i-
+nə = who
+a-
+Note that here, all noun classes are either singular classes or plural classes. This is not true in
+general, although these represent the most common singular–plural pairs.
+n-va > mva and ba-nkar > banka.
+All data in this problem comes from the author’s own fieldwork in Bosobe.

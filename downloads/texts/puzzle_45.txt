@@ -1,0 +1,164 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Problem 9. The Goat, the Mother and the Wardrobe (25 marks) 
+Abkhaz is a Caucasian language predominantly spoken by around 100,000 people in the 
+disputed territory of Abkhazia, and by a few thousand people in Turkey, Georgia, Syria, 
+Russia, and Jordan. Among other things, it is known for having an extraordinary number of 
+consonants (58 in the literary dialect). Here are some Abkhaz sentences in simplified 
+transcription and their English translations. (hʷ, ʃʷ, p’, chᵂ, kʷ, ʃ,k’ʷ, ʒʷ, k’, c’, tɕʼ, x and ʁ 
+are consonants, and ә is a vowel.) 
+The god is wearing the apron. 
+Anchᵂa apәrahʷa  aʃʷup’. 
+The mothers are wearing the trousers. 
+Anchᵂa ajkʷa  rәʃop’. 
+The squirrel is wearing the hat. 
+Aeʃ axәlpa aʃʷup’. 
+You (sg) are wearing the hat. 
+Axәlpa  bʃʷup’. 
+You (pl) are wearing the felt boots. 
+Ajmsәkᵂa  ʃʷәʃop’. 
+The mother is wearing the cherkeska1. 
+An  ak’ʷәmʒʷә  lʃʷup’. 
+We are wearing the shoes. 
+Ajmaakᵂa  haʃop’. 
+I am wearing the shawl. 
+Ak’asә  sʃʷup’. 
+The old men are wearing the coats. 
+Atahᵂmadachᵂa  ac’atɕ'kᵂa  rʃʷup’.
+The sons are wearing the cherkeskas. 
+Abachᵂa  ak’ʷәmʒʷәkᵂa  rʃʷup’. 
+The girl is wearing the felt boots. 
+Adzʁab  ajmsәkᵂa  lәʃop’. 
+The billy-goat is wearing the trousers. 
+Ab  ajkʷa  aʃop’. 
+The old man is wearing the apron. 
+Atahᵂmada  apәrahʷa  iʃʷup’. 
+The billy-goats are wearing the cherkeskas. Abkᵂa  ak’ʷәmʒʷәkᵂa  rʃʷup’. 
+The squirrels are wearing the shawls. 
+Aeʃkᵂa  ak’asәkᵂa  rʃʷup’. 
+ 
+Q.9. On your answer sheet, translate the following into English or Abkhaz: 
+1. Adzʁabchᵂa  ajmaakᵂa  rәʃop’.  
+2. Aba ajkʷa  iʃop’.  
+3. Ak’asәkᵂa  ʃʷʃʷup’. 
+4. You (sg) are wearing the cherkeska. 
+5. The nanny-goat is wearing the shawl.  
+6. The gods are wearing the felt boots.  
+ 
+                                                             
+1 The cherkeska is an item of traditional Caucasian clothing, a single-breasted collarless coat. 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Answer sheet for Problem 9. Abkhaz 
+ 
+9.1 
+ 
+4 
+2 
+ 
+5 
+3 
+ 
+6 
+ 
+ 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Solution and marking. 
+Scoring (max 18) 
+ 
+1-3: 2 points for each correct sentence. (max 6) 
+o 1 for only one mistake. 
+o ignore trivial variation (e.g. ‘plural’). 
+ 
+4-6: 2 points for each correct underlined word, 1 for each other word. (max 4 x 2 + 4 = 12) 
+o 1 for an underlined word with more than half the target word correct. 
+o ignore minor copying errors e.g. p ~ p’ or ә ~ a ~e. 
+o insist on the correct order of words. 
+ 
+Score positively – give credit for each target Abkhaz word, ignore extra non-target words. 
+o But in Abkhaz insist on correct affixes and order;  
+ 
+if A … B should be B … A, accept A but not B. 
+o Insist on correct number (singular/plural) and tense/aspect in English. 
+o Accept an English noun only if its grammatical function is right. 
+o Reject active-passive exchanges even if the meaning is the same. 
+o But accept minor copying errors in Abkhaz. 
+ 
+Score generously – if different scores are possible, choose the highest. 
+ 
+1. The girls are wearing (the) shoes. 
+2 
+4. Ak’ʷәmʒʷә   bʃʷup’. 
+3 
+2. The son is wearing (the) trousers. 
+2 
+5. Ab   ak’asә   lʃʷup’. 
+4 
+3. You (pl) are wearing (the) shawls. 
+2 
+6. Anchᵂakᵂa   ajmsәkᵂa   rәʃop’. 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 4 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Commentary 
+The grammar here is simplified from real Abkhaz grammar.  
+ Sentences have the word order SOV, where the subject may be omitted if the agent 
+is indicated by the personal endings.  
+ Nouns are sorted according to human/non-human, where human nouns take the 
+plural suffix -chᵂa, while non-human nouns take -kᵂa, and human and non-human 
+subjects take different verb forms.  
+ Verbs are of the form: subject marker + verb root, where the subject marker varies 
+for person and gender. The subject markers found in the data are as follows: 
+person, gender 
+singular 
+plural 
+1 
+s 
+ha 
+2  
+bә 
+ʃʷә 
+3 masc 
+i 
+r 
+3 fem 
+l 
+rә 
+3 non-human 
+a 
+r 
+ 
+The problem presents three main challenges: 
+Challenge 1: Unlike the English translation, the Abkhaz contains two different verb roots for 
+‘wear’, according to where on the body the clothing is worn: ­ʃʷup’ is used for clothing worn 
+on the upper half of the body, and ʃop’ for the lower half. Candidates have to notice this 
+semantic difference, to know which root to use in their Abkhaz sentences in 1.2. 
+Challenge 2: The singular word for ‘god’, anchᵂa, coincidentally looks like a plural (identical, 
+in fact, to the plural ‘mothers’). The third part of 1.2 requires the candidate to realize this 
+and add a real plural ending onto ‘god’, to form the plural anchᵂakᵂa‘gods’. The verb prefix 
+a- in the first example shows that Gods are non-human (perhaps counterintuitively, given 
+people’s often anthropomorphic idea of gods), so they take ­kᵂa. 
+Challenge 3: No word for ‘nanny­goat’ is given, and so candidates should take the step of 
+using the word for ‘billy­goat’ with feminine endings on the verb (which requires noticing 
+that the verb varies according to the gender of the subject). 

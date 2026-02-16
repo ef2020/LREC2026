@@ -1,0 +1,197 @@
+
+=== PAGE 1 ===
+2026 – Round 1
+Problem 3. Lezgian (20 marks)
+Lezgian is a Nakh-Daghestani language spoken by the Lezgin peo-
+ple in southwestern Russia and northeastern Azerbaijan, with about
+630,000 speakers as of 2020.
+Below are some Lezgian nouns given in two forms, along with
+their English translations. The absolutive form is used for the subject
+of an intransitive verb or object of a transitive verb, and the ergative
+form is used for the subject of a transitive verb, but this is not
+relevant to the solution of the problem. Some absolutive forms are
+not given, but they do exist.
+Note that crimson is a colour. ü is a vowel pronounced like i but with rounded lips; c', č, č', ǧ, k',
+q', š, and ž are consonants.
+absolutive
+ergative
+meaning
+sew
+sewre
+bear
+iwi
+iwidi
+blood
+jac
+jacra
+bull
+(a)
+bulls
+dewe
+(b)
+camel
+dewejar
+dewejri
+camels
+gazar
+gazardi
+carrot
+žehredi
+žehreda
+crimson thing
+(c)
+žehreburu
+crimson things
+(d)
+(e)
+donkey
+(f)
+lamari
+donkeys
+(g)
+sečkidi
+election
+(h)
+(i)
+elections
+makandi
+home
+makanar
+makanri
+homes
+balk'an
+balk'andi
+horse
+(j)
+(k)
+horses
+güzgü
+güzgüdi
+legend
+absolutive
+ergative
+meaning
+güzgüjri
+legends
+c'ap
+c'apadi
+manure
+nek
+(l)
+milk
+ǧüč'
+ǧüč're
+moth
+ǧüč'er
+(m)
+moths
+q'aludi
+(n)
+muddy thing
+(o)
+muddy things
+rang
+(p)
+paint
+lifre
+pigeon
+lifer
+liferi
+pigeons
+ǧer
+ǧeredi
+saliva
+(q)
+üc'üda
+salty thing
+üc'übur
+üc'üburu
+salty things
+nük'
+(r)
+small bird
+gum
+gumadi
+smoke
+žiw
+(s)
+snow
+buǧ
+buǧadi
+steam
+šeker
+(t)
+sugar
+Q 3.1 Fill in gaps (a) – (t).
+
+=== PAGE 2 ===
+2026 – Round 1
+Problem 3. Lezgian Answers
+3.1
+a. jacari
+h. sečkijar
+o. q'aluburu
+b. dewedi
+i. sečkijri
+p. rangadi
+c. žehrebur
+j. balk'anar
+q. üc'üdi
+d. lam
+k. balk'anri
+r. nük're
+e. lamra
+l. nekedi*
+s. žiwedi
+f. lamar
+m. ǧüč'eri
+t. šekerdi
+g. sečki
+n. q'aluda
+* The true form is nek'edi, but nekedi is the expected form.
+Maximum 40 pts.
+Q 3.1 Max 40. 2 pts each if correct; 1 pt with one mistake. A mistake is any of an extra/missing/incorrect
+letter (including diacritics). Swapping the order of two letters is not a single mistake. All let-
+ter+diacritic combinations (e.g. c', č, č') should be counted a single letter.
+E.g. for t., šekerdi scores 2 pts. Any of sekerdi, qekerdi, šakerdi, šekerd, šekerdit all score 1
+pt. šekredi scores 0 pts, since there are two mistakes.
+
+=== PAGE 3 ===
+2026 – Round 1
+Problem 3. Lezgian Commentary
+Singular
+Plural
+Absolutive
+Ergative
+Absolutive
+Ergative
+Polysyllabic
+Adjectival nouns
+-di
+-da
+-bur
+-buru
+Else
+∅
+-di
+-(j)ar
+-(j)ri
+Monosyllabic
+Animals
+∅
+-rA
+-Ar
+-Ari
+Mass nouns
+∅
+-Adi
+• (j) is added after a vowel.
+• After back vowels a and u: A = a.
+After front vowels e, i, and ü: A = e.
+Note: Stress usually falls at some lexically determined position, typically the second syllable.
+The reason that A exhibits vowel harmony is that it attracts stress and there is vowel harmony
+until the stressed syllable.
+References and further reading:
+• Haspelmath, Martin. A grammar of Lezgian. Vol. 9. Walter de Gruyter, 2011.
+Image credits: Yerevanci, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via
+Wikimedia Commons.

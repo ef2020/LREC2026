@@ -1,0 +1,270 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                                
+ 
+Problem 2. Inuit writing (5 marks) 
+Inuktitut is a language spoken by the Inuit people in the north of Canada which has an interesting writing system that 
+was invented by missionaries in the nineteenth century. As you will see from the examples, each character tends to 
+stand for a syllable rather than for a single consonant or vowel sound.   
+ 
+The table shows some names, including some Inuit mythical creatures, and a few familiar words that we have 
+borrowed. Your task is to fill the empty cells. (A cell with a line through it counts as full.) If this is impossible, give a 
+brief explanation (e.g. ‘No X’, if it’s impossible because you need an X and there isn’t one). ‘q’ is a k-like sound that 
+we don’t use.  
+Inuktitut 
+writing 
+sounds 
+meaning 
+Inuktitut 
+writing 
+sounds 
+meaning 
+ᒥᑭ 
+miki 
+‘Mickey’ 
+ᐃᓄᒃᑎᑐᑦ 
+inuktitut 
+‘Inuktitut’ 
+ᓴᕋ 
+sara 
+‘Sarah’ 
+ᐃᓄᐃᑦ 
+inuit 
+‘Inuit’ 
+ᓴᒻ 
+sam 
+‘Sam’ 
+ᖃᔭᖅ 
+qayaq 
+‘kayak’ 
+ᓴᒥ 
+sami 
+‘Sammy’ 
+ᐃᒡᓗ 
+iglu 
+‘igloo’ 
+ᐊᓇ 
+ana 
+‘Anna’ 
+ᐸᑦ 
+1 
+ᐅᓇ 
+una 
+‘Una’ 
+ᓕᓕ 
+2 
+ᑕᒻ 
+tam 
+‘Tam’ 
+ᓗᓯ 
+3 
+ᑎᒻ 
+tim 
+‘Tim’ 
+4 
+qalupalik 
+Qalupalik1 
+ᓇᓄᖅ 
+nanuq 
+‘Nanook’ 
+5 
+kigatilik  
+Kigatilik 2 
+ᓴᓕ 
+sali 
+‘Sally’ 
+6 
+tariaksuq  
+Tariaksuq 3 
+ᐱᑦ 
+pit 
+‘Pitt’ 
+7 
+Tom 
+ᓗᑲᔅ 
+lukas 
+‘Lucas’ 
+8 
+Anne 
+ᒥᐊ 
+mia 
+‘Mia’ 
+9 
+Leela 
+ᐊᕙ 
+ava 
+‘Ava’ 
+10 
+Dan 
+ᓄᓇᕗᑦ 
+nunavut 
+‘Nunavut’ 
+11 
+Jess 
+ 
+ 
+                                                             
+1 A sea creature with long hair and green skin 
+2 A violent demon 
+3 An invisible humanoid creature 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                                
+ 
+Solution and marking. 
+Scoring:  max 25 
+ 
+#1-3: 2 points for each correct cell. 1 for half right (e.g. …at, Lu…) 
+ 
+#4-10: 1 point for each correct character or explanation (e.g. ‘no O’).  
+o Some characters are compounds, with a superscript. Treat as a single character. 
+o Strictly speaking, the answer to #8 is a single character but we can assign a separate point for the the 
+superscript. 
+ 
+#11: by mistake, this was blank in early versions of the test paper, so give everyone 1 point, regardless of 
+performance. 
+ 
+Score positively – 1 for each target word, ignore extra non-target words 
+ 
+Score generously – if different scores are possible, choose the highest. 
+ 
+Accept  
+o any size of Inukititut characters 
+o non-English spellings e.g. Lili. 
+Inuktitut  
+sounds 
+meaning 
+Inuktitut  
+sounds 
+meaning 
+points 
+ᒥᑭ 
+miki 
+‘Mickey’ 
+ᐃᓄᒃᑎᑐᑦ 
+inuktitut 
+‘Inuktitut’ 
+ 
+ᓴᕋ 
+sara 
+‘Sarah’ 
+ᐃᓄᐃᑦ 
+inuit 
+‘Inuit’ 
+ 
+ᓴᒻ 
+sam 
+‘Sam’ 
+ᖃᔭᖅ 
+qayaq 
+‘kayak’ 
+ 
+ᓴᒥ 
+sami 
+‘Sammy’ 
+ᐃᒡᓗ 
+iglu 
+‘igloo’ 
+ 
+ᐊᓇ 
+ana 
+‘Anna’ 
+ᐸᑦ 
+1 Pat 
+2 
+ᐅᓇ 
+una 
+‘Una’ 
+ᓕᓕ 
+2 Lily 
+2 
+ᑕᒻ 
+tam 
+‘Tam’ 
+ᓗᓯ 
+3 Lucy 
+2 
+ᑎᒻ 
+tim 
+‘Tim’ 
+4 ᖃᓗᐸᓕᒃ 
+qalupalik 
+Qalupalik 
+4 
+ᓇᓄᖅ 
+nanuq 
+‘Nanook’ 
+5 ᑭᒐᑎᓕᒃ 
+kigatilik  
+Kigatilik  
+4 
+ᓴᓕ 
+sali 
+‘Sally’ 
+6 ᑕᕆᐊᒃᓱᖅ 
+tariaksuq  
+Tariaksuq  
+4 
+ᐱᑦ 
+pit 
+‘Pitt’ 
+7 no O 
+Tom 
+1 
+ᓗᑲᔅ 
+lukas 
+‘Lucas’ 
+8 ᐊᓐ 
+Anne 
+2 
+ᒥᐊ 
+mia 
+‘Mia’ 
+9 ᓕᓚ 
+Leela 
+2 
+ᐊᕙ 
+ava 
+‘Ava’ 
+10 no D 
+Dan 
+1 
+ᓄᓇᕗᑦ 
+nunavut 
+‘Nunavut’ 
+11 no J or E 
+Jess 
+1 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                                
+ 
+Commentary 
+Here’s a convenient summary of the Inuktitut writing system (from Omniglot.com): 
+ 
+ 
+As you can see, there’s a great deal more to the system than competitors need to discover in order to solve the 
+problem:  
+ 
+It’s basically a syllabary, so most characters correspond to a consonant followed by a vowel. 
+ 
+There’s a very limited range of consonants and vowels: 14 consonants and three vowels (which can be either 
+long or short). 
+ 
+The long vowels are shown by a raised dot which doesn’t appear in any of the test words. 
+ 
+Each consonant has a different shape which appears consistently in all syllables. (Exceptionally, k and n have 
+the same shape but in different orientations.) 
+ 
+Vowels are distinguished by the orientation of this shape. 
+ 
+When a consonant is at the end of a syllable, without a following vowel, it is written as a superscript (shown 
+in the bottom rows).  
+ 
+When a vowel has no preceding consonant, it is shown as a triangle (as in the second column). 
+ 
+ 
+ 

@@ -1,0 +1,125 @@
+
+=== PAGE 1 ===
+2026 – Round 1
+Problem 4. Khana (25 marks)
+Khana is an Atlantic-Congo language spoken by the Ogoni people of
+Rivers State, Nigeria (pictured in red).
+It has around 450,000 native
+speakers, but it is also considered the prestige variety of the Ogoni lan-
+guages, so has many second-language speakers.
+Below are some sentences in Khana with their English translations.
+Note that the kola nut is the seed of the cola tree, traditionally chewed for
+its stimulating effects. Yam is a long edible tuber, similar in appearance
+to a sweet potato. gb, kp, ɲ and ʔ are consonants; ɛ and ɔ are vowels.
+The symbol ◌̃ over a vowel indicates that it is pronounced with airflow through the nose. Khana also
+has a tonal system, but for simplicity this has not been marked.
+1.
+Pia gbo de na ɛrɛta apɛɛ zĩã.
+The dogs eat my eight slices of yam.
+2.
+Baɛ ka wa yaɛ nia akpo zĩããde.
+Two wives buy four yams to eat.
+3.
+Pia dɛ̃ɛ̃ wa muɛ zĩĩ bee mũnũ.
+Their eyes see one fist.
+4.
+Wa oʔoo apɛɛ mãã fɛ zĩĩ ãkpo mĩã.
+Their five splashes of water kill one flame.
+5.
+Ka gbĩ ɛrɛba bee bũũãyaɛ.
+The mother wants seven kola nuts to buy.
+6.
+Baɛ bee dɛ̃ɛ̃ mɛ muɛ aba kɛ̃.
+My two eyes see just the egg.
+7.
+Ye wa ɛrɛ aba lob akpo kaaniaɔb.
+His wife has just ten logs to burn.
+8.
+Na ka yib na iniʔĩ ãkpo asã.
+My mother steals my six broom handles.
+9.
+Ka oo aba ye zĩĩ ãpɛɛ zoo.
+The mother sells just his one piece of coconut.
+10.
+Tɔ ye tɛrɛ taa apɛɛ mĩĩ.
+His leg drops three splashes of blood.
+11.
+Pia yɔɔ muɛ baɛ akpo mɛɛba mɛ.
+The snakes see my two arms.
+12.
+Aninia ka tɛ de ɛrɛta bee asuu.
+Nine fathers eat eight seeds.
+Q 4.1 A student learning Khana translated my heart as na ɲiɛ. They were told by their teacher that,
+although people would understand them if they said this, it was incorrect. Instead, they should
+have said ɲiɛ mɛ. Give a short sentence explaining why.
+Q 4.2 Translate into English:
+13. Pia wa wa tɛrɛ aba pia na bũũ.
+14. Lob ka tɛ gbĩ oʔoo akpo kaaniaoo.
+15. Pia mɛɛba ye ɛrɛ nia apɛɛ mãã.
+16. Ɛrɛba ka ka fɛ aba na zĩĩ ka yɔɔ.
+Q 4.3 Translate into Khana:
+17. Nine sparks [=splashes of fire] burn my two legs.
+18. Their fists have six pieces of kola nut to steal.
+19. His three dogs want my eight coconuts to eat.
+20. His eyes see just one egg.
+
+=== PAGE 2 ===
+2026 – Round 1
+Problem 4. Khana Answers
+4.1
+The heart is a body part.
+4.2
+13. Their wives + drop just + my kola nuts.
+14. Ten fathers + want five + logs to sell.
+15. His arms + have four + splashes of water.
+16. Seven mothers + kill just my + one snake.
+4.3
+17. Aninia apɛɛ + mĩã + ɔb + [na] baɛ akpo + tɔ mɛ.
+18. Pia + mũnũ wa + ɛrɛ + iniʔĩ ãpɛɛ + bũũãyib.
+19. Ye taa + ka gbo [ye] + gbĩ + na ɛrɛta bee + zooade [mɛ].
+20. Pia + dɛ̃ɛ̃ ye + muɛ aba + zĩĩ bee + kɛ̃.
+Maximum 35 pts.
+Q 4.1 Max 3. Award 3 pts for any correct statement that the heart is a body part, and therefore uses
+X mɛ rather than na X. E.g. “A heart is a part of you”; “mɛ is used for inalienable possession”,
+etc, all score 3 pts. Do not require an explanation of why that affects word choice or word
+order. Do not award e.g. “ɲiɛ must come first” without explanation of why.
+Q 4.2 Max 12. Split each response into three regions as closely as possible to the official solution. A
+region may be empty. For each region, award 1 pt if it is correct.
+Do not penalise incorrect English tense. Do not penalise minor grammatical mistakes or varia-
+tions in the English, e.g. just drops or drops just for drop just, or to sell five logs, unless they impact
+the meaning. Do require kola nuts in 13, not just kola, since this relates to the choice of Khana
+classifier.
+Q 4.3 Max 20. Split each sentence into five regions as closely as possible to the official solution. A
+region may be empty. For each region, award 1 pt if correct. Split the sentences however allows
+you to award the most points. Where a word is given in [square brackets], award the point for
+the region whether it is present or not.
+Do not penalise clear copying errors within roots, e.g. anina for aninia. Note however that
+nasalisation (a vs ã) is significant, so should not be treated as a copying error.
+E.g. Taa ka gbo ye gbi na ɛrɛta zooade. score 0+1+0+0+1 = 2/5 for 20.
+
+=== PAGE 3 ===
+2026 – Round 1
+Problem 4. Khana Commentary
+• Syntax:
+– Subject – Verb – [aba = just] – Object
+– Plural – Possessor – Numeral – Classifier – Noun[+Purpose] – Possessor
+• Plural = pia. This does not appear with numerals.
+• Numerals: 1 = zĩĩ, 2 = baɛ, 3 = taa, 4 = nia, 5 = oʔoo, 6 = iniʔĩ, 7 = ɛrɛba, 8 = ɛrɛta, 9 =
+aninia, 10 = lob.
+• Classifiers:
+– apɛɛ = pieces of a whole, and splashes
+– akpo = long things, and drops
+– bee = small round things
+– ka = people and animals
+• Purpose: to mark the purpose of a noun, add the suffix -a-Verb
+• Possession:
+– Possessive pronouns go after the noun when possessing body parts, and before the noun
+otherwise.
+– their = wa, his = ye, my = mɛ (for body parts) or na (otherwise).
+• Nasalisation: a > ã following a nasal vowel, even across word boundaries.
+References and further reading:
+• Ikoro, Suanu M. The Kana Language. Netherlands: Research School CNWS, 1996.
+• Ikoro, Suanu M. “Numeral classifiers in Kana.” (1994): 7-28.
+• Isaac, Baridisi Hope, and Iniah Barikpe. “Nominal Modifiers in Kana.”
+Image credits: Derivative work: User:Profoss - Original work:Uwe Dedering, CC BY-SA 3.0 <https://creativeco
+sa/3.0>, via Wikimedia Commons

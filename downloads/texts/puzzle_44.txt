@@ -1,0 +1,254 @@
+
+=== PAGE 1 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Problem 8. Choctaw (20 marks) 
+Choctaw is a native American language spoken in Oklahoma and Mississippi by around 
+10,000 people.  
+Here are some Choctaw sentences with their English translations.  
+Q.8.1. Write the missing sentences 13-17  on your answer sheet. 
+ 
+ 
+Choctaw 
+English  
+1. 
+Baliililitok. 
+I ran. 
+2. 
+Baliilitok. 
+He / she ran. 
+3.  
+Baliililih. 
+I’ve run / I am running. 
+4.  
+Johnat niyah. 
+John is fat. 
+5. 
+Pamat kayyah. 
+Pam is pregnant. 
+6.  
+Baliilih.  
+He / she has run or He /she is running. 
+7.  
+Chikayyah. 
+You’re pregnant. 
+8. 
+Saniyah. 
+I’m fat. 
+9. 
+Hattakat chaahah. 
+The man is tall. 
+10.  Hattakat taloowatok. 
+The man sang. 
+11. Hattak chaahah piisalitok. 
+I saw the tall man. 
+12. Hattak chaahah ishpiisatok. 
+You saw the tall man. 
+13. answer sheet: 13 
+He / she saw John 
+14. answer sheet: 14 
+I sang 
+15. answer sheet: 15 
+You’re singing 
+16. answer sheet: 16 
+I’m pregnant 
+17. answer sheet: 17 
+He / she saw the fat man 
+ 
+ 
+ 
+
+=== PAGE 2 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Q.8.2. Here are some more examples. Once again, your task is to write the missing translations for 
+28-32 in your answer sheet. 
+ 
+18. Sayyit sabashah. 
+My leg is cut. 
+19.  Sapiisatok. 
+He / she saw me. 
+20. Issapiisatok. 
+You saw me. 
+21.  Hattak anolitok. 
+He/she told the man. 
+22. Ofit sayyi sakopolitok. 
+The dog bit my leg. 
+23. Ofit amofi kopolitok. 
+The dog bit my dog. 
+24. Chimanolilitok. 
+I told you. 
+25. Amanolitok. 
+He / she told me. 
+26. Sashkit hattak piisatok. 
+My mother saw the man. 
+27. Sashkit chibaliilitok. 
+Your mother ran. 
+28. Chiyyit chibashah. 
+answer sheet: 28 
+29. Chiyyit bashah. 
+answer sheet: 29 
+30. Amofi ishpiisatok. 
+answer sheet: 30 
+31. Shki ampiisalitok. 
+answer sheet: 31 
+32. Amofit chiyyi chikopolitok. 
+answer sheet: 32 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Answer sheet for Problem 8. Choctaw 
+ 
+ 
+Question 8.1 
+ 
+Question 8.2 
+13. 
+ 
+28. 
+ 
+14. 
+ 
+29. 
+ 
+15. 
+ 
+30. 
+ 
+16. 
+ 
+31. 
+ 
+17. 
+ 
+32. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 4 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Solution and marking. 
+Scoring   (max 23) 
+ 
+Q.8.1.  (max 13) 
+o 2 points for each correct Choctaw verb (underlined). 
+ 
+1 for one error  
+o 1 for each other correct word. 
+ 
+Q.8.2. 2 points for each correct English sentence. (max 10) 
+o 1 for one mistake. 
+ 
+Score positively – give credit for each target Choctaw word, ignore extra non-target words. 
+o But in Choctaw insist on correct affixes and order;  
+ 
+if A … B should be B … A, accept A but not B. 
+o Insist on correct number (singular/plural) and tense/aspect in English. 
+o Accept an English noun only if its grammatical function is right. 
+o Reject active-passive exchanges even if the meaning is the same. 
+o But accept minor copying errors in Choctaw. 
+ 
+Score generously – if different scores are possible, choose the highest. 
+ 
+ 
+Question 8.1 
+pts 
+ 
+Question 8.2 
+pts 
+13. John piisatok. 
+3 
+28. 
+Your leg is cut. [not: You cut your leg] 
+2 
+14. Taloowalitok. 
+2 
+29. 
+Your leg is cut. [not: You cut your leg] 
+2 
+15. Ishtaloowah. 
+2 
+30. 
+You saw my dog. 
+2 
+16. Sakayyah. 
+2 
+31. 
+I saw my mother. 
+2 
+17. Hattak niyah piisatok. 
+4 
+32. 
+My dog bit your leg. 
+2 
+ 
+ 
+ 
+
+=== PAGE 5 ===
+Your name:                                                                                                                                             
+The UK Linguistics Olympiad   2017                          
+ 
+Commentary 
+This problem is mainly about the pronouns for first and second persons singular. Just like languages 
+such as French, Spanish, Modern Greek and Arabic, Choctaw treats these as affixes, rather than as 
+separate words as in English. The main issue in this problem is how these pronouns are used for 
+showing possession, as in ‘my dog’ or ‘your mother’.  
+A verb can in principle consist of 5 morphemes: #-2 + #-1 + Base +  #1 + #2 
+ 
+Slots #-2 and #1 are for subject pronouns. If there is no such pronoun, the subject is third 
+person ‘he/she’. 
+ 
+Slot #-1 is for object pronouns (e.g. is-sa-piisa-tok, ‘you saw me’) 
+ 
+Slot #2 is for a tense marker (-tok ‘past’, -h ‘present’ plus details not relevant here) 
+Each of the first two persons has three different sets of pronoun affixes, which we can call sets A, B 
+and C: 
+ 
+Set A 
+Set B 
+Set C 
+first person singular 
+-li 
+sa- 
+am- 
+second person singula 
+ish- (is- before s) 
+chi- 
+chim- 
+ 
+ 
+Set A: subject of a verb (-li is a suffix at #1, but ish- is a prefix at #-2),e.g. piisa-li-tok, ‘I saw’, 
+ish-piisa-tok, ‘you saw’. 
+ 
+Set B:  
+o direct object of a verb at #-1, e.g. sa-piisa-tok ‘he/she saw me’ 
+o subject of an adjective, e.g. sa-niya-h ‘I am fat’ 
+o ‘inalienable’ possessor of a noun, e.g. sa-yyi ‘my leg’, sa-shki ‘my mother’ 
+ 
+Set C: 
+o indirect object of a verb at #-1, e.g. am-anoli-tok ‘he/she told me’ 
+o ‘alienable’ possessor of a noun, e.g. am-ofi ‘my dog’ 
+Alienable possession is for things that we may or may not have (e.g. ‘dog’), in contrast with the 
+inalienable possession of family members (e.g. ‘mother’) and body parts (e.g. ‘leg’). The distinction is 
+relevant to Choctaw grammar in two ways: 
+ 
+Alienable and inalienable possession use different pronoun forms as shown above. 
+ 
+Both kinds of possession can be shown by a pronoun attached to the possessed noun, but 
+inalienable possession can also be marked on the verb or adjective (e.g. Chi-shki-t chi-
+niyah, ‘Your mother is fat’) 
+Nouns have suffix –at (-t after a vowel) if they are subject (e.g. Johnat niyah, ‘John is fat’). 

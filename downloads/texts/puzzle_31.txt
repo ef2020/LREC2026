@@ -1,0 +1,239 @@
+
+=== PAGE 1 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Problem 5. Chatting in Pitjantjatjara (15 marks) 
+You’re a linguist researching Pitjantjatjara, an Australian Aboriginal language 
+with about 3,000  speakers found in the desert of Central Australia, near Uluru. 
+Searching through the archives, you find a dusty notebook with some 
+handwritten stories. The alphabet uses some underlined letters for sounds that 
+don’t exist in English, and ‘ng’ is used at the start of words.  
+The linguist who recorded this conversation forgot to translate or transcribe 
+some of the sentences, numbered 1 to 11; your task is to fill in these gaps. Pay attention to your 
+Pitjantjatjara spelling! And please note that the conversation continues on the next page. 
+Unurupalu Winmaṯinya nyangu. 
+Unurupa saw Winmaṯi. 
+Unurupanya Winmaṯilu nyangu. 
+1. 
+Unurupalu Winmaṯinya wangkangu, “Ngali 
+karukuṯu ananyi.” 
+Unurupa said to Winmaṯi, “The two of us are 
+going to the creek”. 
+Paluṟu wangkangu, “Nyaaku ngali ananyi?” 
+He said, “Why are the two of us going?” 
+Paluṟu wangkangu, “Ngali punuku ananyi.” 
+She said, “The two of us are going for wood.” 
+2. 
+Winmaṯi said “Okay, fine.” 
+Umatjilu wangkangu “Yaaltjikuṯu nyupali 
+ananyi.” 
+Umatji said, “Where are the two of you going? 
+Unurupalu wangkangu “Ngali karukuṯu punuku 
+ananyi.” 
+Unurupa said, “The two of us are going to the 
+creek for wood.” 
+Umatjilu wangkangu, “Wiṟu, palya ngayulu 
+pitjanyi?” 
+Umatji said, “Lovely, can I come?” 
+Unurupalu munu Winmaṯilu palunya 
+wangkangu, “Uwa, palya.” 
+Unurupa and Winmaṯi said to her, “Okay, fine.” 
+Tjana mutukakuṯu anu. 
+They went to the car. 
+Winmaṯinya Unurupalangka nyinangu. 
+Winmaṯi sat on Unurupa 
+Tjana Itjinpirilakuṯu anu. 
+They went to Itjinpiri. 
+Unurupanya karungka nyinangu. 
+Unurupa sat in the creek. 
+
+=== PAGE 2 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Umatjinya munu Winmaṯinya punuku anu. 
+3. 
+Umatjilu Winmaṯinya paḻtjuṉu. 
+Umatji stood on Winmaṯi. 
+Winmaṯilu wangkangu, “Nyuntu ngayunya 
+paḻtjuṉu!” 
+Winmaṯi said, “You stood on me!” 
+Umatjilu palunya wangkangu, “Ngayulu 
+nyuntunya paḻtjuṉu!”   
+4.  
+Umatjinya munu Winmaṯinya Unurupalakuṯu 
+anu. 
+5. 
+Tjana karungka nyinangu. 
+6. 
+Unurupalu wangkangu, “Nganaṉa 
+Pukatjalakuṯu ananyi.” 
+Unurupa said, “We’re going to Pukatja.” 
+Tjana mutukangka tjarpangu. 
+They got into the car. 
+Pukatjala, Wiṯurpalu wangkangu tjananya, 
+“Yaaltjinguṟu nyura pitjangu?” 
+In Pukatja, Wiṯurpa said to them, “Where did 
+you come from?” 
+7. 
+Umatji said, “We came from the creek.” 
+Wiṯurpalu wangkangu, “Nyaanguṟu Winmaṯinya 
+ulanyi?” 
+Wiṯurpa said, “Why is Winmaṯi crying?” 
+8. 
+Unurupa said, “Umatji stood on him.” 
+Wiṯurpalu wangkangu, “Ngaḻṯutjara.” 
+Wiṯurpa said, “Poor thing.” 
+Paluṟu wangkangu, “Nyaaku nyura 
+Itjinpirilakuṯu anu?” 
+9. 
+10. 
+Umatji said, “We went to get firewood.” 
+Wiṯurpalu wangkangu, “Yaaltjingka punu?” 
+11. 
+Umatjilu wangkangu, “Nganaṉa punu wiya.” 
+Umatji said, “We don’t have any firewood.”  
+
+=== PAGE 3 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Solution and marking. 
+Scoring: (max 22)  
+• 
+1-11: 2 points for each correct answer, 1 with one error 
+o error = wrong word; reversed clause elements (e.g. B saw A for A saw B); or pos~neg 
+(e.g. did not see for saw or vice versa). 
+• 
+Ignore  
+o surplus Pitjantjatjara words. 
+o order of Pitjantjatjara words. 
+o obvious typos (e.g. wrong names in translations). 
+o deviant punctuation. 
+o small spelling errors, including underlined letters in Pitjantjatjara. 
+• 
+Reject 
+o English names with Pitjantjatjara case endings (e.g. Umatjinya for Umatji) 
+Unurupanya Winmaṯilu nyangu. 
+1. Winmaṯi saw Unurupa. Or U was seen by W.) 
+2. Winmaṯilu wangkangu, “Uwa, palya.” 
+Winmaṯi said “Okay, fine.” 
+Umatji munu Winmaṯi punuku anu. 
+3. Umatji and Winmaṯi went for wood. (Or: … 
+went to get/look for wood) 
+Umatjilu palunya wangkangu, “Ngayu 
+nyuntungka paḻtjuṉu!”   
+4. Umatji said to him/her, “I stood on you!” (Or: 
+… told him/her …) 
+Umatji munu Winmaṯi Unurupalakuṯu anu. 
+5. Umatji and Winmaṯi went to Unurupa. 
+Tjana karungka nyinangu. 
+6. They sat in/on the creek. 
+7. Umatjilu wangkangu, “Nganaṉa karunguṟu 
+pitjangu.” 
+Umatji said, “We came from the creek.” 
+8. Unurupalu wangkangu, “Umatjilu palunya 
+paḻtjuṉu.” 
+Unurupa said, “Umatji stood on him.” 
+Paluṟu wangkangu, “Nyaaku nyura 
+Itjinpirilakuṯu anu?” 
+9. He/She said, “Why did you go to Itjinpiri?" 
+10. Umatjilu wangkangu, “Nganaṉa punuku 
+anu.” 
+Umatji said, “We went to get wood.” 
+Wiṯurpalu wangkangu, “Yaaltjingka punu?” 
+11. Wiṯurpa said, “Where is the (fire)wood?” Or 
+… your (fire)wood? 
+ 
+ 
+ 
+
+=== PAGE 4 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Commentary 
+ 
+Noun and pronoun endings 
+Pitjantjatjara is a ‘split’ case marking language, which means that pronouns and nouns are 
+marked differently for case. An important contrast depends on whether a verb has an object 
+or not; if it does, it’s ‘transitive’, but if not, ‘intransitive’. For pronouns, the pattern is the 
+same as for English pronouns: the subjects of transitive and intransitive verbs have the same 
+form (‘nominative’), but the object of transitive verbs has a different form (‘accusative’). For 
+nouns, however, the subject of a transitive verb has a special form (called ‘ergative’ – think 
+‘energy’) while the object has the same form as the subject of an intransitive verb 
+(unmarked).  
+• Pronouns 
+ 
+person sg 
+dual 
+plural 
+1 
+ngayulu(NOM)/ngayunya(ACC) ngali 
+nganaṉa 
+2 
+nyuntu 
+nyupali 
+nyura 
+3 
+paluṟu(NOM)/palunya(ACC) 
+ 
+tjana 
+ 
+• Nouns: 
+o Ergative:  -lu 
+o Unmarked: no ending. 
+• Other preposition-like endings 
+o Reason (‘for'): -ku 
+o Locative (‘in/on’): -ngka on common nouns and pronouns, -la on names 
+o Allative (‘to’): -kutu on common noun, but with names this is added to the 
+locative form, giving -la-kutu. 
+Verb endings 
+Tense endings: Verbs are divided into different verb classes. We see three of them in this data 
+set. 
+• n-class -nu ‘past’ -nanyi ‘present’ (a- ‘go’) 
+• l-class -ṉu ‘past’ (paḻtju ‘step on’) 
+• 0-class -ngu ‘past’ -nyi ‘present’ 
+ 
+Word order 
+Word order is fairly free but verbs tend to be final. 
+ 
+ 
+ 
+
+=== PAGE 5 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Vocabulary 
+• 
+Common nouns: karu ‘creek’, punu ‘wood’, mutuka ‘car’ 
+• 
+Proper nouns: Unurupa, Winmaṯi, Umatji, Itjinpiri (place), Pukatja (place) 
+• 
+Verbs: Verbs: a- ‘ go’ (n-class), paḻtju- ‘step on’ (l-class), wangka ‘say/tell’, pitja ‘come’, nya 
+‘see’, nyina ‘sit’, tjarpa ‘enter’, ula ‘cry’  
+• 
+Others: nyaaku (=for what)/nyaanguṟu (=from what) both ‘why’, yaaltji ‘where’ 
+o uwa ‘okay’, palya ‘fine’, wiṟu ‘lovely’, munu ‘and’, ngaḻṯutjara ‘poor thing’, wiya ‘no’ 

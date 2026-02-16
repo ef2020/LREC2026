@@ -1,0 +1,170 @@
+
+=== PAGE 1 ===
+ 
+ 
+ 
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Problem 9. You speak Ndebele, don’t you? (25 marks) 
+Below are some phrases from the Ndebele language, spoken in parts of 
+southern Africa (mainly Zimbabwe), along with their English translations. 
+1 
+ Ufuna ukunatha itiye na? 
+Do you want to drink tea? 
+2 
+ Yebo, ngiyafuna. 
+Yes, I do (want to). 
+3 
+ Sifuna ukuhamba. 
+We want to go. 
+4 
+ Umfana uyapheka. 
+The boy is cooking. 
+5 
+ Ngifunda ukupheka. 
+I am learning to cook. 
+6 
+ Abafana bayahamba. 
+The boys are going. 
+7 
+ Abangane bayahamba na? 
+Are the friends going? 
+8 
+ Umngane uyahamba angithi? 
+The friend is going, isn’t he? 
+9 
+ Abafana banatha itiye na? 
+Are the boys drinking tea? 
+10 
+ Umngane uyanatha. 
+The friend is drinking. 
+11 
+ Banjani abantwana? 
+How are the children? 
+12 
+ Uthunga njani? 
+How do you sew? 
+13 
+ Ufuna ukufunda angithi? 
+He wants to learn, doesn't he? 
+14 
+ Yebo, uyafuna. 
+Yes, he does (want to). 
+15 
+ Bangaphi abafana? 
+Where are the boys? 
+16 
+ Ubaba ubona umfana. 
+Father sees the boy. 
+17 
+ Ngifunda ukukhuluma indebele ngaphi? 
+Where do I learn to speak Ndebele? 
+ 
+Q.1. Translate the following sentences into English: 
+(a) Yebo, bafuna ukubona. 
+(b) Umfana ufunda ukuthunga njani? 
+(c) Singaphi? 
+(d) Ngipheka itiye. 
+ 
+Q.2. Translate the following sentences into Ndebele: 
+(a) How is the child? 
+(b) We are learning to cook, aren’t we? 
+(c) Yes, they are speaking.  
+(d) Do they want to see the father? 
+ 
+Q.3. From the list of Ndebele sentences, select one that has two possible meanings, and explain why 
+both meanings are possible. 
+ 
+Q.4. (This question will only be marked as a tie-breaker.) On a separate sheet of paper, explain the 
+relevant parts of Ndebele grammar as clearly and concisely as possible. Don’t forget to write your 
+name on your answer! 
+ 
+ 
+ 
+
+=== PAGE 2 ===
+ 
+ 
+ 
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Solution and marking. 
+Scoring   (max 17) 
+• 
+Q.1: 2 points per correct English sentence, 1 with one error. (max 8) 
+• 
+Q.2: 2 per correct sentence, 1 with one error.  (max 8) 
+o Wrong word order is an error. 
+• 
+Q.3: This is a bad question, so just 1 for a reasonable attempt. (max 1) 
+o Accept either the sentence’s number or the whole sentence. 
+o Insist on an explanation, not just a sentence. 
+o Accept any explanation for ambiguity, including: 
+▪ 
+Uncertainty about person: u- can mean either ‘you’ or ‘he/she’ (or second or 
+third person). 
+▪ 
+Uncertainty about aspect: any present verb can translate as either present 
+simple or present progressive.  
+Q.1. 
+a) Yes, they want to see. 
+b) How does the boy learn to sew? (accept How is the boy 
+learning to sew? ) 
+ 
+c) Where are we? 
+ 
+d) I am cooking (the) tea. (accept I cook (the) tea. ) 
+Q.2. 
+a) Unjani umntwana? 
+ 
+b) Sifunda ukupheka angithi? 
+ 
+c) Yebo, bayakhuluma. 
+ 
+d) Bafuna ukubona ubaba na? 
+Q.3. 
+Any sentence + an explanation as explained above. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+ 
+ 
+ 
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Commentary 
+Ndebele verbs have prefixes to mark the subject: 
+ngi-  
+-  
+1st person singular 
+u- 
+- 
+2nd person singular or 3rd person singular 
+si- 
+- 
+1st person plural 
+ba-  
+-  
+3rd person plural 
+There is also the prefix uku-, marking the infinitive, and the infix -ya-, which marks a verb with no 
+“following” word, either an object or an adverb. It is still used when the verb is followed by the 
+question particles na or angithi (marking a “tag” question). 
+The question-word adverbs njani and ngaphi can also act as verbs (“Where is she?” = “She 
+wheres?”), in which case they take the subject prefixes above. 
+The Ndebele nouns given here are marked by the prefix um- in the singular and aba- in the plural. 
+Source: http://northernndebele.blogspot.com/p/lessons.html 
+ 

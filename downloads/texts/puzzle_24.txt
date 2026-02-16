@@ -1,0 +1,159 @@
+
+=== PAGE 1 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+Problem 10. Iñapari  (25 marks) 
+Iñapari is a critically endangered language spoken 
+by 4 individuals in the town of the same name on 
+the border of Peru, Bolivia and Brazil.  
+Here are some Iñapari verbs with their English 
+translations. 
+1. awunahamanahari 
+We saw him again. 
+2. ihunuamarona isa 
+You (p) loved them (f). 
+3. nynohapirâî isa 
+I want to kill you (p). 
+4. aarunahapiramanahanona 
+They (f) do not want to see me again. 
+5. ijamapirarona 
+He wants to hear them (f). 
+6. aanyjyehamaro 
+I did not hit her. 
+7. ajamachajimanahai 
+We made you (s) hear again. 
+8. ryjyehamâî isa 
+He hit you (p). 
+9. rynohamanaharina 
+They (m) killed him again. 
+10. ruhunuachajimanahâî 
+She made us love again. 
+11. unahachajimano isa 
+You (p) made me see. 
+12. punahamanaharo 
+You (s) want to see her again. 
+13. aanohunuapirai 
+I do not want to love you (s). 
+14. ruhunuamanahanana 
+They (f) loved them (m) again. 
+
+=== PAGE 2 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+Q10.1. On your answer sheet, translate the following Iñapari verbs into English: 
+a. pijamamâî 
+b. aaihunuapiramanahanana 
+c. aaawynohachajimâî isa 
+ 
+Q10.2.  On your answer sheet, translate the following English phrases into Iñapari: 
+a. She wants to kill you (p) again. 
+b. I made him hear. 
+c. You (s) did not love them (f). 
+ 
+Q10.3. On a separate sheet, explain your answers. NB Your explanation will only be marked 
+if you are on the borderline. 
+ 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+Solution and marking. 
+Scoring: (max 34) 
+• 
+10.1: 1 point for each element (separated below by +) (max 17) 
+o Insist on correct gender and number for they/them and you 
+• 
+10.2: 1 point for each element (separate below by +) (max 17) 
+o Ignore spaces. 
+• 
+10.3: Do not mark the explanation; this will only be marked for borderline candidates. 
+ 
+10.1a. You (s) + hear+d + us.  (4) 
+b. 
+They (m) + do + not + want to + love + them (m) +  again.  (7) 
+c. 
+We + did + not + make + you (p) + kill.    (6) 
+10.2a. r+ynoha+pira+ma+nahâ+î + isa  (7) 
+b. 
+no+jama+chaji+ma+ri   (5) 
+c. 
+aa+pi+hunua+ma+rona  (5) 
+ 
+ 
+ 
+
+=== PAGE 4 ===
+ 
+Your name:                                                                                                                                  
+The UK Linguistics Olympiad   2020 
+Round 1 
+ 
+ 
+Commentary 
+ 
+NEG 
+aa- 
+SUBJ 
+stem 
+VOL/CAUS 
+-pira 
+-chaji 
+ 
+-ma 
+REPET 
+-naha 
+OBJ 
+3PL.SUBJ 
+-na 
+ 
+The suffix -ma appears in all cases, except when -pira is by itself. 
+The subject affixes are as follows: 
+ 
+Singular 
+Plural 
+1st 
+no- / n- 
+a- / aw- 
+2nd 
+pi- / p- 
+i- / 0-                 isa 
+3rd masc 
+i- / r- 
+i- / r-        -na 
+3rd fem 
+ru- / r- 
+ru- / r-     -na 
+ 
+The object affixes are: 
+ 
+Singular 
+Plural 
+1st 
+-no 
+-î* 
+2nd 
+-i 
+-î*         isa 
+3rd masc 
+-ri 
+-na 
+3rd fem 
+-ro 
+-rona 
+ 
+* a-î > âî 

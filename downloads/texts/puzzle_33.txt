@@ -1,0 +1,421 @@
+
+=== PAGE 1 ===
+ 
+Your name:                                                                                                                                 
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Problem 10. Going dotty about Braille =  g+ dotty ab,braille 
+(25 marks) 
+Braille is a tactile writing system, consisting of raised dots, used by visually impaired people. A 
+Braille character consists of a combination of raised dots arranged in two columns of three 
+rows, as in the example on the right (where the lighter dots are mere place holders for 
+potential raised dots).  
+While it is possible to write a Braille character for every letter and punctuation sign, this makes Braille texts 
+cumbersomely large and slow to read. Braille users have designed an advanced Braille code (called ‘Grade 2’) 
+for individual languages to  create shorter forms. Grade 2 Braille codes usually have one Braille symbol 
+substituting for two or more letters, often showing combinations that are very frequent in that particular 
+language (for example, Spanish Grade 2 Braille has one symbol to stand in for “ll”, which is a common letter 
+combination in Spanish). The title of the problem is written in Grade 2 English Braille, as are all the Braille 
+texts below. 
+Moreover, because only 62 distinct Braille symbols are possible, most symbols are “recycled” and can be 
+used to represent mathematical symbols or musical notation if needed. Usually, if a text changes from 
+Braille-as-letters to Braille-as-mathematical symbols, this is indicated, so that a Braille reader knows how to 
+read the symbols.  
+Below are some more examples of Roman-Braille pairs, as well as some where one of the pair is missing. The 
+challenge for you is to use your answer sheet to fill in the blanks 5 and 7-13 as required, including 
+punctuation signs. For Braille transcriptions,  
+• 
+write them from left to write using one box per Braille character and as many rows as necessary. 
+• 
+leave a blank box between words. 
+• 
+let each cell define the two columns and three rows; for example, to write a single dot in the first 
+row and first column you write it in the top left corner of the cell. The markers will not accept 
+unclear or ambiguous dots.  
+1  
+New York is the most populous city in the United States. 
+,New ,York is ! mo/ popul\s c;Y 9 
+! ,unit$ ,/ates4 
+2  
+Toronto is the largest city in Canada. 
+,Toronto is ! l>ge/ c;Y 9 ,cada4 
+
+=== PAGE 2 ===
+ 
+Your name:                                                                                                                                 
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+3 
+Ottawa is not no. 3 after Calgary and Montreal. 
+,Ottawa is n #c af ,calg>Y & 
+,montr"l4 
+4 
+Sydney has 4 million people. 
+,Sydney has #D million p4 
+5 
+[blank] 
+,cBERRA is n 9 ,cada4 
+6 
+It is not as large as Mexico City. 
+7 
+a b c is as easy as 1 2 3 
+[blank] 
+8 
+[blank] 
+x IS ! Be/ 9 ,BELFA/4 
+9 
+[blank] 
+ 
+,Dublin is ! capital 9 ,irel&4 
+10 London is a great place. 
+[blank] 
+11 Great Britain has 3 capital cities 
+[blank] 
+12 and the UK has 4. 
+[blank] 
+13 So many people in a city. 
+[blank] 
+ 
+
+=== PAGE 3 ===
+ 
+Your name:                                                                                                                                 
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Solution and marking. 
+Scoring   (max 114) 
+• 
+5: 1 point for each correct word. No half marks. (max 5) 
+• 
+7: 1 for each correct Braille character, plus 1 for all correct empty cells in between. (max 17) 
+o Score only 1 for a string that could have been replaced by a single character, e.g. <ea>, 
+<people>. The answers given here are the minimum, but expanded versions are also 
+possible. 
+o No extra penalties for omitted letters. 
+o The alphabetical correspondences shown below the Braille character are just to help you, 
+and not expected from the competitors. 
+• 
+8: as for #5 (max 6) 
+• 
+9: as for #5 (max 6) 
+• 
+10: as for #7 (max 21) 
+• 
+11: as for #7 (max 31) 
+• 
+12: as for #7 (max 13) 
+• 
+13: as for #7 (max 15) 
+ 
+ 
+
+=== PAGE 4 ===
+ 
+Your name:                                                                                                                                 
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+ 
+5 
+Canberra is not in Canada. 
+ 
+7 
+a 
+a 
+b 
+b 
+c 
+c 
+ 
+i 
+i 
+s 
+s 
+ 
+z 
+as 
+ 
+" 
+ea 
+s 
+s 
+y 
+y 
+ 
+z 
+as 
+ 
+# a 
+1 
+ 
+# 
+b 
+2 
+ 
+# 
+c 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+It is the best in Belfast. 
+ 
+9 
+Dublin is the capital in Ireland. (Don’t accept of.) 
+ 
+1
+0 , l 
+L 
+o 
+o 
+n 
+n 
+d 
+d 
+o 
+o 
+n 
+n 
+ 
+i 
+i 
+s 
+s 
+ 
+a 
+a 
+ 
+g 
+g 
+r 
+r 
+" 
+ea 
+t 
+t 
+ 
+p 
+p 
+l 
+l 
+a 
+a 
+c 
+c 
+e 
+e 
+4 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+1 , g 
+G 
+r 
+r 
+" 
+ea 
+t 
+t 
+ 
+, b 
+B 
+r 
+r 
+i 
+i 
+t 
+t 
+a 
+a 
+i 
+i 
+n 
+n 
+ h 
+h 
+a 
+a 
+s 
+s 
+ 
+# 
+c 
+3 
+ c 
+c 
+a 
+a 
+p 
+p 
+i 
+i 
+t 
+t  
+a 
+a 
+l 
+l  
+ c 
+c 
+; 
+it 
+i 
+i 
+e 
+e 
+s 
+s 
+   
+ 
+ 
+1
+2 & 
+an
+d 
+ ! 
+th
+e 
+ , 
+ 
+u 
+U 
+, 
+ 
+k 
+K 
+ h 
+h 
+a 
+a 
+s 
+s 
+ 
+# 
+ 
+d 
+4 
+4 
+. 
+ 
+ 
+ 
+ 
+1
+3 , 
+ 
+s 
+S 
+o 
+o 
+ m 
+m 
+a 
+a 
+n 
+n 
+y 
+y 
+ 
+p 
+pe
+op
+le 
+ 9 
+in 
+ a 
+a 
+ 
+c 
+c 
+; 
+it 
+Y 
+y 
+4 
+. 
+ 
+  
+
+=== PAGE 5 ===
+ 
+Your name:                                                                                                                                 
+The UK Linguistics Olympiad   2019 
+Round 1 
+ 
+ 
+ 
+Commentary 
+,marks capital letter (the next Braille symbol should be read as Upper Case) 
+4full stop 
+Grade 2 Braille symbols in this text 
+Here is a sample of the grade 2 symbols, with one Braille character for two or more letters or even for a 
+whole short word. 
+! / 
+\ 
+; 
+9 
+$ 
+/ 
+ 
+the 
+(mo)st 
+(popul)ou(s) (c)it(y) 
+in 
+(Unit)ed St(ates)  
+n 
+# 
+f 
+& 
+p 
+X 
+Z 
+> 
+not 
+[number] (a)fter 
+and 
+people 
+it 
+as 
+(l)ar(ge) 
+ 

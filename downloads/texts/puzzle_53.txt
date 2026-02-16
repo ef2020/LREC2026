@@ -1,0 +1,263 @@
+
+=== PAGE 1 ===
+The UK Linguistics Olympiad   2015 
+Advanced level  
+ 
+Problem 10. Georgian  verbs (25 marks)    
+Georgian is spoken by about four million people in Georgia, a country on the Eastern coast 
+of the Black Sea, south of the Caucasus mountains (not to be confused with the American 
+state called Georgia!). The modern Georgian alphabet has been in use for about four 
+centuries.  Below are twelve Georgian sentences  with  their  English  translations.  All  of  the  verbs  
+in  the  sentences  below  follow  a  regular  pattern.   
+   
+კარს  ვაღებ 
+  I  am  opening  the  door
+სახლს  აშენებ 
+  You  (sing)  are  building  a  house  
+ედუარდ  წერილს  იღებს 
+  Eduard  is  receiving  a  letter 
+ფარდულს  ვაშენებთ 
+  We  are  building  a  barn
+საჩუქარს  აღებთ 
+  You  (pl)  are  opening  a  gift  
+ანდრია  და  მისი  დედა  
+პაკეტს  იღებენ 
+Andria  and  his  mother  are  receiving  a  
+package. 
+ხაჭაპური  გავაკეთე 
+I  have  made  khachapuri 1.
+კარი  შეაკეთე 
+You  (singular)  have  repaired  the  door.
+ანდრიამ  პოემა  დაწერა 
+Andria  has  written  a  poem.
+ლევან  და  მე  აკტომობილი  
+შევაკეთეთ 
+Levan  and  I  have  repaired  the  car.  
+სადილი  გააკეთეთ 
+You  (plural)  have  made  dinner.  
+ედუარდ  და  ეკატერინემ  
+წერილი    დაწერეს 
+Eduard  and  Ekaterine  have written  a letter.  
+   
+   
+                                                          
+1 Khachapuri  is  a  traditional  Georgian  dish  of  cheese‐filled  bread.   
+
+=== PAGE 2 ===
+The UK Linguistics Olympiad   2015 
+Advanced level  
+ 
+Q.10.1  Translate  the  following  sentences  into  English (and write them in the answer sheet):   
+   
+1. წერილს  აღებენ  
+2. კომპუტერი  შეაკეთეთ.   
+3. ადამ  მუზეუმს  აშენებს  
+4. ისტორია  დავწერეთ.   
+   
+Q.10.2.  Translate  the  following  sentences  into  Georgian:   
+   
+5. 
+You  (singular)  are  opening  the  barn.     
+   
+6. 
+I  have  repaired  the  car.   
+   
+7. 
+We  are  receiving  dinner.   
+   
+8. 
+They  have  made  a  gift.     
+ 
+Q.10.3. Explain, as clearly and as concisely as you can, the main features of Georgian grammar that 
+emerge from the data presented above. (Please don’t try to explain the alphabet!) 
+ 
+ 
+
+=== PAGE 3 ===
+The UK Linguistics Olympiad   2015 
+Advanced level  
+ 
+Problem 10. Georgian  verbs (25 marks) 
+Q.10.1. 1. 
+2. 
+3. 
+4. 
+Q.10.2. 5. 
+ 
+6. 
+ 
+7.
+ 
+8. 
+ 
+Q.10.3 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 4 ===
+The UK Linguistics Olympiad   2015 
+Advanced level  
+ 
+10. Georgian  verbs  – solution (25 points) 
+Scoring:  
+Q.10.1: 2 for each correct translation; 1 for just one gap or error. Accept either ‘a’ or ‘the’. (max 8) 
+Q.10.2: 2 for each correct translation; 1 for up to 5 letters missing or wrong. Be generous in 
+accepting attempts at Georgian script! (max 8) 
+Q.10.3: (See the commentary in Appendix C) (max 9) 
+• 
+for a clear and accurate explanation of the morphology of  
+o present-tense verbs (3 points, 1 for partial success) 
+o past-tense verbs (3 points, 1 for partial success) 
+• 
+for accurate and relevant comments on noun forms (2 points, 1 for partial success) 
+• 
+for SOV word order (1 point) 
+• 
+accept explanations using either Georgian or Roman alphabet 
+ 
+Q.10.1 
+1. They are opening the letter.
+2. You (pl.) have repaired the computer.
+3. Adam is building a museum.
+4. We have written a story/ history.
+Q.10.2 
+5. ფარდულს აღებ. 
+6. აკტომობილი შევაკეთე. 
+7. სადილს ვიღებთ. 
+8. საჩუქარი გააკეთეს.
+ 
+ 
+ 
+
+=== PAGE 5 ===
+The UK Linguistics Olympiad   2015 
+Advanced level  
+ 
+Appendix C. Commentary on Georgian (based on notes by the problem 
+author, Dorottya Demszky) 
+Verb morphological structure summarised 
+ 
+Present tense (VR = verb root)
+Past tense (PV = pre-verb)
+1st sing. 
+ვ-/v + VR
+PV+ -ვ-/v + VR
+2nd sing. 
+VR
+PV+VR
+3rd sing. 
+VR  +  -ს/s
+PV+ VR + -ა/a/a/a/a 
+1st pl. 
+ვ- + VR + -თ/t
+PV +  -ვ-/v +VR + -თ/t
+2nd pl. 
+VR + -თ/t
+PV + VR + -თ/ t
+3rd pl. 
+VR + -ენ/en
+PV+ VR + -ს/s 
+ 
+Present tense  
+ 
+To open*2
+To build
+To receive
+1st sing. 
+ვაღებvagheb
+ვაშენებvasheneb
+ვიღებ vigheb
+2nd sing. 
+აღებagheb
+აშენებasheneb
+იღებ igheb
+3rd sing. 
+აღებსaghebs
+აშენებსashenebs
+იღებს ighebs
+1st pl. 
+ვაღებთ vaghebt
+ვაშენებთvashenebt
+ვიღებთ vighebt
+2nd pl. 
+აღებთ aghebt
+აშენებთashenebt
+იღებთ ighebt
+3rd pl. 
+აღებენ agheben
+აშენებენasheneben
+იღებემ igheben
+ 
+Past tense 
+                                                          
+2 Georgian verbs do not have an infinitive 
+To make
+To repair
+To write
+1st sing.
+გავაკეთე gavakete
+შევაკეთე sevakete
+დავწერე davtsere
+2nd sing.
+გააკეთე gaakete
+შეაკეთე sheakete
+დაწერე datsere
+3rd sing.
+გააკეთა gaaketa
+შეაკეთა sheaketa
+დაწერა datsera
+
+=== PAGE 6 ===
+The UK Linguistics Olympiad   2015 
+Advanced level  
+ 
+ 
+ 
+ 
+Nouns as objects 
+Nouns have (at least) 
+two forms when apparently being used as the verb’s object. The two relevant examples are shown 
+below, with an alternation between -ს/s 
+/s 
+/s 
+/s and -ი/i/i/i/i . The choice of noun form depends on the verb’s 
+tense. 
+door
+letter
+A) with present tense
+კარს 
+წერილს 
+B) with past tense
+კარი 
+წერილი     
+Nouns as subjects 
+At least one subject noun has two forms: Andria is ანდრია in ‘Andria and his mother are receiving 
+a package’ but ანდრიამ (with an extra final მ/m
+/m
+/m
+/m) in ‘Andria has written a poem’. This variation is 
+presumably due to the verb’s tense (and we see the same extra letter on Ekaterine ეკატერინემ  in 
+a past-tense sentence) but it is not found on the first of two coordinated subjects, as in ‘Levan and I’ 
+or ‘Eduard and Ekaterine’.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1st pl.
+გააკეთეთ gavaketet
+შევაკეთეთ shevaketet
+დავწერეთ davtser
+2nd pl.
+გააკეთეთ gaaketet
+შეაკეთეთ sheaketet
+დაწერეთ datseret
+3rd pl.
+გააკეთეს gaaketes
+შეაკეთეს sheaketes
+დაწერეს datseres

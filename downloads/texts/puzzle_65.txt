@@ -1,0 +1,156 @@
+
+=== PAGE 1 ===
+ 
+UKLO Round 1 2012 
+8. Arcturan intergalactic peace message (20 marks) 
+It is the year 2354 AD, and we are trying to make contact with two alien species, the 
+Centauri and the Arcturans. Although we have never met either species, we have seen 
+their communication for a very long time. Our scientists first received messages from 
+the Centauri. These aliens from Alpha Centauri live in the solar system closest to 
+earth. Their first message was a message of peace: “farok crrrok hihok yorok clok 
+kantok ok-yurp”.  
+ 
+Now, we know that the Centauri have been in contact for some time with the 
+Arcturans, who live in another solar system. We have never had contact with the 
+Arcturans, but newly developed technology makes it possible for us to send them a 
+message. We would like to send them, first, a message of peace. Because we do not 
+understand their language, this is not an easy task. However, we do know that the 
+Centauri have been in contact with them for a while and we have intercepted 
+messages which they have sent. These messages include both languages, and are 
+shown in the table below. Here we find 12 sentences in Centauri and their translations 
+in Arcturan. Unfortunately, because we have just been eavesdropping their meaning is 
+unknown, but we do know that the sentences pairs are translations of each other.  
+ 
+CEN 1 ok-voon ororok sprok.  
+ARC 1 at-voon bichat dat. 
+CEN 2 ok-drubel ok-voon anok plok 
+sprok.  
+ARC 2 at-drubel at-voon pippat rrat dat. 
+CEN 3 erok sprok izok hihok ghirok.  
+ARC 3 totat dat arrat vat hilat. 
+CEN 4 ok-voon anok drok brok jok.  
+ARC 4 at-voon krat pippat sat lat. 
+CEN 5 wiwok farok izok stok.  
+ARC 5 totat jjat quat cat. 
+CEN 6 lalok sprok izok jok stok. 
+ ARC 6 wat dat krat quat cat. 
+CEN 7 lalok farok ororok lalok sprok 
+izok enemok.  
+ARC 7 wat jjat bichat wat dat vat eneat. 
+CEN 8 lalok brok anok plok nok.  
+ARC 8 iat lat pippat rrat nnat. 
+CEN 9 wiwok nok izok kantok ok-yurp.  ARC 9 totat nnat quat sloat at-yurp. 
+CEN 10 lalok mok nok yorok ghriok 
+clok.  
+ARC 10 wat nnat gat mat bat hilat. 
+CEN 11 lalok nok crrrok hihok yorok 
+zanzanok.  
+ARC 11 wat nnat arrat mat zanzanat. 
+CEN 12 lalok rarok nok izok hihok mok.  ARC 12 wat nnat forat arrat vat gat. 
+ 
+We want to use this information to translate the original peace message from the 
+Centauri so we can send this to the Arcturans. After some years a reply message in 
+Arcturan is received. It reads: 'totat nnat forat arrat mat bat.' Since it’s likely that we 
+on earth will understand Centauri before Arcturan because of the closeness of its solar 
+system, we would like to translate this sentence to Centauri.  
+ 
+
+=== PAGE 2 ===
+ 
+Question 8. (Write your answers on the separate answer sheet.) 
+1. Translate the Centauri message (repeated below) into Arcturan. 
+CEN: farok crrrok hihok yorok clok kantok ok-yurp. 
+ 
+2. Translate the Arcturan reply (repeated below) into Centauri. 
+ARC: totat nnat forat arrat mat bat. 
+ 
+8. Arcturan (20 marks) 
+ 
+1 
+ 
+ 
+2 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+ 
+SOLUTION 
+How to mark an UKLO script 
+Terminology 
+• target: the correct answer; e.g. ‘A B C d’ (where X, Y and Z are wrong) 
+• script answer: the answer in the script you’re marking; e.g. ‘A X C D’. 
+• point: a number that you assign, which the spreadsheet eventually translates 
+into a ‘mark’; e.g. 1 for A 
+• unit: a part of the target that carries a point; e.g. A, X and C. Typically a unit 
+is a word, a phrase or a word-part. 
+• sign: a ‘mark’ that you make on each unit in the script. 
+o tick: on a completely right unit; e.g. on A and C 
+o cross: on a completely wrong unit; e.g. on X 
+o half: on a partly right unit; e.g. on D (for d) 
+ 
+Example: 
+ 
+ 
+ 
+½  
+A 
+X 
+C 
+d 
+ 
+• score: the number you assign to the entire script, following the directions in 
+the marking scheme. 
+Principles 
+• Each correct unit or partly right unit in the script answer increases the score. 
+• Completely wrong units in the script answer are penalised simply by not 
+increasing the score. 
+o e.g. A X C d scores 3 because X scores 0.  
+• Similarly, units in the target that are missing from the script answer are 
+penalised simply by not increasing the score. 
+o e.g. A C d scores 3 because only A, C and d score anything. 
+• But if the script answer contains more units than the target, the surplus units 
+should be penalised.  
+o e.g. A B C d X scores 3 because X scores -1, though A B C d score 4. 
+• No score should be worse than a completely blank answer, so there are no 
+negative scores. 
+o e.g. A B C d X Y Z Z Z scores 0, because althought each X, Y and Z 
+reduces the score by 1, the effect stops when the score reaches 0.  
+How to score 
+1. Follow the marking sheet for  
+a. recognising units 
+b. assigning ticks and halves 
+c. assigning points for ticks and halves. 
+
+=== PAGE 4 ===
+ 
+2. Count the units in the script answer and compare this number with the number 
+of units in the target. If the script answer contains more units than the target, 
+go to 4. Otherwise (i.e. in the vast majority of cases) go to 3. 
+3. Add up all the points for ticks and halves. That’s the score. 
+4. As in 3, but then deduct the number of surplus units, i.e. the difference 
+between the numbers of units in the script answer and in the target. 
+ 
+8. Arcturan (20 marks, 10 points) 
+ 
+NB There were serious errors in the data on the original question paper, but these 
+have been corrected in the present version.  
+ 
+• Units: single words 
+• Points per unit: 5/6 (!!! Sorry ..... Calculate the total with 1 per unit, then x 5/6 and 
+round up or down to the nearest .5). 
+• Accept:  
+o any order of words. 
+o #2 with or without crrrok. 
+o erok for wiwok and mok for clok (but not both erok and wiwok or mok and 
+clok). 
+ 
+1 
+jjat arrat bat mat sloat at-yurp  
+ 
+5 
+2 
+wiwok/erok rarok nok (crrrok) hihok yorok clok/mok (the 6 target 
+words + crrrok) 
+ 
