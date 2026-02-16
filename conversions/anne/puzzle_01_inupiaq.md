@@ -18,62 +18,60 @@ Key suffixes (deducible from data):
 
 Before suffixes other than -pak and -taq, the final consonant is dropped.
 
-| Inupiaq | English |
-|---------|---------|
-| aglakpak | capital, uppercase letter |
-| aglaun | pen, pencil |
-| aqu | 1) stern, rear of the boat; 2) beaver |
-| aquun | rudder |
-| ikniq | fire |
-| iknipiaq | campfire |
-| iknilik | steamboat |
-| ivalu | 1) thread; 2) dental floss |
-| ivalupiaq | dried sinew, tendon |
-| kiginaq | face |
-| killak | hole |
-| killaiyaun | sewing machine |
-| mapkuq | blanket-tossing skin |
-| mapkuqtaq | crack (sharp, snapping sound) |
-| nakasruk | bladder |
-| nakasrunngguaq | bottle, glass jar |
-| nunanngguaq | map |
-| nunalik | land-owner |
-| nuyannguaq | wig |
-| paulaiyaun | cleaning pipe (for gun, oven) |
-| qagruq | bullet, ammunition |
-| qilaun | knitting needle |
-| qilaktaq | 1) garment made of strips of rabbit skin knitted together; 2) hand-woven sack of grass |
-| qipmiq | dog |
-| qipmiuraq | puppy |
-| suqluiyaun | water filter |
-| suqluk | dirt or bugs in water |
-| tingmiaq | goose |
-| tingmiaqpak | 1) bald eagle; 2) golden eagle |
-| tuunngaq | devil, Satan |
-| tuunngaqtaq | demon, evil spirit |
-| tuunngaqtalik | shaman supplied with a spirit |
-| tuttupiaq | reindeer |
-| tuttuqpak | horse |
-| umiaq | boat (any kind) |
-| umiapiaq | skin boat |
-
 ## Match-Up Table
 
 | # | Inupiaq | Letter | English |
 |---|---------|--------|---------|
-| 1 | aglauraq | a | lowercase/small letter |
-| 2 | aglaiyaun | b | rubber, eraser |
-| 3 | iknipiaqtaq | c | food cooked on a campfire |
-| 4 | ikniun | d | flint |
-| 5 | iñuk | e | person |
-| 6 | iñuŋŋuaq | f | mannequin, puppet, doll |
-| 7 | kigiñaŋŋuaq | g | mask |
-| 8 | mapkuqtaun | h | whip |
-| 9 | paula | i | soot |
-| 10 | qaġrupiaq | j | bow and arrow |
-| 11 | umiaqpak | k | ship |
-| 12 | umialik | l | 1) king, rich person; 2) captain of a boat |
+| 1 | aglakpak | A | capital, uppercase letter |
+| 2 | aglaun | B | pen, pencil |
+| 3 | aqu | C | 1) stern, rear of the boat; 2) beaver |
+| 4 | aquun | D | rudder |
+| 5 | ikniq | E | fire |
+| 6 | iknipiaq | F | campfire |
+| 7 | iknilik | G | steamboat |
+| 8 | ivalu | H | 1) thread; 2) dental floss |
+| 9 | ivalupiaq | I | dried sinew, tendon |
+| 10 | kiginaq | J | face |
+| 11 | killak | K | hole |
+| 12 | killaiyaun | L | sewing machine |
+| 13 | mapkuq | M | blanket-tossing skin |
+| 14 | mapkuqtaq | N | crack (sharp, snapping sound) |
+| 15 | nakasruk | O | bladder |
+| 16 | nakasrunngguaq | P | bottle, glass jar |
+| 17 | nunanngguaq | Q | map |
+| 18 | nunalik | R | land-owner |
+| 19 | nuyannguaq | S | wig |
+| 20 | paulaiyaun | T | cleaning pipe (for gun, oven) |
+| 21 | qagruq | U | bullet, ammunition |
+| 22 | qilaun | V | knitting needle |
+| 23 | qilaktaq | W | 1) garment made of strips of rabbit skin knitted together; 2) hand-woven sack of grass |
+| 24 | qipmiq | X | dog |
+| 25 | qipmiuraq | Y | puppy |
+| 26 | suqluiyaun | Z | water filter |
+| 27 | suqluk | AA | dirt or bugs in water |
+| 28 | tingmiaq | AB | goose |
+| 29 | tingmiaqpak | AC | 1) bald eagle; 2) golden eagle |
+| 30 | tuunngaq | AD | devil, Satan |
+| 31 | tuunngaqtaq | AE | demon, evil spirit |
+| 32 | tuunngaqtalik | AF | shaman supplied with a spirit |
+| 33 | tuttupiaq | AG | reindeer |
+| 34 | tuttuqpak | AH | horse |
+| 35 | umiaq | AI | boat (any kind) |
+| 36 | umiapiaq | AJ | skin boat |
+| 37 | aglauraq | AK | lowercase/small letter |
+| 38 | aglaiyaun | AL | rubber, eraser |
+| 39 | iknipiaqtaq | AM | food cooked on a campfire |
+| 40 | ikniun | AN | flint |
+| 41 | iñuk | AO | person |
+| 42 | iñuŋŋuaq | AP | mannequin, puppet, doll |
+| 43 | kigiñaŋŋuaq | AQ | mask |
+| 44 | mapkuqtaun | AR | whip |
+| 45 | paula | AS | soot |
+| 46 | qaġrupiaq | AT | bow and arrow |
+| 47 | umiaqpak | AU | ship |
+| 48 | umialik | AV | 1) king, rich person; 2) captain of a boat |
 
 ## Notes
+- Context word pairs (items 1-36) and match-up items (items 37-48) have been combined into a single Match-Up table.
 - Converted from Q 2.1 which has 12 fill-in-the-gap items (a)-(l). Six gaps require English translations and six require Inupiaq words. All 12 are combined into a single Match-Up table pairing Inupiaq words with English meanings.
 - Q 2.2 (literal translation of killalik), Q 2.3 (Inupiaq word for "little devil"), Q 2.4 (type of footwear), and Q 2.5 (distinguishing two oil types) are skipped as they require open-ended/explanatory answers rather than simple matching.
