@@ -8,7 +8,20 @@ Welsh is one of the original Celtic languages of Britain, spoken as a first lang
 
 Here are some Welsh nouns in their unmutated forms with their English translations:
 
-ceffyl 'horse', tad 'father', meddyg 'doctor', bachgen 'boy', cath 'cat', ci 'dog', dafad 'sheep', darlun 'picture', beic 'bicycle', dyn 'man', Cymru 'Wales', draig 'dragon', theatr 'theatre', Bangor 'Bangor'
+- ceffyl 'horse'
+- tad 'father'
+- meddyg 'doctor'
+- bachgen 'boy'
+- cath 'cat'
+- ci 'dog'
+- dafad 'sheep'
+- darlun 'picture'
+- beic 'bicycle'
+- dyn 'man'
+- Cymru 'Wales'
+- draig 'dragon'
+- theatr 'theatre'
+- Bangor 'Bangor'
 
 Here are some Welsh sentences with their English translations:
 
