@@ -68,7 +68,7 @@
 - [x] Puzzle 52 — Murrinhpatha (converted, 9 items)
 - [x] Puzzle 53 — Georgian (converted, 8 items)
 - [x] Puzzle 54 — Estonian (converted, 10 items)
-- [x] Puzzle 55 [REVIEW] — Yidiny (PDF corrupted/captcha redirect; IOL 2013 problem, needs re-download)
+- [x] Puzzle 55 — Yidiny (converted, 12 items; even-syllable morphology from IOL 2013 source)
 - [x] Puzzle 56 — Navajo (converted, 4 items; Q4.3 grammar explanation skipped, ungrammatical sentences excluded)
 - [x] Puzzle 57 — Zapotec (converted, 6 items; Q2.1 morpheme identification skipped)
 - [x] Puzzle 58 — Bulgarian (converted, 6 items; numeral+noun agreement)
