@@ -115,13 +115,13 @@ The `gh` CLI checks for `GH_TOKEN` first (then `GITHUB_TOKEN` as fallback). Usin
    bash scripts/check_github_auth.sh
    ```
 
-### Session-start hook
-A hook at `.claude/hooks/session-start.sh` runs automatically at the start of every remote Claude Code session. It:
+### Session-start hook (global)
+A **global** hook at `~/.claude/hooks/session-start.sh` runs automatically at the start of every remote Claude Code session, across all your projects. It:
 - Installs `gh` if missing (via `apt`)
 - Picks up `GH_TOKEN` (or falls back to `GITHUB_TOKEN`)
 - Runs `gh auth status` and warns if auth fails
 
-No manual action is needed each session once `GH_TOKEN` is set in the Claude Code web environment variables.
+This project also has a minimal `.claude/hooks/session-start.sh` placeholder for any future project-specific setup. No manual action is needed each session once `GH_TOKEN` is set in the Claude Code web environment variables.
 
 ### Token scopes required
 | Scope | Why |
