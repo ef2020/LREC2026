@@ -68,18 +68,18 @@
 - [x] Puzzle 52 — Murrinhpatha (converted, 9 items)
 - [x] Puzzle 53 — Georgian (converted, 8 items)
 - [x] Puzzle 54 — Estonian (converted, 10 items)
-- [ ] Puzzle 55
-- [ ] Puzzle 56
-- [ ] Puzzle 57
-- [ ] Puzzle 58
-- [ ] Puzzle 59
-- [ ] Puzzle 60
-- [ ] Puzzle 61
-- [ ] Puzzle 62
-- [ ] Puzzle 63
-- [ ] Puzzle 64
-- [ ] Puzzle 65
-- [ ] Puzzle 66
+- [x] Puzzle 55 [REVIEW] — Yidiny (PDF corrupted/captcha redirect; IOL 2013 problem, needs re-download)
+- [x] Puzzle 56 — Navajo (converted, 4 items; Q4.3 grammar explanation skipped, ungrammatical sentences excluded)
+- [x] Puzzle 57 — Zapotec (converted, 6 items; Q2.1 morpheme identification skipped)
+- [x] Puzzle 58 — Bulgarian (converted, 6 items; numeral+noun agreement)
+- [x] Puzzle 59 — Bengali (converted, 8 items; Q9.3h untranslatable sentence skipped)
+- [x] Puzzle 60 — Beja (converted, 10 items; Q3.3 grammar explanation skipped)
+- [x] Puzzle 61 — Danish (converted, 10 items; vigesimal number system)
+- [x] Puzzle 62 — Welsh (converted, 10 items; items requiring two alternatives skipped)
+- [x] Puzzle 63 — Haitian (converted, 12 items; definite article phonology)
+- [x] Puzzle 64 — Esperanto (converted, 6 items; tense/aspect/voice morphology)
+- [x] Puzzle 65 — Arcturan (converted, 12 items; Centauri↔Arcturan word matching)
+- [x] Puzzle 66 — Luiseno (converted, 8 items; continuous IPA transcription)
 
 > **Note:** Mark non-convertible puzzles with `[SKIP]` and a brief reason.
 > Mark puzzles needing discussion with `[REVIEW]`.
