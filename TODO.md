@@ -69,7 +69,7 @@
 - [x] Puzzle 53 — Georgian (converted, 8 items)
 - [x] Puzzle 54 — Estonian (converted, 10 items)
 - [ ] Puzzle 55
-- [ ] Puzzle 56
+- [x] Puzzle 56 — Navajo (converted, 22 items; Q4.1 ungrammatical sentences and Q4.3 explanation skipped)
 - [ ] Puzzle 57
 - [ ] Puzzle 58
 - [ ] Puzzle 59
