@@ -92,6 +92,53 @@ The shared Google Drive folder contains:
 
 Drive link: https://drive.google.com/drive/folders/1_t2nOZvNKS-vgIwJjZwATzPb-qICQdB-?usp=drive_link
 
+## GitHub Authentication
+
+### TL;DR
+Set `GH_TOKEN` to a GitHub Personal Access Token (PAT). This is the correct convention for the `gh` CLI.
+
+### Why `GH_TOKEN`?
+The `gh` CLI checks for `GH_TOKEN` first (then `GITHUB_TOKEN` as fallback). Using `GH_TOKEN` is the recommended convention for all non-Actions environments.
+
+### Setup (one-time)
+
+1. **Generate a token** at <https://github.com/settings/tokens>
+   - Classic PAT: select scopes `repo` and `read:org`
+   - Fine-grained PAT: grant read/write access to `ef2020/LREC2026`
+
+2. **Add it to Claude Code web** (persists across sessions):
+   - Open Claude Code web → Settings → Environment Variables
+   - Add: `GH_TOKEN` = `ghp_your_token_here`
+
+3. **Verify it works** in any session:
+   ```bash
+   bash scripts/check_github_auth.sh
+   ```
+
+### Session-start hook
+A hook at `.claude/hooks/session-start.sh` runs automatically at the start of every remote Claude Code session. It:
+- Installs `gh` if missing (via `apt`)
+- Picks up `GH_TOKEN` (or falls back to `GITHUB_TOKEN`)
+- Runs `gh auth status` and warns if auth fails
+
+No manual action is needed each session once `GH_TOKEN` is set in the Claude Code web environment variables.
+
+### Token scopes required
+| Scope | Why |
+|---|---|
+| `repo` | Push/pull, open PRs, manage issues |
+| `read:org` | List org repos, team membership |
+
+### Troubleshooting
+| Symptom | Fix |
+|---|---|
+| `gh: command not found` | Run `sudo apt install gh` or let the session hook do it |
+| `gh auth status` fails | Token expired — generate a new one at <https://github.com/settings/tokens> |
+| 403 on `git push` | Branch name must start with `claude/` — check your branch name |
+| Token has no scopes | Regenerate with `repo` + `read:org` scopes |
+
+---
+
 ## Claude Code Guidelines
 
 ### When working on this project:
