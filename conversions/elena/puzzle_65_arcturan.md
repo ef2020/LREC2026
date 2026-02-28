@@ -5,7 +5,10 @@ Source: UKLO 2012 — https://www.uklo.org/wp-content/uploads/2022/09/2012.8-Arc
 ## Context
 
 It is the year 2354 AD. We have intercepted messages between two alien species: the Centauri (from Alpha Centauri) and the Arcturans. We have 12 sentence pairs showing Centauri sentences and their Arcturan translations. Their meaning is unknown, but we know they are translations of each other.
-
+## Notes
+- Two variants of translation: one - for the set of context translations; the other one - for words.
+- 
+## Match-Up Table 1
 | # | Centauri | Letter | Arcturan |
 |----------|----------|----------|----------|
 | 1 | ok-voon ororok sprok. |  a | at-voon bichat dat. |
@@ -24,7 +27,7 @@ It is the year 2354 AD. We have intercepted messages between two alien species: 
 The Centauri peace message: "farok crrrok hihok yorok clok kantok ok-yurp."
 The Arcturan reply: "totat nnat forat arrat mat bat."
 
-## Match-Up Table
+## Match-Up Table 2
 
 | # | Centauri word | Letter | Arcturan word |
 |---|---------------|--------|---------------|
@@ -42,7 +45,6 @@ The Arcturan reply: "totat nnat forat arrat mat bat."
 | 12 | izok | l | vat |
 
 ## Notes
-- Two variants of translation: one - for the set of context translations; the other one - for words.
 - Word-level correspondences extracted from the 12 parallel sentence pairs form a natural Match-Up table of 12 Centauri↔Arcturan word pairs.
 - The original questions (Q8.1: translate peace message CEN→ARC; Q8.2: translate reply ARC→CEN) require deducing these correspondences first, so the word-matching table captures the core solving task.
 - Some words have interchangeable equivalents in the solution (erok/wiwok, mok/clok), which are omitted to keep pairings unambiguous.
