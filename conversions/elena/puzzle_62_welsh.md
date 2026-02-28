@@ -8,8 +8,6 @@ A leaflet in Welsh about the library service in the Welsh county Gwynedd is prov
 
 Key vocabulary from the leaflet includes Welsh words for places, library terms, and grammatical constructs including mutation (where initial consonants change in certain contexts, e.g., llyfrgell → lyfrgell).
 
-<img width="596" height="1250" alt="image" src="https://github.com/user-attachments/assets/7625990e-549f-4dde-ba40-32998c515545" />
-<img width="596" height="1250" alt="image" src="https://github.com/user-attachments/assets/7625990e-549f-4dde-ba40-32998c515545" />
 
 
 ## Match-Up Table
