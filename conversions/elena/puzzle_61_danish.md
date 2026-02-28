@@ -33,5 +33,4 @@ Danish numbers:
 | 21 | femogtres | u | 65 |
 | 22 | otteoghalvfems | v | 98 |
 
-## Notes
 
