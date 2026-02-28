@@ -7,7 +7,7 @@ Source: UKLO 2012 — https://www.uklo.org/wp-content/uploads/2022/09/2012.8-Arc
 It is the year 2354 AD. We have intercepted messages between two alien species: the Centauri (from Alpha Centauri) and the Arcturans. We have 12 sentence pairs showing Centauri sentences and their Arcturan translations. Their meaning is unknown, but we know they are translations of each other.
 ## Notes
 - Two variants of translation: one - for the set of context translations; the other one - for words.
-- 
+
 ## Match-Up Table 1
 | # | Centauri | Letter | Arcturan |
 |----------|----------|----------|----------|
