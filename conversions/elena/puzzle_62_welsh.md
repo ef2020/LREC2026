@@ -1,4 +1,4 @@
-# Puzzle 62 — Welsh
+<img width="596" height="1250" alt="image" src="https://github.com/user-attachments/assets/98ebdc9d-5e2d-49e0-b784-aeccc074e1e5" /><img width="596" height="1250" alt="image" src="https://github.com/user-attachments/assets/98ebdc9d-5e2d-49e0-b784-aeccc074e1e5" /># Puzzle 62 — Welsh
 
 Source: UKLO 2012 — https://www.uklo.org/wp-content/uploads/2022/09/2012.3w-Welsh.pdf
 
@@ -7,6 +7,10 @@ Source: UKLO 2012 — https://www.uklo.org/wp-content/uploads/2022/09/2012.3w-We
 A leaflet in Welsh about the library service in the Welsh county Gwynedd is provided, with English translations. Use the leaflet to find Welsh equivalents.
 
 Key vocabulary from the leaflet includes Welsh words for places, library terms, and grammatical constructs including mutation (where initial consonants change in certain contexts, e.g., llyfrgell → lyfrgell).
+
+<img width="596" height="1250" alt="image" src="https://github.com/user-attachments/assets/7625990e-549f-4dde-ba40-32998c515545" />
+<img width="596" height="1250" alt="image" src="https://github.com/user-attachments/assets/7625990e-549f-4dde-ba40-32998c515545" />
+
 
 ## Match-Up Table
 
