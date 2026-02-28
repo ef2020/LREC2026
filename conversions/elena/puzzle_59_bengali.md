@@ -6,8 +6,6 @@ Source: UKLO 2013 — https://www.uklo.org/wp-content/uploads/2022/09/2013.9-Ben
 
 Bengali (or Bangla) is the official language of Bangladesh and West Bengal, India, spoken by 230 million people. Here are some Bengali sentences (as spoken in Bangladesh) and their English translations:
 
-| Bengali | English |
-|---------|---------|
 
 
 Note: ê and ô are wider versions of e and o. ś sounds like "sh" in "shoe". ţ and ŗ are specific consonants. h after a consonant denotes aspiration. Additional vocabulary: jadukôr = "wizard", skul = "school", biŗal = "cat".
