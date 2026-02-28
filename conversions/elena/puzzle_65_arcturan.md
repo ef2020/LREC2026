@@ -6,20 +6,20 @@ Source: UKLO 2012 — https://www.uklo.org/wp-content/uploads/2022/09/2012.8-Arc
 
 It is the year 2354 AD. We have intercepted messages between two alien species: the Centauri (from Alpha Centauri) and the Arcturans. We have 12 sentence pairs showing Centauri sentences and their Arcturan translations. Their meaning is unknown, but we know they are translations of each other.
 
-| Centauri | Arcturan |
-|----------|----------|
-| ok-voon ororok sprok. | at-voon bichat dat. |
-| ok-drubel ok-voon anok plok sprok. | at-drubel at-voon pippat rrat dat. |
-| erok sprok izok hihok ghirok. | totat dat arrat vat hilat. |
-| ok-voon anok drok brok jok. | at-voon krat pippat sat lat. |
-| wiwok farok izok stok. | totat jjat quat cat. |
-| lalok sprok izok jok stok. | wat dat krat quat cat. |
-| lalok farok ororok lalok sprok izok enemok. | wat jjat bichat wat dat vat eneat. |
-| lalok brok anok plok nok. | iat lat pippat rrat nnat. |
-| wiwok nok izok kantok ok-yurp. | totat nnat quat sloat at-yurp. |
-| lalok mok nok yorok ghriok clok. | wat nnat gat mat bat hilat. |
-| lalok nok crrrok hihok yorok zanzanok. | wat nnat arrat mat zanzanat. |
-| lalok rarok nok izok hihok mok. | wat nnat forat arrat vat gat. |
+| # | Centauri | Letter | Arcturan |
+|----------|----------|----------|----------|
+| 1 | ok-voon ororok sprok. |  a | at-voon bichat dat. |
+| 2 | ok-drubel ok-voon anok plok sprok. |  b | at-drubel at-voon pippat rrat dat. |
+| 3 | erok sprok izok hihok ghirok. |  c | totat dat arrat vat hilat. |
+| 4 | ok-voon anok drok brok jok. |  d | at-voon krat pippat sat lat. |
+| 5 | wiwok farok izok stok. |  e | totat jjat quat cat. |
+| 6 | lalok sprok izok jok stok. |  f | wat dat krat quat cat. |
+| 7 | lalok farok ororok lalok sprok izok enemok. |  g | wat jjat bichat wat dat vat eneat. |
+| 8 | lalok brok anok plok nok. |  h | iat lat pippat rrat nnat. |
+| 9 | wiwok nok izok kantok ok-yurp. |  i | totat nnat quat sloat at-yurp. |
+| 10 | lalok mok nok yorok ghriok clok. | j | wat nnat gat mat bat hilat. |
+| 11 | lalok nok crrrok hihok yorok zanzanok. |  k | wat nnat arrat mat zanzanat. |
+| 12 | lalok rarok nok izok hihok mok. |  l | wat nnat forat arrat vat gat. |
 
 The Centauri peace message: "farok crrrok hihok yorok clok kantok ok-yurp."
 The Arcturan reply: "totat nnat forat arrat mat bat."
@@ -42,6 +42,7 @@ The Arcturan reply: "totat nnat forat arrat mat bat."
 | 12 | izok | l | vat |
 
 ## Notes
+- Two variants of translation: one - for the set of context translations; the other one - for words.
 - Word-level correspondences extracted from the 12 parallel sentence pairs form a natural Match-Up table of 12 Centauri↔Arcturan word pairs.
 - The original questions (Q8.1: translate peace message CEN→ARC; Q8.2: translate reply ARC→CEN) require deducing these correspondences first, so the word-matching table captures the core solving task.
 - Some words have interchangeable equivalents in the solution (erok/wiwok, mok/clok), which are omitted to keep pairings unambiguous.
