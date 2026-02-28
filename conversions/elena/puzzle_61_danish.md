@@ -34,4 +34,4 @@ Danish numbers:
 | 22 | otteoghalvfems | v | 98 |
 
 ## Notes
-- All 10 items from Q2 converted (5 Danish→number, 5 number→Danish). The solver must deduce the vigesimal (base-20) system with "halv" (half-score) counting back from the next score.
+
