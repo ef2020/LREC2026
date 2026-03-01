@@ -1,19 +1,19 @@
 Overall Question Number,Level and Score,Subjects,Question Format,Theme,Language Family,Author,url,Year
-310,Breakthrough [71%],_*Wr_,Match-up,,"Indo-European, Indo-Aryan",Babette Verhoeven,2025 R1 1 Devanagari 221,2025
-311,Breakthrough / Foundation [44%//55% ],_*Mo*Sy_,Rosetta,,Furan,Joakim Colpier,2025 R1 2 Fur 222,2025
-312,Breakthrough / Foundation [32% // 49%],_*Se*Sy_,Rosetta,,Austronesian,Babette Verhoeven,2025 R1 3 Saisiyat 223,2025
-313,Foundation / Intermediate [27% // 47%],_*Co_,Match-up,MFL,"Indo-European, Germanic",Michael Salter,2025 R1 4 Icelandic 224,2025
-314,Foundation / Intermediate [18% // 45%],_*Wr_,Match-up,,Indo-European,Michael Salter,2025 R1 5 Armenian 225,2025
-315,Intermediate / Advanced [27% // 34%],_*Se_,Computational,Senses and Feelings,Multiple,"Andrew Lamont, Simi Hellsten",2025 R1 6 Colours 226,2025
-316,Intermediate / Advanced [40% // 51%],_*Nu*Ph_,Match-up,"Classical, comparative",Isolate,Arul Kolla,2025 R1 7 Proto-Basque 227,2025
-317,Advanced_ [36%],_*Mo*Ph_,Pattern,,Salishan,Eimear McKnight,2025 R1 8 Sencoten 228,2025
-318,Advanced_ [20%],_*Mo_,Rosetta,,Iroquoian,"Ethan Chi, Simi Hellsten",2025 R1 9 Cherokee 229,2025
-319,Advanced_ [19%],_*Wr_,Match-up,Classical,Afro-Asiatic,Evan Hochstein,2025 R1 10 Egyptian 230,2025
-320,Round 2 [59%],_*Se*Mo*Ph_,Rosetta,,Austroasiatic,Arul Kolla,2025 R2 1 Nancowry 231,2025
-321,Round 2 [57%],_*Sy*Mo_,Rosetta,,"Altantic-Congo, Bantu",David Hellsten,2025 R2 2 Sakata 232,2025
-322,Round 2 [22%],_*Ph_,Pattern,,Algic,"Evan Hochstein, Simi Hellsten",2025 R2 3 Kickapoo 233,2025
-323,Round 2 [20%],_*Co*Ph_,Match-up,,Uralic,Simi Hellsten,2025 R2 4 Nganasan 234,2025
-324,Round 2 [19%],_*Sy*Mo_,Rosetta,,Austronesian,Ethan Chi,2025 R2 5 Kavalan 235,2025
+310,"[('Breakthrough', '71')]",['Wr'],['Match-up'],['nan'],"['Indo-European', 'Indo-Aryan']",['Babette Verhoeven'],2025 R1 1 Devanagari 221,2025
+311,"[('Breakthrough', '44'), ('Foundation', '55')]","['Mo', 'Sy']",['Rosetta'],['nan'],['Furan'],['Joakim Colpier'],2025 R1 2 Fur 222,2025
+312,"[('Breakthrough', '32'), ('Foundation', '49')]","['Se', 'Sy']",['Rosetta'],['nan'],['Austronesian'],['Babette Verhoeven'],2025 R1 3 Saisiyat 223,2025
+313,"[('Foundation', '27'), ('Intermediate', '47')]",['Co'],['Match-up'],['MFL'],"['Indo-European', 'Germanic']",['Michael Salter'],2025 R1 4 Icelandic 224,2025
+314,"[('Foundation', '18'), ('Intermediate', '45')]",['Wr'],['Match-up'],['nan'],['Indo-European'],['Michael Salter'],2025 R1 5 Armenian 225,2025
+315,"[('Intermediate', '27'), ('Advanced', '34')]",['Se'],['Computational'],['Senses and Feelings'],['Multiple'],"['Andrew Lamont', 'Simi Hellsten']",2025 R1 6 Colours 226,2025
+316,"[('Intermediate', '40'), ('Advanced', '51')]","['Nu', 'Ph']",['Match-up'],"['Classical', 'Comparative']",['Isolate'],['Arul Kolla'],2025 R1 7 Proto-Basque 227,2025
+317,"[('Advanced', '36')]","['Mo', 'Ph']",['Pattern'],['nan'],['Salishan'],['Eimear McKnight'],2025 R1 8 Sencoten 228,2025
+318,"[('Advanced', '20')]",['Mo'],['Rosetta'],['nan'],['Iroquoian'],"['Ethan Chi', 'Simi Hellsten']",2025 R1 9 Cherokee 229,2025
+319,"[('Advanced', '19')]",['Wr'],['Match-up'],['Classical'],['Afro-Asiatic'],['Evan Hochstein'],2025 R1 10 Egyptian 230,2025
+320,"[('Round2', '59')]","['Se', 'Mo', 'Ph']",['Rosetta'],['nan'],['Austroasiatic'],['Arul Kolla'],2025 R2 1 Nancowry 231,2025
+321,"[('Round2', '57')]","['Sy', 'Mo']",['Rosetta'],['nan'],"['Altantic-Congo', 'Bantu']",['David Hellsten'],2025 R2 2 Sakata 232,2025
+322,"[('Round2', '22')]",['Ph'],['Pattern'],['nan'],['Algic'],"['Evan Hochstein', 'Simi Hellsten']",2025 R2 3 Kickapoo 233,2025
+323,"[('Round2', '20')]","['Co', 'Ph']",['Match-up'],['nan'],['Uralic'],['Simi Hellsten'],2025 R2 4 Nganasan 234,2025
+324,"[('Round2', '19')]","['Sy', 'Mo']",['Rosetta'],['nan'],['Austronesian'],['Ethan Chi'],2025 R2 5 Kavalan 235,2025
 206,"[('Breakthrough', '72')]",['Ph'],['Text'],"['Classical', 'Comparative']","['Indo-European', 'Germanic']",['Babette Verhoeven'],https://www.uklo.org/wp-content/uploads/2024/04/2024_R1_1-Old-English-West-Frisian.pdf,2024
 207,"[('Breakthrough', '41'), ('Foundation', '45')]","['Mo', 'Ph']",['Pattern'],['nan'],['Pama-Nyungan'],['Mary Laughren'],https://www.uklo.org/wp-content/uploads/2024/04/2024_R1_2-Warlpiri.pdf,2024
 208,"[('Breakthrough', '56'), ('Foundation', '62')]","['Sy', 'Wr']",['Rosetta'],['nan'],['Austroasiatic'],['Babette Verhoeven'],https://www.uklo.org/wp-content/uploads/2024/04/2024_R1_3-Khmer.pdf,2024
