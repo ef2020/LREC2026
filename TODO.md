@@ -68,30 +68,40 @@
 - [x] Puzzle 52 — Murrinhpatha (converted, 9 items)
 - [x] Puzzle 53 — Georgian (converted, 8 items)
 - [x] Puzzle 54 — Estonian (converted, 10 items)
-- [ ] Puzzle 55
+- [x] Puzzle 55 — Yidiny (converted)
 - [x] Puzzle 56 — Navajo (converted, 22 items; Q4.1 ungrammatical sentences and Q4.3 explanation skipped)
-- [ ] Puzzle 57
-- [ ] Puzzle 58
-- [ ] Puzzle 59
-- [ ] Puzzle 60
-- [ ] Puzzle 61
-- [ ] Puzzle 62
-- [ ] Puzzle 63
-- [ ] Puzzle 64
-- [ ] Puzzle 65
-- [ ] Puzzle 66
+- [x] Puzzle 57 — Zapotec (converted)
+- [x] Puzzle 58 — Bulgarian (converted)
+- [x] Puzzle 59 — Bengali (converted)
+- [x] Puzzle 60 — Beja (converted)
+- [x] Puzzle 61 — Danish (converted)
+- [x] Puzzle 62 — Welsh (converted)
+- [x] Puzzle 63 — Haitian (converted)
+- [x] Puzzle 64 — Esperanto (converted)
+- [x] Puzzle 65 — Arcturan (converted)
+- [x] Puzzle 66 — Luiseño (converted)
 
 > **Note:** Mark non-convertible puzzles with `[SKIP]` and a brief reason.
 > Mark puzzles needing discussion with `[REVIEW]`.
 > Example: `- [x] Puzzle 7 [SKIP] — Yodaspeak, not a true Rosetta Stone puzzle`
 
 ### Paper Comments
-- [ ] Anne: review paper draft; send comments to Elena & Neh by Feb 27
-- [ ] Frank: review paper draft; send comments to Elena & Neh by Feb 27
-- [ ] Anne: verify school affiliation is correct in paper
-- [ ] Frank: verify school affiliation is correct in paper
-- [ ] Anne & Frank: check that puzzle-solving methodology is accurately described
-- [ ] Identify any missing items in the paper (e.g., puzzle-solving procedures)
+- [x] Anne: review paper draft; send comments to Elena & Neh by Feb 27
+- [x] Frank: review paper draft; send comments to Elena & Neh by Feb 27
+- [x] Anne: verify school affiliation is correct in paper
+- [x] Frank: verify school affiliation is correct in paper
+- [x] Anne & Frank: check that puzzle-solving methodology is accurately described
+- [x] Identify any missing items in the paper (e.g., puzzle-solving procedures)
+
+### Reviewer Responses (camera-ready)
+Reviewers: #1 (score 3), #2 (score 4), #3 (score 2). Final paper (`paper/LREC_Paper_Final.pdf`) addresses:
+- [x] R1: Add language distribution data — added quantitative UKLO survey (235 problems, 206 unique languages) in Section 1
+- [x] R1/R2: Justify LLM choice — paper now states GPT-5 and Gemini 2.5-Pro are "the two SOTA publicly available LLMs at the time of the experiments (October 2025)"
+- [x] R1: Missing \cite + typo in §2.2 ("demonsrtate") — Şahin et al. 2020 citation corrected
+- [x] R1/R2/R3: Only 2 human evaluators — justified in §4.1 (specialized expertise required) and acknowledged in §8 Limitations
+- [x] R2/R3: Deeper analysis of all-or-nothing pattern — expanded in §4.2.1 and Conclusion
+- [x] R3: Clarify puzzle scoring/evaluation — strict evaluation procedure explained in §4.2.1
+- [x] R3: Discuss binary results for Match-Up vs. Rosetta generation vs. classification — addressed in §4.2.2 and §6
 
 ---
 
@@ -105,12 +115,12 @@
 - [ ] Verify corpus completeness (31 existing + new conversions)
 
 ### Paper Finalization
-- [ ] Incorporate all co-author comments into paper
-- [ ] Update corpus statistics in paper (total puzzle count, conversion rate)
-- [ ] Document which puzzles could not be converted and why
-- [ ] Final proofreading pass
-- [ ] Last-minute puzzle conversions if needed (buffer week: Feb 27 – Mar 6)
-- [ ] Submit camera-ready version by Mar 6
+- [x] Incorporate all co-author comments into paper
+- [x] Update corpus statistics in paper (96 RS puzzles collected; 30 pairs used in experiments)
+- [x] Reviewer comments addressed (see Reviewer Responses above)
+- [x] Final paper uploaded: `paper/LREC_Paper_Final.pdf`
+- [ ] Final proofreading pass before submission
+- [ ] Submit camera-ready version by Mar 6 ⬅ **2 days away**
 
 ---
 
@@ -128,10 +138,12 @@
 ---
 
 ## Completed
-_Move items here as they are finished._
 
 - [x] Project repository created
 - [x] CLAUDE.md written
 - [x] TODO.md written
 - [x] Directory structure established
 - [x] 31 existing conversions completed (prior work — see Google Drive)
+- [x] All 66 new puzzle conversions completed (Anne: 1–25, Frank: 26–50, Elena: 51–66)
+- [x] Reviewer comments incorporated into final paper (`paper/LREC_Paper_Final.pdf`)
+- [x] Reviews filed: `paper/Reviews.txt`
