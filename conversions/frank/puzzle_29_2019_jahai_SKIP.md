@@ -20,29 +20,29 @@ The Jahai live in the Northern Malaysia peninsula near the border with Thailand.
 
 ## Match-Up Table
 
-| # | English description | Letter | Jahai verb letter |
-|---|---------------------|--------|-------------------|
-| 1 | to have a sweet smell | a | c |
-| 2 | to smell like an edible something | b | a |
-| 3 | to smell like food cooked directly on fire (like a BBQ) | c | b |
-| 4 | to stink, to smell very unpleasantly | d | d |
-| 5 | to have a sharp, stinging smell | e | f |
-| 6 | to have a damp, stale smell | f | e |
-| 7 | Perfume | g | c |
-| 8 | Cigarette smoke | h | f |
-| 9 | Urinals | i | i |
-| 10 | Fresh vegetable dishes | j | a |
-| 11 | Rancid (off) food | k | d |
-| 12 | Fresh bread | l | a |
-| 13 | Mushrooms | m | c |
-| 14 | Fresh, open wounds | n | h |
-| 15 | Grilled fish | o | b |
-| 16 | Dirty socks | p | d |
-| 17 | Disinfectant | q | f |
-| 18 | Flower-scented soap | r | c |
+| # | English description |  Jahai verb letter |
+|---|----------------------|-------------------|
+| 1 | to have a sweet smell | c |
+| 2 | to smell like an edible something  | a |
+| 3 | to smell like food cooked directly on fire (like a BBQ)  | b |
+| 4 | to stink, to smell very unpleasantly  | d |
+| 5 | to have a sharp, stinging smell | f |
+| 6 | to have a damp, stale smell | e |
+| 7 | Perfume | c |
+| 8 | Cigarette smoke | f |
+| 9 | Urinals  | i |
+| 10 | Fresh vegetable dishes  | a |
+| 11 | Rancid (off) food | d |
+| 12 | Fresh bread  | a |
+| 13 | Mushrooms  | c |
+| 14 | Fresh, open wounds |h |
+| 15 | Grilled fish  | b |
+| 16 | Dirty socks | d |
+| 17 | Disinfectant  | f |
+| 18 | Flower-scented soap  | c |
 
 ## Notes
 - Items 1-6 are from Q1 (matching verbs to general smell descriptions).
 - Items 7-18 are from Q2 (matching specific items to smell categories).
 - This puzzle is somewhat unusual as a Match-Up because the "target language" side uses letter references to the Jahai verbs rather than the verb forms themselves, and some answers repeat. The same Jahai verb can match multiple items in Q2.
-- Since multiple items map to the same Jahai verb letter, this is not a one-to-one matching puzzle in Q2. This may need a [REVIEW] tag to determine if the format is acceptable for the corpus.
+- Since multiple items map to the same Jahai verb letter, this is not a one-to-one matching puzzle in Q2. This puzzle cannot be translated into a MatchUp puzzle following the standard procedure. 
