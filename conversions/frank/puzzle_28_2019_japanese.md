@@ -8,22 +8,7 @@ In our alphabet, letters stand for sounds. Japanese is different. Most Japanese 
 
 | Kanji | Meaning |
 |-------|---------|
-| 日 | sun, day |
-| 京 | capital (of a country) |
-| 田 | rice field |
-| 日本語 | Japanese language |
-| 都 | city, big town |
-| 英語 | English language |
-| 人 | person |
-| 月曜日 | Monday ('moon-day') |
-| 本 | root |
-| 山 | mountain |
-| 金 | gold, money |
-| 先生 | teacher ('before-student') |
-| 東 | east |
-| 日本語の先生 | Japanese language teacher |
-| 中 | centre, middle |
-| 外国 | foreign ('abroad-country') |
+
 
 Known names: 山田 (Yamada) = mountain rice field; 本田 (Honda) = root rice field; 東京 (Tokyo) = east capital; 京都 (Kyoto) = capital city.
 
@@ -31,17 +16,33 @@ Known names: 山田 (Yamada) = mountain rice field; 本田 (Honda) = root rice f
 
 | # | Kanji | Letter | English |
 |---|-------|--------|---------|
-| 1 | 日本人 | a | Japanese person |
-| 2 | 英語の先生 | b | English language teacher |
-| 3 | 外国語 | c | foreign language |
-| 4 | 月 | d | moon |
-| 5 | 国 | e | country |
-| 6 | 火山 | f | volcano ('fire mountain') |
-| 7 | 外国人 | g | foreign person |
-| 8 | 外国語の先生 | h | foreign language teacher |
-| 9 | 金曜日 | i | Friday ('money day') |
-| 10 | 中国 | j | China ('centre-country') |
-| 11 | 中東 | k | Middle East |
+| 1 | 日 | a | sun, day |
+| 2 | 京 | b | capital (of a country) |
+| 3 | 田 | c | rice field |
+| 4 | 日本語 | d | Japanese language |
+| 5 | 都 | e | city, big town |
+| 6 | 英語 | f | English language |
+| 7 | 人 | g | person |
+| 8 | 月曜日 | h | Monday ('moon-day') |
+| 9 | 本 | i | root |
+| 10 | 山 | j | mountain |
+| 11 | 金 | k | gold, money |
+| 12 | 先生 | l | teacher ('before-student') |
+| 13 | 東 | m | east |
+| 14 | 日本語の先生 | n | Japanese language teacher |
+| 15 | 中 | o | centre, middle |
+| 16 | 外国 | p | foreign ('abroad-country') |
+| 17 | 日本人 | q | Japanese person |
+| 18 | 英語の先生 | r | English language teacher |
+| 19 | 外国語 | s | foreign language |
+| 20 | 月 | t | moon |
+| 21 | 国 | u | country |
+| 22 | 火山 | v | volcano ('fire mountain') |
+| 23 | 外国人 | w | foreign person |
+| 24 | 外国語の先生 | x | foreign language teacher |
+| 25 | 金曜日 | y | Friday ('money day') |
+| 26 | 中国 | z | China ('centre-country') |
+| 27 | 中東 | aa | Middle East |
 
 ## Notes
 - Items 1-5 are from Q2 (kanji to English translation).
