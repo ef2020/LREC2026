@@ -8,35 +8,32 @@ Yoruba is spoken by almost 30 million people in West Africa. It is written with 
 
 Here are some numbers in Yoruba:
 
-| Yoruba | Number |
-|--------|--------|
-| eji | 2 |
-| e-rin | 4 |
-| arun | 5 |
-| e-rinla | 14 |
-| eejidilogun | 18 |
-| eeriindilogoji | 36 |
-| e-rindogoji | 44 |
-| aadorin | 70 |
-| eetadilogorin | 77 |
-| e-tadogorin | 83 |
-
 (Diacritics simplified for readability; see original for precise tone markings.)
 
 ## Match-Up Table
 
 | # | Yoruba | Letter | Number |
 |---|--------|--------|--------|
-| 1 | aadota | a | 50 |
-| 2 | arundogorin | b | 85 |
-| 3 | aarundilogorin | c | 75 |
-| 4 | e-tadogorun | d | 103 |
-| 5 | okandilogoji | e | 39 |
-| 6 | ejila | f | 12 |
-| 7 | aadorun | g | 90 |
-| 8 | eetadilogota | h | 57 |
-| 9 | arundogoji | i | 45 |
-| 10 | okandilogorun | j | 99 |
+| 1 | eji | a | 2 |
+| 2 | e-rin | b | 4 |
+| 3 | arun | c | 5 |
+| 4 | e-rinla | d | 14 |
+| 5 | eejidilogun | e | 18 |
+| 6 | eeriindilogoji | f | 36 |
+| 7 | e-rindogoji | g | 44 |
+| 8 | aadorin | h | 70 |
+| 9 | eetadilogorin | i | 77 |
+| 10 | e-tadogorin | j | 83 |
+| 11 | aadota | k | 50 |
+| 12 | arundogorin | l | 85 |
+| 13 | aarundilogorin | m | 75 |
+| 14 | e-tadogorun | n | 103 |
+| 15 | okandilogoji | o | 39 |
+| 16 | ejila | p | 12 |
+| 17 | aadorun | q | 90 |
+| 18 | eetadilogota | r | 57 |
+| 19 | arundogoji | s | 45 |
+| 20 | okandilogorun | t | 99 |
 
 ## Notes
 - Items 1-5 are from Q2.1 (Yoruba to numbers).
