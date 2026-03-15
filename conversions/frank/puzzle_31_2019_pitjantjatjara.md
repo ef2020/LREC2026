@@ -47,6 +47,4 @@ Selected complete sentences from the conversation:
 
 
 ## Notes
-- This puzzle uses a fill-in-the-gap format within a conversational narrative. Each gap (numbered 1-11) requires either a Pitjantjatjara sentence or its English translation.
-- The Match-Up table pairs each gap description with its correct answer.
-- Some gaps require producing Pitjantjatjara (gaps 1, 2, 4, 7, 8, 10) and others require producing English (gaps 3, 5, 6, 9, 11).
+
