@@ -6,22 +6,6 @@ Source: UKLO 2017 — https://www.uklo.org/wp-content/uploads/2022/05/2017_1.-It
 
 Italian grammar uses gender (masculine/feminine) and number (singular/plural), shown by endings: -o (masculine singular), -a (feminine singular), -i (masculine plural), -e (feminine plural). The gender and number extend to possessive pronouns, articles, and adjectives.
 
-Given examples:
-
-| English | Italian |
-|---------|---------|
-| my house | la mia casa |
-| the houses | le case |
-| your bicycles | le tue biciclette |
-| our tickets | i nostri biglietti |
-| my job | il mio lavoro |
-| my sister | mia sorella |
-| our brother | nostro fratello |
-| your cousin | tuo cugino |
-| my sisters | le mie sorelle |
-| our Italian grandmother | la nostra nonna italiana |
-| my cousins | i miei cugini |
-| our Italian cousin | il nostro cugino italiano |
 
 Note: possessive pronouns generally combine with 'the' (e.g., la mia casa), but 'the' is omitted with singular, unmodified family members (e.g., mia sorella).
 
@@ -29,17 +13,28 @@ Note: possessive pronouns generally combine with 'the' (e.g., la mia casa), but 
 
 | # | Italian | Letter | English |
 |---|---------|--------|---------|
-| 1 | la nostra casa | a | our house |
-| 2 | il biglietto | b | the ticket |
-| 3 | la mia bicicletta | c | my bicycle |
-| 4 | tuo fratello | d | your brother |
-| 5 | la tua sorella italiana | e | your Italian sister |
-| 6 | nostra sorella | f | our sister |
-| 7 | i nostri cugini | g | our cousins |
-| 8 | i nostri lavori | h | our jobs |
-| 9 | le nostre nonne | i | our grandmothers |
-| 10 | mio nonno | j | my grandfather |
+| 1 | la mia casa| a | my house  |
+| 2 | le case | b | the houses  |
+| 3 | le tue biciclette | c | your bicycles  |
+| 4 | i nostri biglietti | d | our tickets  |
+| 5 | il mio lavoro | e | my job  |
+| 6 | mia sorella | f | my sister  |
+| 7 | nostro fratello | g | our brother  |
+| 8 | tuo cugino | h | your cousin  |
+| 9 | le mie sorelle | i | my sisters  |
+| 10 | la nostra nonna italiana | j | our Italian grandmother |
+| 11 | i miei cugini   | k | my cousins |
+| 12 | il nostro cugino italiano | l | our Italian cousin  |
+| 13 | la nostra casa | m | our house |
+| 14 | il biglietto | n | the ticket |
+| 15 | la mia bicicletta | o | my bicycle |
+| 16 | tuo fratello | p | your brother |
+| 17 | la tua sorella italiana | q | your Italian sister |
+| 18 | nostra sorella | r | our sister |
+| 19 | i nostri cugini | s | our cousins |
+| 20 | i nostri lavori | t | our jobs |
+| 21 | le nostre nonne | u | our grandmothers |
+| 22 | mio nonno | v | my grandfather |
 
 ## Notes
-- All 10 items are fill-in-the-blank cells from the puzzle table.
-- Item 10 is the reverse direction: the Italian "mio nonno" was given and the English translation was blank.
+
