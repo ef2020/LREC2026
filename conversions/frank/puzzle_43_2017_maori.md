@@ -4,44 +4,39 @@ Source: UKLO 2017 — https://www.uklo.org/wp-content/uploads/2022/05/2017_6.-Ma
 
 ## Context
 
-Maori is the indigenous language of New Zealand, spoken by about 4% of the population. It is a Polynesian language. Basic sentence structure: Tense + Verb + Subject + X. Negative structure: Neg + Subject + Tense + Verb + X. Emphatic structure: Tense-1 + Subject + X + Tense-2 + Verb.
+Māori is the indigenous language of New Zealand and is one of the official languages of that country, spoken by about 4% of the population. It is a Polynesian language like many of the languages spoken in the Pacific area.  
 
-| Maori | English |
-|-------|---------|
-| Ka moe au ki tatahi. | I will sleep at the beach. |
-| Kua kite ratou i Te Maioro Nui Whakaharahara o Haina. | They have seen the Great Wall of China. |
-| Ka patu koe i te poro. | You will hit the ball. |
-| Kua haere au ki te hui. | I have gone to the meeting. |
-| I patua te taramu e te tama. | The drum was hit by the boy. |
-| Kaore au e haere ki te marae. | I will not go to the courtyard. |
-| I korerotia nga kupu e te tama. | The words were spoken by the boy. |
-| Kaore te whare i hangaia e Bob. | The house was not built by Bob. |
-| I patu Bob i te taramu. | Bob hit the drum. |
-| Kua mahia te mahi e au. | The work has been done by me. |
-| I whaia au e te puru. | I was chased by the bull. |
-| Na te kotiro te taramu i patu. | The girl (emphatic) hit the drum. |
-| Ma te wahine nga pereti e horoi. | The woman (emphatic) will wash the plates. |
-
-(Macrons on vowels simplified; see original for precise Maori orthography.)
+Here are some examples. Fill cells 1-12. (NB ‘ā’ and ‘ō’ are long vowels; the length matters.) 
 
 ## Match-Up Table
 
 | # | Maori | Letter | English |
 |---|-------|--------|---------|
-| 1 | Ka haere ratou ki tatahi. | a | They will go to the beach. |
-| 2 | Kua patu au i te poro. | b | I have hit the ball. |
-| 3 | I hangaia te whare e Bob. | c | The house was built by Bob. |
-| 4 | Na te tama te kotiro i korero. | d | The boy (emphatic) spoke to the girl. |
-| 5 | Ma te puru nga tama e whai. | e | The bull (emphatic) will chase the boys. |
-| 6 | Kaore au i haere ki te marae. | f | I did not go to the courtyard. |
-| 7 | Kua moe ratou ki te hui. | g | They have slept at the meeting. |
-| 8 | Ka haere koe ki Te Maioro Nui Whakaharahara o Haina. | h | You will go to the Great Wall of China. |
-| 9 | Kaore au e moe ki tatahi. | i | I will not sleep at the beach. |
-| 10 | Kua horoia te puru e koe. | j | The bull has been washed by you. |
-| 11 | Na te tama te mahi i mahi. | k | The boy did the work. |
-| 12 | I haere te wahine ki te whare. | l | The woman went to the house. |
+| 1 |  Ka moe au ki tātahi. | a | I will sleep at the beach. |
+| 2 |  Kua kite rātou i Te Maioro Nui Whakaharahara o Haina. | b | They have seen the Great Wall of China. |
+| 3 |  Ka patu koe i te pōro. | c | You will hit the ball. |
+| 4 |  Kua haere au ki te hui. | d | I have gone to the meeting. |
+| 5 |  I patua te taramu e te tama. | e | The drum was hit by the boy. |
+| 6 |  Kāore au e haere ki te marae. | f | I will not go to the courtyard. |
+| 7 |  I korerotia ngā kupu e te tama. | g | The words were spoken by the boy. |
+| 8 |  Kāore te whare i hangaia e Bob. | h | The house was not built by Bob. |
+| 9 |  I patu Bob i te taramu. | i | Bob hit the drum. |
+| 10 |  Kua mahia te mahi e au. | j | The work has been done by me. |
+| 11 |  I whāia au e te pūru. | k | I was chased by the bull. |
+| 12 |  Nā te kotiro te taramu i patu. | l | The girl (emphatic) hit the drum. |
+| 13 |  Mā te wahine nga pereti e horoi. | m | The woman (emphatic) will wash the plates. |
+| 14 | Ka haere rātou ki tātahi. | n | They will go to the beach. |
+| 15 | Kua patu au i te pōro. | o | I have hit the ball. |
+| 16 | I hangaia te whare e Bob. | p | The house was built by Bob. |
+| 17 | Nā te tama te kōtiro i kōrero. | q | The boy (emphatic) spoke to the girl. |
+| 18 | Mā te pūru ngā tama e whai. | r | The bull (emphatic) will chase the boys. |
+| 19 | Kāore au i haere ki te marae. | s | I did not go to the courtyard. |
+| 20 | Kua moe ratou ki te hui. | t | They have slept at the meeting. |
+| 21 | Ka haere koe ki Te Maioro Nui Whakaharahara o Haina. | u | You will go to the Great Wall of China. |
+| 22 | Kaore au e moe ki tatahi. | v | I will not sleep at the beach. |
+| 23 | Kua horoia te pūru e koe. | w | The bull has been washed by you. |
+| 24 | Nā te tama te mahi i mahi. | x | The boy did the work. |
+| 25 | I haere te wahine ki te whare. | y | The woman went to the house. |
 
 ## Notes
-- Items 1-6 are fill-in-the-blank translations from Maori to English (gaps 1-6 in the puzzle).
-- Items 7-12 are fill-in-the-blank translations from English to Maori (gaps 7-12 in the puzzle).
-- Macrons (long vowels) have been simplified in this table. The original uses precise Maori orthography.
+
