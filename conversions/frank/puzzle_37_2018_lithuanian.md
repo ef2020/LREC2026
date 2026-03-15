@@ -37,6 +37,7 @@ Lithuanian is the official language of Lithuania, and is one of the surviving la
 | 8 | As nenoriu zemelapi. | h | I don't want a map. |
 
 ## Notes
-- All 8 items are from the translation questions (English to Lithuanian).
+- All 8 items are from the translation questions (English to Lithuanian). The English translations include the information about the speaker(s) and the listener(s).
+- Only the Rosetta Stone questions are included in the match-up table due to the presence and importance of the information about the speaker(s) and the listener(s).
 - Diacritics have been simplified in this table. The original puzzle uses precise Lithuanian orthography with dots and lines above/below letters.
 - The puzzle noted an error in the original: the tenth row originally contained "Tu turi zemelapi" instead of "Skaityk zemelapi", which was later corrected.
