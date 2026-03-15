@@ -29,22 +29,7 @@ The Austronesian language Fijian is one of the official languages of Fiji. Fijia
 
 ## Match-Up Table
 
-| # | Fijian | Letter | English |
-|---|--------|--------|---------|
-| 1 | na utoqu | a | my heart |
-| 2 | na mena yaqona | b | her kava (that she's drinking) |
-| 3 | na kequ draunikau | c | my witchcraft (used on/against me) |
-| 4 | na nomu dali | d | your (singular) rope (that you own) |
-| 5 | na kemudrau ika | e | your (dual) fish (for dinner) |
-| 6 | na memuni wai | f | your (plural) water |
-| 7 | na luvena | g | her child |
-| 8 | na kena yaqona | h | his kava (drunk in his honour) |
-| 9 | na noda waqa | i | our (inclusive) canoe |
-| 10 | na nodra yapolo | j | their apple (that they're selling) |
-| 11 | na nomudrau draunikau | k | your (dual) witchcraft (that you're making) |
-| 12 | na kemuni dali | l | your (plural) rope (restraining you) |
-| 13 | na medra maqo | m | their mango (for drinking) |
+
 
 ## Notes
-- All 13 items are from Q4.1 (English to Fijian translation of possessive phrases).
-- Q4.2 asks for the three different ways to say 'my coconut' (na mequ niu, na kequ niu, na noqu niu) and their distinct meanings. This is a three-way distinction with explanation, which does not fit the standard Match-Up two-column format well, so it is not included.
+- The presence of the words that should be used for translation prevents the application of the standard procedure of converting Rosetta Stone to Match-Up
