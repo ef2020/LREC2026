@@ -7,45 +7,44 @@ Source: UKLO 2019 — https://www.uklo.org/wp-content/uploads/2022/05/2019_5-Pit
 Pitjantjatjara is an Australian Aboriginal language with about 3,000 speakers found in the desert of Central Australia, near Uluru. A linguist recorded a conversation with some gaps. Key vocabulary and sentence patterns can be deduced from the complete sentences.
 
 Selected complete sentences from the conversation:
-
-- Unurupalu Winmatjinya nyangu. — Unurupa saw Winmatji.
-- Unurupalu Winmatjinya wangkangu, "Ngali karukutu ananyi." — Unurupa said to Winmatji, "The two of us are going to the creek."
-- Paluru wangkangu, "Nyaaku ngali ananyi?" — He said, "Why are the two of us going?"
-- Paluru wangkangu, "Ngali punuku ananyi." — She said, "The two of us are going for wood."
-- Umatjilu wangkangu "Yaaltjikutu nyupali ananyi." — Umatji said, "Where are the two of you going?"
-- Unurupalu wangkangu "Ngali karukutu punuku ananyi." — Unurupa said, "The two of us are going to the creek for wood."
-- Umatjilu wangkangu, "Wiru, palya ngayulu pitjanyi?" — Umatji said, "Lovely, can I come?"
-- Unurupalu munu Winmatjilu palunya wangkangu, "Uwa, palya." — Unurupa and Winmatji said to her, "Okay, fine."
-- Tjana mutukakutu anu. — They went to the car.
-- Winmatjinya Unurupalangka nyinangu. — Winmatji sat on Unurupa.
-- Tjana Itjinpirilakutu anu. — They went to Itjinpiri.
-- Unurupanya karungka nyinangu. — Unurupa sat in the creek.
-- Umatjilu Winmatjinya paltjunu. — Umatji stood on Winmatji.
-- Winmatjilu wangkangu, "Nyuntu ngayunya paltjunu!" — Winmatji said, "You stood on me!"
-- Unurupalu wangkangu, "Nganana Pukatjalakutu ananyi." — Unurupa said, "We're going to Pukatja."
-- Tjana mutukangka tjarpangu. — They got into the car.
-- Pukatjala, Witurpalu wangkangu tjananya, "Yaaltjinguru nyura pitjangu?" — In Pukatja, Witurpa said to them, "Where did you come from?"
-- Witurpalu wangkangu, "Nyaanguru Winmatjinya ulanyi?" — Witurpa said, "Why is Winmatji crying?"
-- Witurpalu wangkangu, "Ngaltutjara." — Witurpa said, "Poor thing."
-- Paluru wangkangu, "Nyaaku nyura Itjinpirilakutu anu?" — He/She said, "Why did you go to Itjinpiri?"
-- Witurpalu wangkangu, "Yaaltjingka punu?" — Witurpa said, "Where is the firewood?"
-- Umatjilu wangkangu, "Nganana punu wiya." — Umatji said, "We don't have any firewood."
-
 ## Match-Up Table
 
-| # | Gap text (Pitjantjatjara or English) | Letter | Answer |
+
+| # | Pitjantjatjara or  | Letter | English |
 |---|--------------------------------------|--------|--------|
-| 1 | [Pitjantjatjara for:] Winmatji saw Unurupa | a | Unurupanya Winmatjilu nyangu |
-| 2 | [Pitjantjatjara for:] Winmatji said "Okay, fine." | b | Winmatjilu wangkangu, "Uwa, palya." |
-| 3 | [English for:] Umatjinya munu Winmatjinya punuku anu. | c | Umatji and Winmatji went for wood |
-| 4 | [Pitjantjatjara for:] Umatji said to him/her, "I stood on you!" | d | Umatjilu palunya wangkangu, "Ngayulu nyuntungka paltjunu!" |
-| 5 | [English for:] Umatjinya munu Winmatjinya Unurupalakutu anu. | e | Umatji and Winmatji went to Unurupa |
-| 6 | [English for:] Tjana karungka nyinangu. | f | They sat in the creek |
-| 7 | [Pitjantjatjara for:] Umatji said, "We came from the creek." | g | Umatjilu wangkangu, "Nganana karunnguru pitjangu." |
-| 8 | [Pitjantjatjara for:] Unurupa said, "Umatji stood on him." | h | Unurupalu wangkangu, "Umatjilu palunya paltjunu." |
-| 9 | [English for:] Paluru wangkangu, "Nyaaku nyura Itjinpirilakutu anu?" | i | He/She said, "Why did you go to Itjinpiri?" |
-| 10 | [Pitjantjatjara for:] Umatji said, "We went to get firewood." | j | Umatjilu wangkangu, "Nganana punuku anu." |
-| 11 | [English for:] Witurpalu wangkangu, "Yaaltjingka punu?" | k | Witurpa said, "Where is the firewood?" |
+| 1 | Unurupalu Winmatjinya nyangu. | a | Unurupa saw Winmatji.|
+| 2 | Unurupanya Winmatjilu nyangu | b | Winmatji saw Unurupa. |
+| 3 | Unurupalu Winmatjinya wangkangu, "Ngali karukutu ananyi." | c | Unurupa said to Winmatji, "The two of us are going to the creek."|
+| 4 | Paluru wangkangu, "Nyaaku ngali ananyi?" | d | He said, "Why are the two of us going?"|
+| 5 | Paluru wangkangu, "Ngali punuku ananyi." | e | She said, "The two of us are going for wood."|
+| 6 | Winmatjilu wangkangu, "Uwa, palya." | f | Winmatji said "Okay, fine." |
+| 7 | Umatjilu wangkangu "Yaaltjikutu nyupali ananyi." | g | Umatji said, "Where are the two of you going?"|
+| 8 | Unurupalu wangkangu "Ngali karukutu punuku ananyi." | h | Unurupa said, "The two of us are going to the creek for wood."|
+| 9 | Umatjilu wangkangu, "Wiru, palya ngayulu pitjanyi?" | i | Umatji said, "Lovely, can I come?"|
+| 10 | Unurupalu munu Winmatjilu palunya wangkangu, "Uwa, palya." | j | Unurupa and Winmatji said to her, "Okay, fine."|
+| 11 | Tjana mutukakutu anu. | k | They went to the car.|
+| 12 | Winmatjinya Unurupalangka nyinangu. | l | Winmatji sat on Unurupa.|
+| 13 | Tjana Itjinpirilakutu anu. | m | They went to Itjinpiri.|
+| 14 | Unurupanya karungka nyinangu. | n | Unurupa sat in the creek.|
+| 15 | Umatjinya munu Winmatjinya punuku anu. | o | Umatji and Winmatji went for wood |
+| 16 | Umatjilu Winmatjinya paltjunu. | p | Umatji stood on Winmatji.|
+| 17 | Winmatjilu wangkangu, "Nyuntu ngayunya paltjunu!" | q | Winmatji said, "You stood on me!"|
+| 18 | Umatjilu palunya wangkangu, "Ngayulu nyuntungka paltjunu!" | r |  Umatji said to him/her, "I stood on you!" |
+| 19 | Umatji munu Winmatjinya Unurupalakutu anu. | s | Umatji and Winmatji went to Unurupa |
+| 20 | Tjana karungka nyinangu. | t | They sat in the creek |
+| 21 | Unurupalu wangkangu, "Nganana Pukatjalakutu ananyi." | u | Unurupa said, "We're going to Pukatja."|
+| 22 | Tjana mutukangka tjarpangu. | v | They got into the car.|
+| 23 | Pukatjala, Witurpalu wangkangu tjananya, "Yaaltjinguru nyura pitjangu?" | w | In Pukatja, Witurpa said to them, "Where did you come from?"|
+| 24 | Umatjilu wangkangu, "Nganana karunnguru pitjangu." | x | Umatji said, "We came from the creek." |
+| 25 | Witurpalu wangkangu, "Nyaanguru Winmatjinya ulanyi?" | y | Witurpa said, "Why is Winmatji crying?"|
+| 26 | Unurupalu wangkangu, "Umatjilu palunya paltjunu." |  z | Unurupa said, "Umatji stood on him."
+| 27 | Witurpalu wangkangu, "Ngaltutjara." | aa | Witurpa said, "Poor thing."|
+| 28 | Paluru wangkangu, "Nyaaku nyura Itjinpirilakutu anu?" | ab | He/She said, "Why did you go to Itjinpiri?"|
+| 29 | Witurpalu wangkangu, "Yaaltjingka punu?" | ac | Witurpa said, "Where is the firewood?"|
+| 30 | Umatjilu wangkangu, "Nganana punu wiya." | ad | Umatji said, "We don't have any firewood."|
+
+
+
 
 ## Notes
 - This puzzle uses a fill-in-the-gap format within a conversational narrative. Each gap (numbered 1-11) requires either a Pitjantjatjara sentence or its English translation.
