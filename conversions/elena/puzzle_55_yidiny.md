@@ -4,7 +4,31 @@ Source: UKLO 2014 R2 / IOL 2013 Problem #1 — https://ioling.org/problems/2013/
 
 ## Context
 
-Yidiny belongs to the Pama-Nyungan family. It is spoken by approx. 150 people in the state of Queensland, Australia. The mark ":" indicates that the preceding vowel is long. ɟ, N, ñ, ɲ are consonants.
+Yidiny belongs to the Pama–Nyungan family. It is spoken by approx. 150 people in the state of Queensland, Australia. The mark ":" indicates that the preceding vowel is long. ɟ, N, ñ, ɲ are consonants.
+
+| Yidiny | English |
+|--------|---------|
+| guda:ga | dog |
+| buña | woman |
+| wagu:ɟa | man |
+| muyubara | stranger |
+| gaɟagimba:gu | for a white man |
+| bamagimbal | without a person |
+| bama:gu | for a person |
+| bimbi:bi | another father |
+| mularigu | for an initiated man |
+| mularini | of an initiated man |
+| buña:m | from a woman |
+| gudagabi | another dog |
+| gaɟagimba:m | from a white man |
+| biɲɟi:ngu | for a hornet |
+| bimbi:n | of a father |
+| muɟam | mother |
+| biɲɟi:nmu | from a hornet |
+| maɟu:rbi | another frog |
+| buñagimbal | without a woman |
+| baɟigalni | of a tortoise |
+| ɟudu:lumuɟay | with a pigeon |
 
 Additional vocabulary: mugaɟumu = fishing net (stem), waNal = boomerang (stem).
 
