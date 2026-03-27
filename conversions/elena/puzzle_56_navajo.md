@@ -26,7 +26,7 @@ A gopher is a small American rodent, about the size of a large hamster.
 | 12 | TsísɁná naɁashjéɁii yishish. | L | The bee stung the spider. |
 | 13 | Wóláchíí naɁashjéɁii biisxí. | M | The spider killed the ant. |
 | 14 | NaɁastsɁǫǫsí tsísɁná bishish. | N | The bee stung the mouse. |
-| 15 | NaɁazísí wóláchíí yiisxí. | O | The gopher killed the ant. |
+| 15 | Naʔazízí wóláchíí yiisxí. | O | The gopher killed the ant. |
 | 16 | Naʔazízí wóláchíí yinoołchééł. | P | The gopher is chasing the ant. |
 | 17 | Shash mósí bishxash. | Q | The cat bit the bear. |
 | 18 | Shash mósí yishxash. | R | The bear bit the cat. |

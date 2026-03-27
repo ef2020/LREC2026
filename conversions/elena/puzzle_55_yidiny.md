@@ -36,21 +36,42 @@ Additional vocabulary: mugaɟumu = fishing net (stem), waNal = boomerang (stem).
 
 | # | Yidiny | Letter | English |
 |---|--------|--------|---------|
-| 1 | bama:n | a | of a person |
-| 2 | buña:bi | b | another woman |
-| 3 | maɟurmuɟay | c | with a frog |
-| 4 | muɟa:mni | d | of a mother |
-| 5 | muyubara:n | e | of a stranger |
-| 6 | mugaɟugu | f | for a fishing net |
-| 7 | bimbi | g | father |
-| 8 | maɟu:rmu | h | from a frog |
-| 9 | wagu:ɟagimbal | i | without a man |
-| 10 | ɟuduluni | j | of a pigeon |
-| 11 | baɟi:gal | k | tortoise |
-| 12 | waNalgimbal | l | without a boomerang |
+| 1 | guda:ga | A | dog |
+| 2 | buña | B | woman |
+| 3 | wagu:ɟa | C | man |
+| 4 | muyubara | D | stranger |
+| 5 | gaɟagimba:gu | E | for a white man |
+| 6 | bamagimbal | F | without a person |
+| 7 | bama:gu | G | for a person |
+| 8 | bimbi:bi | H | another father |
+| 9 | mularigu | I | for an initiated man |
+| 10 | mularini | J | of an initiated man |
+| 11 | buña:m | K | from a woman |
+| 12 | gudagabi | L | another dog |
+| 13 | gaɟagimba:m | M | from a white man |
+| 14 | biɲɟi:ngu | N | for a hornet |
+| 15 | bimbi:n | O | of a father |
+| 16 | muɟam | P | mother |
+| 17 | biɲɟi:nmu | Q | from a hornet |
+| 18 | maɟu:rbi | R | another frog |
+| 19 | buñagimbal | S | without a woman |
+| 20 | baɟigalni | T | of a tortoise |
+| 21 | ɟudu:lumuɟay | U | with a pigeon |
+| 22 | bama:n | V | of a person |
+| 23 | buña:bi | W | another woman |
+| 24 | maɟurmuɟay | X | with a frog |
+| 25 | muɟa:mni | Y | of a mother |
+| 26 | muyubara:n | Z | of a stranger |
+| 27 | mugaɟugu | AA | for a fishing net |
+| 28 | bimbi | AB | father |
+| 29 | maɟu:rmu | AC | from a frog |
+| 30 | wagu:ɟagimbal | AD | without a man |
+| 31 | ɟuduluni | AE | of a pigeon |
+| 32 | baɟi:gal | AF | tortoise |
+| 33 | waNalgimbal | AG | without a boomerang |
 
 ## Notes
-- Q(b) (4 items: mark long vowels and translate Yidiny→English) and Q(c) (8 items: translate English→Yidiny) combined into 12 Match-Up pairs.
+- Context table (21 word pairs) and Match-Up table (12 items from Q(b) and Q(c)) combined into a single Match-Up table of 33 items.
 - Q(a) (mark long vowels only, no translation) skipped — not a matching task.
 - The core morphological insight is that Yidiny has a strong preference for even syllable counts, which determines the form of case suffixes: -gu/-ngu (for), -ni/-n (of), -mu/-m/-nmu (from), -bi (another), -gimbal (without), -muɟay (with). The allomorph chosen depends on whether the resulting word has an even or odd number of syllables.
 - Original puzzle PDF (UKLO 2014r2.3) was inaccessible due to captcha; converted from the IOL 2013 source instead (same problem).
