@@ -1,0 +1,119 @@
+============================================================================
+                            REVIEWER #1
+============================================================================
+
+---------------------------------------------------------------------------
+Reviewer's Scores
+---------------------------------------------------------------------------
+                               Relevance: 4
+                  Knowledge of the Field: 4
+                               Soundness: 3
+                                 Clarity: 4
+             Originality of the Approach: 3
+                 Significance of Results: 3
+                           Replicability: Yes
+                      Overall Assessment: 3
+                     Reviewer Confidence: 2
+
+Detailed Comments
+---------------------------------------------------------------------------
+Briefly describe what the submission is about: The authors present a new paired corpus of linguistic puzzles to be used as a means to evaluate LLM language understanding; the corpus contains two types of linguistic puzzles: Rosetta Stone (taken from UKLO) and Match Up (synthetically created based on the first one). The size of the corpus is 60 puzzles. The authors have also studied the quality of the synthetic part of their dataset by making two human evaluators solve the puzzles and assessed the ability of humans and LLMs to solve the puzzles from the dataset.
+
+Contributions: a new paired corpus of linguistic puzzles to be used as a means to evaluate LLM language understanding
+
+Strengths: 
+- The proposed technique allows to produce new sets of linguistic puzzles of a different kind, which can be useful as linguistic puzzles are quite hard to make;
+- The authors provide an assessment of LLM and human abilities to solve the tasks of their dataset
+
+Weaknesses:
+- There is almost no data on the languages represented in the dataset, and this data may be crucial. For example, I happen to know Polish and so I can solve the Polish puzzle almost simultaneously; especially if the puzzle is a Rosetta Stone type, a model fluent in Polish doesn't need any additional data at all, it just translates the sentences as its embeddings are already aligned. This is why I think the languages present in the dataset are important: the authors themselves note that. Of course, one cannot simply change the language distribution in the dataset as it is constricted with UKLO data, but this knowledge can give us understanding on the LLM performance. Another question for a discussion is, do puzzles involving resourced languages such as Polish say anything at all about the model's ability to solve them?
+- There is no reasoning on the LLM choice the authors made: why these two models? 
+- Why are there only two human participants, as well? It would more illustrative to use more participants (as well as LLMs), including those unexperienced in linguistic puzzles, I think. 
+
+Notes:
+There is a missing \cite tag (and a typo) in the beginning of 2.2: Åžahin et al. sahin-etal-2020-puzzling demonsrtate
+
+Generally, I would have discussed more on the language of a puzzle because it seems a very important parameter.
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------
+Reviewer's Scores
+---------------------------------------------------------------------------
+                          Ethical Issues: No
+
+
+============================================================================
+                            REVIEWER #2
+============================================================================
+
+---------------------------------------------------------------------------
+Reviewer's Scores
+---------------------------------------------------------------------------
+                               Relevance: 4
+                  Knowledge of the Field: 4
+                               Soundness: 4
+                                 Clarity: 5
+             Originality of the Approach: 3
+                 Significance of Results: 3
+                           Replicability: No
+                      Overall Assessment: 4
+                     Reviewer Confidence: 5
+
+Detailed Comments
+---------------------------------------------------------------------------
+Briefly describe what the submission is about: 
+This paper proposes a system for converting Rosetta Stoneâ€“type linguistic puzzles into the Match-Up format. The corpus created consists of a dataset of 30 UKLO puzzles. For evaluation, the authors use both human evaluators and LLMs (GPT-5 and Gem2.5) on the created dataset and compare the performance of the two. The results show that overall humans perform consistently across original puzzle and newly created pairs, while LLMs displays variability in performance and sometimes displays an all-or-nothing pattern.. 
+
+Contributions:
+The main contribution is a new dataset of 30 Rosettaâ€“Match-Up puzzle pairs. They also introduce a pipeline to generate Match-Up puzzles from Rosetta Stone puzzles, which can be useful for future competitions.
+
+Strengths: 
+* The dataset creation process and evaluation methodology are clearly explained.
+* It is a well-written paper overall and easy to follow with context provided as needed.
+
+Weaknesses:
+* The analysis of results is somewhat brief; deeper discussion of noteworthy findingsâ€”such as the behaviour of models on the Semantics/Morphology/Syntax puzzles or the observed all-or-nothing performanceâ€”would improve the paper.
+* It would help to include more human evaluators which the authors acknowledge as a limitation. This would strengthen the conclusions.
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------
+Reviewer's Scores
+---------------------------------------------------------------------------
+                          Ethical Issues: No
+
+
+============================================================================
+                            REVIEWER #3
+============================================================================
+
+---------------------------------------------------------------------------
+Reviewer's Scores
+---------------------------------------------------------------------------
+                               Relevance: 5
+                  Knowledge of the Field: 5
+                               Soundness: 4
+                                 Clarity: 4
+             Originality of the Approach: 2
+                 Significance of Results: 3
+                           Replicability: Yes
+                      Overall Assessment: 2
+                     Reviewer Confidence: 3
+
+
+Detailed Comments
+---------------------------------------------------------------------------
+Briefly describe what the submission is about: This papers presents a corpus of 30 pairs of linguistic puzzles built semi-automatically, where the first element of the pair is an original puzzle in so-called Rosetta format, and the second element a puzzle which has been automatically converted from the first element into so-called Match-Up format. On top of describing the conversion process, this articles also aims to evaluate how well SOTA LLMs perform on each of these formats (while treating various topics e.g. syntax, morphology, combinations of these, etc.), compared with human experts. Outcomes of this work include the confirmation that automatic conversion is a good candidate for speeding up puzzle creation and that both formats represent complementary views on the same linguistic structure. Experimental setup also includes a collection of strategies used by humans. Results show that  humans' performance follows the puzzle difficulty (which is not always the case for L!
+ LMs) and that LLMs' performances are on par with human experts in most cases (while exceeding average human performance on Rosetta puzzles). Match-Up puzzles tend exhibit an all-or-nothing binary pattern.
+
+Contributions: Contributions include a detailed presentation of linguistic puzzles, of their solving strategies by human experts, together with a simple procedure for format conversion, and an evaluation of SOTA LLM on these.
+
+Weaknesses: Human evaluation is based on two experts only. While evaluation is based on balanced dataset (in terms of difficulty and topics), one may wonder why not running a more exhaustive evaluation (by considering all combinations of puzzles). The way puzzle candidate solutions are evaluated may be unclear for reader who are not familiar with such puzzles. The conversion process is rather straightforward. The paper is lacking some discussion about the binary results for the Match-Up formats. Could it be the case that since the Rosetta formats leads to some generation process for solving rather than some classification task, it is more adequate for LLM by nature ?
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------
+Reviewer's Scores
+---------------------------------------------------------------------------
+                          Ethical Issues: No
